@@ -1,509 +1,157 @@
 {
-  "updated_at": "2026-10-19T13:19:59.375923+00:00",
+  "updated_at": "2026-10-19T13:20:46.467690+00:00",
   "topics": [
     {
       "title": "FG banks on stable naira, lower food prices to drive growth - The Sun Nigeria",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSU1lblVHRG9hNjRRV1VDdGhLOVdpdGN3ZDE3QTJzOFhxNjVNLU4tdzZUSTlGb3BnSHM4bEUtQy1YS1djOUR2ekdBWERGRVpCZDN5OFZkZHJxcUQ2OFVYdy1UYThhMndCU2wzU0ozQmV3b1o0aUpvWjhONmwwdFlRSHVsNA?oc=5",
       "category": "Economy",
       "source": "The Sun Nigeria",
-      "published_at": "2026-10-19T01:27:22+00:00"
+      "published_at": "2026-10-19T01:27:22+00:00",
+      "recency": "recent"
     },
     {
-      "title": "August Inflation: Food Prices, Naira Stability Drive Nigeria’s Inflation - Independent Newspaper Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRGt5YkNLVTcxcHNqWjVEV1VaVGxKVEFlZWNZZ2VPbU0ycVk2d2JMdWppaXM2OWZtN3JTYWtEM3g3UGhwa1J0RzhEd0p1bU02VkNkWGZ5YUE4X2Z1QmItUFFCSFdlX2hPdWlTRUVBanJRN1RLR2VzZzVRWVc0U0VxQ0dTdGlxbHZzeEo0bXgtQWpRV2twYXc1SA?oc=5",
-      "category": "Economy",
-      "source": "Independent Newspaper Nigeria",
-      "published_at": "2026-09-20T07:00:00+00:00"
-    },
-    {
-      "title": "Nigeria’s economic challenge is bigger than the naira exchange rate - Businessday NG",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNXzRYNjg2YlJpR3ZYUGdBODZ0OVY2MnVvRmpUYkp0b1RHa2lFR0Z6Um13b3dqX3hfbzJfZGtuZllmaGxqT0ZlandkMDlXM1d2Sjd6Ym9JNUM0UjN0NkFpN2VwWXg3T1Vyd2JtZjNUbnkxMkx3T3FSamhTRGJkZVhObnYwdHpmVF9PbnNyQVBJMndHaGxZc0pzeXBkMEhtRnZGcFQtbFBRNjl5UdIBrwFBVV95cUxOU3BYWUtDMXl3QWs2WEMxSUhGOUotdzNMU1p1X1l5UGxQWHMtLXVFc0ZGWjRKNFh5dW03dXVkbTJIbVd1aXNCQm5pOHU4cUNRVGhGOHhTLV9SWkVYQTZpbnhfTE1hU1FJVVRfeFkzYk1oNDdBdXYza0xLc0RxcFJyenRUalEyMDRrT1dvaFV2U2RsZ1FaMWJjczZqa2Q3ZlNfaDVtV2djQ3FKUlNITjF3?oc=5",
-      "category": "Economy",
-      "source": "Businessday NG",
-      "published_at": "2026-06-22T07:00:00+00:00"
-    },
-    {
-      "title": "A nation in the grip of despair: Can Nigeria survive its economic struggles? - TheCable",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNWJzOVpXQ295RlhZN0tlX21JSi1WM3pVZzhWOXR1SmRVUjRCblRoNVM0Z1JHaHZpYjBTbUlhSGxCZHpzY3VyY0dWZ1JENVpodngyYXU4MlVmd1dfdlRYaW51Z3EzZzIxekp6NXJ2aHVFQktXNkJGdVk1b2VEZkE2VnlUU2JpcEo2eVAxWUg5TFhRcXo3NEdRckhBcEthSm1I?oc=5",
-      "category": "Economy",
-      "source": "TheCable",
-      "published_at": "2026-08-05T07:00:00+00:00"
-    },
-    {
-      "title": "₦1,000 Indomie: What Nigeria’s Favourite Noodles Tell Us About the Economy - Techeconomy",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5URW5STU12Y1FpWTFFb251TjM0Ql8xalEzVG5CM1ZpUlV5RFdlUDUwZ3M4czV3SjFWYndyRlBQbTVOUTVYSG1CeVBqcWtiVXlNMEZNeGZpb2tqU0ppV1BLbVU1Zm91QUk?oc=5",
-      "category": "Economy",
-      "source": "Techeconomy",
-      "published_at": "2026-08-17T07:00:00+00:00"
-    },
-    {
-      "title": "Naira steadies as IMF backs Nigeria’s plan to remove remaining FX restrictions - Businessday NG",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUEdEZ2k5XzQ2SGZCZ2JwcnYxRWxjRWM1SjNNdzRWUDRqSXlhVTRyUjlRaVNrTTVmTVdnaE9lTlBxd0Q3ZW8wT2FkREVTeExNLTVJd241VDBiZGw2TTRxQ3BPNno5X0E4R2xzQlAzTC1hUjV3OHJEa3pFLW00bW5ZLVZQWEhJM254VWxoNnl1UmNkZkcxZkk1M0ZqSGdvZGswYkl6OHNhZkUtbG1XcFFjZ3dXMnVuLWV2UWVtT19R0gHDAUFVX3lxTFBxQ1F6b21vOFlzamNoYzhFWHhQZVpBV0Z1LXBvSTZMX25rUC1xbER0WVV1cVFqVE1FdXRTWmxMdkczNTRSbTdOQlQwR2RBV2F2aHBVdzBUN2E5R3JlMmJiYm5vWUtCaDQzcTM5YzlMSkQ3elhRanhhLVJMb2RId2wzODdUOXp3bWhHa1gtUU9nWmxDYV94QjNNd1c0TGs0NHFjZ3czd0poMnlvMnY3UExXZHZBaVdQRHBmYXJPQmxzRGVEVQ?oc=5",
-      "category": "Economy",
-      "source": "Businessday NG",
-      "published_at": "2026-06-17T07:00:00+00:00"
-    },
-    {
-      "title": "MPC backs expanded naira-for-crude deal to ease fuel pressure - The Sun Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa2pxUV9VMklwRXcxV0pfX3owT1pvaGJHSmJoZWJwUk5aS0lTY1RSU002OTk3N3JDbU91ZjZnSFB3QllrQ1kzdVpwTGtUWWVOR0hrMGtNYnducTJYeDV1N0ZsZlVUaTdsNmZBbWFGYW5SR2YwZ2tlTGhWMkMtUFpHRl9qdUdWV1k?oc=5",
-      "category": "Economy",
-      "source": "The Sun Nigeria",
-      "published_at": "2026-05-15T07:00:00+00:00"
-    },
-    {
-      "title": "Nigeria’s economy needs the naira to stay competitive - Chatham House",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQakxtbFNfNWFjMHdJd25VV2FQRmU3cVpIQnpaUnVoY0hNWFJZMTNFNmZkcFZJNVl1TWJYV2tpaEcwRC10ZGFuaGdhRDFqZEppQ016TkpkOWFadERuWEVoWlYyaGw0Tk1NbVY0SU1wV2o3TlA2c3h1Y2ktbmtXOTV1WkJaRDlVTWpUeHc?oc=5",
-      "category": "Economy",
-      "source": "Chatham House",
-      "published_at": "2025-03-04T08:00:00+00:00"
-    },
-    {
-      "title": "When prices rise in Nigeria, they rarely fall - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOEhUMTFfcTVGRW4tQ1UtWTdzcENFdy14bVZ5UExveGlVSXdaaVFWdVRtbE5HU0dUVGtmX0ttajhWaXlGWkRhYW04RS1kMkZ0YVlwNmxhc0Z0LUFNU1FlUmRuSEhsdk5pTmJTaW1SOTFSbFB1bklmeHFfS0xiQW81dHJNc0dXdDhw?oc=5",
-      "category": "Economy",
-      "source": "The Guardian Nigeria News",
-      "published_at": "2026-03-31T07:00:00+00:00"
-    },
-    {
-      "title": "Inflation in Nigeria is still climbing while it has slowed globally: here’s why - The Conversation",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlVnWGM4cGh4VnZwTDBkS21MNzBWanVJOG9tSUVWeWlsREpnZ0lzQlM4cHJINXBEUTItdXZQZ01pSi1hUjdtZlFmbGFPTXh1TUk5YzlHekRLU1NhblA4VFZINDdJdWVnNnNmdXN1N0RVRWtya1hnOE1YWW1mTlNiS212Q2J2VzNza0NNUmVUOTRQcTVTa0R2eXBGaTBqZVp4dkRTOTh5RUE1enJWYWhNT3BB?oc=5",
-      "category": "Economy",
-      "source": "The Conversation",
-      "published_at": "2024-03-14T07:00:00+00:00"
-    },
-    {
-      "title": "Nigeria Grapples with Soaring Inflation, Plummeting Currency - VOA - Voice of America English News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSXVhU0NjeHNsdnFfVk5wQk0wRFZWbXpOOXZudXJzUWZ5VmVGdVpybERDaWJ0QTlrb1d4My1vMm5RVWNVcE1vSzc3WDNnQW9hcFFQRUg4by1RUlVHNEp6SjNuR0dZUDh3UWRFNXRSV2ltRlRnbkMtZHlEcDdhUXRJWUgwMEN5WS1MYkp4R1o4RnlPZzdhQThLaWcyZ1dLeXY10gGjAUFVX3lxTE1iOFBJSWs4OEUyQjNjd2dNd0RCamU5d0Y0RVhOVS1NUERFMF9oYW55TXNuQmp6aEJpSlJWdUw3TS1wdjlaSmZ6alZwNENFMi1CRzEyWUswYnFBc0VJUEdsQjF4Y2pQZURrV3h3RGpPYWV0a21TWnBmNDd4UmtzbjF5cHVLektFMWgtV1lwWmhjei1DNWIxckctSzNfYThVTHJ4UGM?oc=5",
-      "category": "Economy",
-      "source": "VOA - Voice of America English News",
-      "published_at": "2024-02-17T08:00:00+00:00"
-    },
-    {
-      "title": "2026: CBN Projects FX Reserves At $51bn, 4.49% Growth, Lower Inflation - Channels Television",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYmN2Q3FoRC1vUXA4bzZPQlI2bTNSNkJwQjctNDlpdjBSYU96MHdrdE5qM2doZEpDb2lTUm5nQ3I0V01ZTnFaUkktbDM2MWoySGoxZDI5VUJId0dKMVRGRlUyR0gtZVFsYVEzNUNwc0RKX0dFTmRQUnVUYy04b3Q1c1JOT3ZDb252RV85cHd6cHdzTmlXNUJ2NUxFVkVFWWsxRVlqZ1FMcw?oc=5",
-      "category": "Economy",
-      "source": "Channels Television",
-      "published_at": "2025-12-31T08:00:00+00:00"
-    },
-    {
-      "title": "2027 Election: Stakeholders Urge INEC to Tackle Vote Buying - Voice of Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVdSVEhDUERyc1luS0VhcThXZ3NBaFRMRnhDRFBoUXNfU08zbk5ZcGIzS0l4akdEbjVBM0tJM3JzdFozUXpfU3Y5THBEaThIZHZ5SDVpWGxvdXMyd2ZER05TOEF2a0ptdEhrNHZSNU9wdWJEOWRxODlmLTRWQkJHZ2c5d3o?oc=5",
-      "category": "Politics",
-      "source": "Voice of Nigeria",
-      "published_at": "2026-10-14T13:42:29+00:00"
-    },
-    {
-      "title": "2027: Ex-INEC commissioner raises concerns over AI use in results management - Premium Times Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb3JMRmcwOUVNYkgtazBuaTFIWE9DLW9MdXNJUjZ3WnMyYnhvRV85Z1VQZlpRVE5RRUsyS1dXMWlNTnlkNGZNX1FCWUpzcHZUVTgyNWU5cEk2T3JDZk9OS0I0S1lySkdlVGN2U2VINHozdUNDVWpNUEQ2UlV5ZHRJSmU3ejZoNHVpZTZrZHdKVjlwQVF2Z1l0aGhrMkowR2piN25adld6aW9iRl9MMktDUVBHS3NQSzVTMFVyOTVReEQ0d2xqOVdXeW5feURKZw?oc=5",
-      "category": "Politics",
-      "source": "Premium Times Nigeria",
-      "published_at": "2026-10-15T16:36:07+00:00"
-    },
-    {
-      "title": "AI won’t decide 2027 election, says INEC chairman - The ICIR",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNnZEUW9mcVFuRkJicVVwVWdMcE1lYjN0MFIzal95ZHhQQ3JRN3NOa053VzRxX0RsckcwdFplYjktSThwSnJ2YU9JZXduckVRdm1hdzlEUWdFc09rOTQtb1BJM0lkM3ZyNUVZZV9DVU1TUGZIRk9iaFhHWTgwaG1VMHhn?oc=5",
-      "category": "Politics",
-      "source": "The ICIR",
-      "published_at": "2026-10-14T13:18:01+00:00"
-    },
-    {
-      "title": "2027 Elections: Timi Frank seeks Trump’s intervention, demands credible polls - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWWxidDdid1kwSG9BQ3pieEZYSkU4SWN2WlczM1F4U0o2RnNDbU1xMDQ2aXJTQW9wdkp2anB0MmJUcmhyOTJyV3NCVGNoTWt1U3hYUEhqYXpQeWtoUjBDN1U5WTFYX1R5czVvWjdoWFA2S2czWks0c252WVhGSXZyV1RSZmV2WmozUUVWRk96aHBHZ2FqVzlQNHJGYU5Na3RrQjNTak1oYw?oc=5",
-      "category": "Politics",
-      "source": "The Guardian Nigeria News",
-      "published_at": "2026-10-13T11:47:00+00:00"
-    },
-    {
-      "title": "2027: UNIZIK Alumni Urge INEC, Security Agencies To Ensure Credible Poll - LEADERSHIP Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMkpzUUU3eHN2a1VPak9UU2hFYl9VWlh5WEl1VWRxdFhBUHd5SkJIdUZ2YkEwSlVYM096RThXNjAxMmdMVTRYYWFiaVRubjhYcW1kS2h2akVhN1pmWVJCQ240bU5WdVhVLXFHZ083R1NyQkJSdzN3QXNfOVpRYWJTQ1VIbHhELUtSYkVmV1FfMVdWTTVURl90Rg?oc=5",
-      "category": "Politics",
-      "source": "LEADERSHIP Newspapers",
-      "published_at": "2026-10-15T13:32:13+00:00"
-    },
-    {
-      "title": "2027 Elections: Nigerians’ Desire For An Independent INEC - Independent Newspaper Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbUc0Tk1GVGt0Mm9jU3VqU3JNa2NhejZtM1VyVlpBV09tMnZwa2xmVm1uZk9SNThuTmZlNHZUNEd0LTZpakdtbnhfQVRTemd0UFh1Yk11c2dqWlhRS0NPaUFrcERCNHRwLTZKN3EtZTJPWUd3Zy1qbC1jUEFZUmRVMUlJazZ4UQ?oc=5",
-      "category": "Politics",
-      "source": "Independent Newspaper Nigeria",
-      "published_at": "2026-10-11T03:47:36+00:00"
-    },
-    {
-      "title": "2027: Let Nigerians choose leaders, Onaiyekan tells INEC - Punch Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDZwalgzTHp1c0tRR3Y1SU9kaTBraW1HenhuUXFkLVI0RmN3QVJSaE9BWG9NeF9fUlM3VnRkSVBfRnVLNjUxVURkelRlRU9Rc2Y0b0VuN0Uxc2ZJTnJKQzEtVlFPd095QkEzdDQ2Ujl1dWhXRXBJcFdkS1ZWbzBMbA?oc=5",
-      "category": "Politics",
-      "source": "Punch Newspapers",
-      "published_at": "2026-09-29T07:00:00+00:00"
-    },
-    {
-      "title": "INEC RELEASES 2027 ELECTION TIMETABLE, FIXES FEB 20 AND MARCH 6 POLLS - anambrastate.gov.ng",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0hBNkV5dkJWMWJob1dXalZHd2JwUkRSWHlQSjh0NkJIZzlvSmRncVY0YUxhYlBLalZaaGZIYUZYQXFka2FzbkgwZ0NhbHJGc01RemMxY1pWU0FtYnN2RGMxcVJCNW55MjMxVV9vR2RYRWo5MUtaNmN2MEJBaERhMHdsS0trVC1HbmFGMHQzX3g3RC1aYUxDbmVrbEtUdw?oc=5",
-      "category": "Politics",
-      "source": "anambrastate.gov.ng",
-      "published_at": "2026-08-15T16:19:49+00:00"
-    },
-    {
-      "title": "2027 Elections At Risk Without Adequate Funding, INEC Warns - The Whistler Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRnludktmQ05peDFvWm9Qb3c4SEYza2ZuY3hSZ0RfNl9XSGdNbldqQUNGbklJS2RWYUJ2SnlfZ3kzbmFBVnBZOXJGeFBIeUY1Z0xUd0dsU2hzYnp6RHVjc012RkhrUTI2bmpRYTZIUGFCbnppdFo1VW5nVjJ2SnNTbG9vOWJGZ1EwT2c?oc=5",
-      "category": "Politics",
-      "source": "The Whistler Newspaper",
-      "published_at": "2026-09-23T07:00:00+00:00"
-    },
-    {
-      "title": "Adequate funding critical to 2027 elections success —INEC - Realnews Magazine",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZDRpZUIwZExrXzU4eVlocmRPenpaSWRtdlVINWMyUUMycl81NlpvOUlTYVdFcGlVTUhlZGxJRU8xZHF5MUpaMDVWS19sQTgyeGplSkI5bm4zNF92UG50SHZMVV9Rc3dMN1hxTFBraUJYaHJQWUJzRWFiOUNqTVMwdVhFU091emFYYWw5b0h4UQ?oc=5",
-      "category": "Politics",
-      "source": "Realnews Magazine",
-      "published_at": "2026-09-24T07:00:00+00:00"
-    },
-    {
-      "title": "2027: INEC Chairman Says Election Security Depends On Adequate Funding - TVC News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS19nbVZjdWRQdzdWTEpxWTdMXzZQNS1uZHFaRkg0NWYyYVFvZi12THh1M0hjTWxCb0lic0xkMU1yb2NFMW5Ib2ZuZXhEX1VaUFgwZGQ1NlVNM3NKVXdwY3lBRmhOSDNUOXFMeDBhVEFJckhGQldrS1lhSzVKSEtacy1Ka09QQWdhb1p4bTdBVlUxRVZXNFlreQ?oc=5",
-      "category": "Politics",
-      "source": "TVC News",
-      "published_at": "2026-09-23T07:00:00+00:00"
-    },
-    {
-      "title": "At Editors’ Conference, Amupitan Says INEC Deploying AI to Detect Result Errors Ahead of 2027 - THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY1pkbS1qVTNqZkQ1WG92OTN6dGEyemdmaUxFaFYwUkVvQzhhSktKY2h0T3VNZnQ0VHJIUjNWSkxTSXZQdUJUbTNTZ3NiLTZSRnJQa0I2NUMyd1F0WkZiV3YyclN6R0lLZEFpeUdCTHc3MmJKZFFQQm5BQ0NSVDNPdnNaMnQ3M0haTy1yeUZEVE1ZZ3lSTFpOVjFZVnVzdWhfN0FPYWJ6QnIyV0JjS2c5eWRwd0FkUlpNblFlWTQyU1I0eUo0dGVta2tZUQ?oc=5",
-      "category": "Politics",
-      "source": "THISDAYLIVE",
-      "published_at": "2026-09-25T07:00:00+00:00"
-    },
-    {
-      "title": "Judge presidential candidates on policies, MAP urges Nigerians - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR1NJN0JyZnFzMy1jVnVfVHJvcVczOWg1SWlaNkFOcXdoVjd2S2UyS0wtSDdOcURSdUkwdFAxU2JWV2V5bGlkbERmcjh1cWlUcmFRM0gzNktPYjAyZFFiZGpGZWRKOFJ5Mmtway0wcWJTOHBTU21NbDUxcS1FQVlJV3BGTVFDY3loa2hfZzFvVUo?oc=5",
+      "title": "Tinubu’s Revenue Reforms Boost States’ Allocations, Create Fiscal Space – City Boy Movement DG, Shoga - The News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX2RldkVBWXdwQ0ROMzNYdThRc2Fmd25oaWVoSTIxTjMxT2RGQVY1QzFpTDJaMnR3YnBUS3F3U1RQN2dFUEU1bkJNWWg1aDlPNGNGSm9BaU9FUHdfVGJKMjhuM1p1VU50OG1fX1RsR2dlQkhTa3VIYlU3aUQ5OTVqRUQxSUlxemlmenNScXhibDVrWEtwNXVZelJGdVBRSmVpX3dxZHZMSXo3NElVZUpaT1k4RS1PeTU1T3ZFYXBXS3dac2hCUDVVdGt6WkthWUNWM2Q0?oc=5",
       "category": "Public Services",
-      "source": "The Guardian Nigeria News",
-      "published_at": "2026-10-16T12:50:00+00:00"
-    },
-    {
-      "title": "MAP urges Nigerians to assess presidential candidates ahead of 2027 election - The Nation Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcFoxZU9BUnBKQWhfLS1ERnl3eURUTm5FaGpuMFNHRlNDWmdSMEMwU3NhZDdGV0h1Y0hnOEdWREhFWlFZd0VmY1NuXzZKYnVrM1RNSkthbmxxNDdSNkdPa3FnYW5DQTUtZnlpbndTUHBVU3FMdFJnaEdwdUlfVzdZcHZjanlqQ0F2R0dxQ21wc1JYeVNma2FsdHVhTFJNSGtRNnlWei1USm9VTUXSAbABQVVfeXFMUFVZSzFJYjZPeUFyd0c1QmJjOFlaNGtKcmVkYVJkU3BzR0N5N3g5cGx2ZVduWFNQd25oaEVad0pxZHpDU2VfQmVSN3dGQnZFQlhyZFBtSzN4UkVzbU9hVzVDbkpJN1RBaXBKX1Q2c2tkY0M2ejdzZFFSajJmN3hIT2N4NS1YMDFWYUJCXzRueXFOTkdpRUhvSmpBSWQxZjNVcjVWTkJ0WGpsbVBOcl9GT1k?oc=5",
-      "category": "Public Services",
-      "source": "The Nation Newspaper",
-      "published_at": "2026-10-16T11:08:40+00:00"
-    },
-    {
-      "title": "Atiku’s targeted subsidy, CNG buses and 30-day fuel discount - Blueprint Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONzQzLUJUQTVyb1pMaHBZRThyR2FZNE5NQlc5OWdpWUFqZ25YZHEwc3M5UENZMzZCVG1RMmZUWU5oXzM0Snd0SWxPdDk1TWM1NUJzZ2JuN0VfaDdmSXlhUk1hTjcybXlRZThBWnUyX19FaE9WMjRpclpLV2RQNUdRak9GUTNHVEE?oc=5",
-      "category": "Public Services",
-      "source": "Blueprint Newspapers",
-      "published_at": "2026-10-14T13:09:47+00:00"
-    },
-    {
-      "title": "Nigeria at 66: The Changing Character of Its Politics - THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWh0MVBpclJzVXF2WUR4NTNrODE2YnNkQndBcGZpY3NCbnVWRlBkTXRYWlJ2Qkc2MGZNdDBoSXBqcG9LUnM3ejNnS2NrVkV3MTRibmJxZmJSRy1xTVdPWlMyYVFodVR3VTY2SnlZdzl3cURMWjQtR19pRDNCNjVFR0dMY0ZfR2lCNUcwVFVvdkVPRkhna3JB?oc=5",
-      "category": "Public Services",
-      "source": "THISDAYLIVE",
-      "published_at": "2026-10-01T07:00:00+00:00"
-    },
-    {
-      "title": "2027: What Tinubu, Obi, Atiku, others have promised Nigerians so far - Punch Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRy1hbWxvVjdyN2d6QWx2azM1Q0hidjk5V3N5UFB0MmNYekxtN2ZLRHNiUXFaaDFSZVM1UG1RcEh3WVk5TGtNX0t3M09NZUljQXVoU01hazNFa3pTRVUzdDNuWFZha2lVWnpvNklFSFhnSlJ4aElGSDVDXzZrTzBiUHVXbGdsUjN5NU5TcTN3?oc=5",
-      "category": "Public Services",
-      "source": "Punch Newspapers",
-      "published_at": "2026-09-29T07:00:00+00:00"
-    },
-    {
-      "title": "Nigeria at 66: No true independence in fear — Northern Christian Elders - Vanguard News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPODdpbnl1YzRxcDlUNS1VcHBNcDEtM1g1aDNYSTU3Y0VNNWdFbHZ0RHhMSmtrMS1aUURRdldnZnI2NEZ5cWNDenZiSkgza2VZYkxDV21qRXZpazhCTkFrU3dNczJIaWNHR25tekhSVlRpSERJdVEyYzNDUzdOY0hjT3RsaUt2MlRQWDl3WVVyUVJtam1pTEF2ODJxb0dFXzk1WXBWODBoNjTSAa4BQVVfeXFMTU4yNFlqbWk3LS15TGhjUGQzVG5WNzJNX2NSb09ObjVsNmhZX3BwSHFjbEJUaG1GaTRVQ1pnRHM4SnlVakpGYS1ONU5qazVFbHRYekh4Qjc4b3d5MXlnb0NBX1BNOGdMU0YxSFExOThRa05lZXJzU0NZVVpTVnNoLW0zZlpxaXk3V0tjOTVldWwzaFdpcGpMM1V1dUNkTHF3RVBKWGpRR1d6bWFYRzR3?oc=5",
-      "category": "Public Services",
-      "source": "Vanguard News",
-      "published_at": "2026-09-28T07:00:00+00:00"
-    },
-    {
-      "title": "2027: Lagos APM faults exclusion of Laja Adeoye from Gen Z town hall - Tribune Online",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUEc1UG5tMllxaTVObWllZDdabm55MlhSMGhLRDVQMmhNRWJlb0lmZ1dPSUd6REsyNVdIWjM2S2ZJLTlzdWZYN3ktVmRhVnREN0ZTRFlyYTgzd3JfTTdFSEVYREcxQmczYTBaQmNWcG1WQVI4cEJKZHR0d1E1cUhiTU9WTzFaN0gwck9IckhXLTE0bF83SllLUldPaXY?oc=5",
-      "category": "Public Services",
-      "source": "Tribune Online",
-      "published_at": "2026-10-07T07:00:00+00:00"
-    },
-    {
-      "title": "Nigeria At 66: Path to turning political survival to Nation-building, prosperity - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSW9TU3d3dkE1bjNYUXEyMkpDNFVKZ0cxYmF6Si0waklBbkxzbTRjOFpYb0xRNjFiLTVGbkFOUzM3MHpkaXZXN1dMcnQyY2V2dmFGcTBSQ2dCajBXT0Jnc3ZiRWpwUHhmTGhHcVBSdEZyRnBJS3FwdGtZMHd4QmxRR0ktZG5ySnA5N2c5ZnlIcUFCaTBnMEJ4X0h0Z1lLVGd3NG9LZ211bEgxUktr?oc=5",
-      "category": "Public Services",
-      "source": "The Guardian Nigeria News",
-      "published_at": "2026-10-03T07:00:00+00:00"
-    },
-    {
-      "title": "2027: Where do Nigeria’s political parties stand? - The Nation Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUlZZ0hEbFVncm1hM1hiZDhBOG1HOTNvUDEzNnotaDh2dDFhODV0bVdqUC1HZ2tIa3AtOUNueVU0eFNNckhaaDdMU1JDRHBjSG12c2p6djViLTZRTy12MGxiVTRHMG92MktnNUEwcU1DOVhqRjZLUlpvRUNNZDRxSHR5SdIBiAFBVV95cUxPa05OV3MwRkl2VlpZRFp1VHBjZlpjX3hqZjZGek5hM25ocXhYTkF0dGcweVVTYkZCdlhjMjBOWGRydUNBOGlmQnJ2d2Zfc2J6ai10WUZpMW0yZkhjbEZIZC1DUHNiLXZib1FjSXNocTJlOWFJaGhnR05CSG41Ynkydkd3OEVrRjhV?oc=5",
-      "category": "Public Services",
-      "source": "The Nation Newspaper",
-      "published_at": "2026-10-07T07:00:00+00:00"
-    },
-    {
-      "title": "2027: From failed promises to fresh campaign pledges - Punch Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzRWpMWDNmQUhhNFV0eDdJVFJXcmFYcUtQX3ptX29WbEQ4dEJ2ODhXM0JIVlhwaXBsOVV6WHd0Z1RvenVoM0tDTE5DM0dSQ0dqN1dJZ0lHdG8xZjN6Nzc3MXVkWm5fZHh4c0MyNkc0bzdZSU01N1FLdm1tNTQ?oc=5",
-      "category": "Public Services",
-      "source": "Punch Newspapers",
-      "published_at": "2026-09-27T07:00:00+00:00"
-    },
-    {
-      "title": "Atiku, Nigerians Need Bread, Not Foreign Investigations - Independent Newspaper Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUM1VDNJSUZ2VWFxUDJ0dlB3cHJPOFRjNU5xWnNCYmZtWXM3M2RKaW9EWDdnZ2s0emNvSUNkODgwY3R4bWprWDEzREVneFZ0QVNaRHNURnRTWGNtemhRb2tNQ3VFNDJKdjdwLUJsYUxsRGVuYXpPZkVxa3dnaDJtQ0RjNA?oc=5",
-      "category": "Public Services",
-      "source": "Independent Newspaper Nigeria",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "Record allocations: FG, states, LGs under pressure - The Sun Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTVXNISWJSRHVvbGdHMm9wNlhaQWNyNzJQNnBoYXI2Rzk3WE1jNEFoZmNhaDNUdnBGNnNfbFlhQnBHNFQxY2U2OXdzUHVTQTU1aHdHdFg1a2FnU0dCVEl1SnJ6MEl2S1dMYzNxYUgxbFlOQTlLYW5n?oc=5",
-      "category": "Public Services",
-      "source": "The Sun Nigeria",
-      "published_at": "2026-08-29T07:00:00+00:00"
+      "source": "The News",
+      "published_at": "2026-10-18T19:24:00+00:00",
+      "recency": "recent"
     },
     {
       "title": "Moniepoint UK Posts 1st Month’s Revenue After Customer Migration - LEADERSHIP Newspapers",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQklUN3JFNGtrdDBtVVMzZktOTUlaSmlVS1M3dlJNY1UzZXlXN1hQaFlQYUd2NnUyTmt4OGhaNVpSRUYwQUdpbGpheXBvNlBGRXJsZVByX3RpWkxfc1dqdm00ZkR6aDFMaXFqM3FUYWZyRzRFbkZOVGphalAtYmI2UmtaZ2Z5UlBLR0FPMGFpWQ?oc=5",
       "category": "Diaspora",
       "source": "LEADERSHIP Newspapers",
-      "published_at": "2026-10-17T15:32:54+00:00"
+      "published_at": "2026-10-17T15:32:54+00:00",
+      "recency": "recent"
     },
     {
-      "title": "Where Do Most Nigerians Go? - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93MFBZSlg0UGRTZWVtVnZBVUE2YUo0RDlTV1VRTDcwWlNleXhVUGp3Ym52LVB4Z0otd3ZYejQwX2FfRjl6T3VUQ0RHWHVDTjEwd0RjdHJYMnc3RlRRVlJZaUFfZDVDb00?oc=5",
-      "category": "Diaspora",
-      "source": "The Guardian Nigeria News",
-      "published_at": "2026-06-03T07:00:00+00:00"
+      "title": "‘Tinubu Must Go’ vs ‘Tinubu Must Stay’: Forces behind campaigns - Daily Trust",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcnFGUGVPTWhVOURxRmx0VklQSUNMVGoweFduRElncFg1VVY3TlA3SGJ0TDRyeHEwcFB2emxsVWFPQUQ5OHI0OGlWay1Ud2VIZEI1M2lCOXMtZl9JbERzMDdLYkx2Wi1DMlJXLWl3QjFKd25HaXFyTkFoOXZSYnNqWVVDS2hWWlZUdEE?oc=5",
+      "category": "Public Services",
+      "source": "Daily Trust",
+      "published_at": "2026-10-17T03:09:01+00:00",
+      "recency": "recent"
     },
     {
-      "title": "Nigeria relies on diaspora remittances for economic recovery - African Business",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLUU1Ymt5TzE0RE9VeE9vZ2xjZ1owazU2Z0ZRcmRWUzQ4OFZIWjhpcDc1c3VKRXVsQktHVUtnc2JoRWc0MTdqZktaYmlERmZiV3lSQjFfMWRKVjg2Ym90SEJ5c1RfYUxQTElTLUkwRDFENzNaWFdXcjJkdjBOS3M2aU15VllvZTJOOFJZNy03ZXQzZFJVbnlSNkd3OVhlMUpKc1BsX0FHaERyR2l3?oc=5",
-      "category": "Diaspora",
-      "source": "African Business",
-      "published_at": "2024-08-03T07:00:00+00:00"
+      "title": "2027: Ex-INEC commissioner raises concerns over AI use in results management - Premium Times Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb3JMRmcwOUVNYkgtazBuaTFIWE9DLW9MdXNJUjZ3WnMyYnhvRV85Z1VQZlpRVE5RRUsyS1dXMWlNTnlkNGZNX1FCWUpzcHZUVTgyNWU5cEk2T3JDZk9OS0I0S1lySkdlVGN2U2VINHozdUNDVWpNUEQ2UlV5ZHRJSmU3ejZoNHVpZTZrZHdKVjlwQVF2Z1l0aGhrMkowR2piN25adld6aW9iRl9MMktDUVBHS3NQSzVTMFVyOTVReEQ0d2xqOVdXeW5feURKZw?oc=5",
+      "category": "Politics",
+      "source": "Premium Times Nigeria",
+      "published_at": "2026-10-15T16:36:07+00:00",
+      "recency": "archive"
     },
     {
-      "title": "With transparent policies, processes, we’ll build reliable financial services for Nigerians in diaspora —Owoade - Tribune Online",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVGNYMldNUjhIYzFuZm1meEpKN0FmOFNiMVRjQ2NydGhhb1M4VDJSazlzMEVZcGtZcUE4b0swZ1dNOHFrN2F2MzNVV2FqM2h5OVg1ZWJySjVkaXJlb2NnZEc3dkNZVF9wUm4tZ3daZG15WVFsVDdWYUZLS2lwMExGNGR5TW5KTWJVbi1JeHhPODhKU2MtYVNLLUk3OTA2SEp2NlN1clhLNXdtSXVSdHFpOXVGazhBS1V5WXl5R2xjVWNHc05ZYmJXdXdZMGtlZUI3dkE?oc=5",
-      "category": "Diaspora",
-      "source": "Tribune Online",
-      "published_at": "2025-12-21T08:00:00+00:00"
+      "title": "2027: UNIZIK Alumni Urge INEC, Security Agencies To Ensure Credible Poll - LEADERSHIP Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMkpzUUU3eHN2a1VPak9UU2hFYl9VWlh5WEl1VWRxdFhBUHd5SkJIdUZ2YkEwSlVYM096RThXNjAxMmdMVTRYYWFiaVRubjhYcW1kS2h2akVhN1pmWVJCQ240bU5WdVhVLXFHZ083R1NyQkJSdzN3QXNfOVpRYWJTQ1VIbHhELUtSYkVmV1FfMVdWTTVURl90Rg?oc=5",
+      "category": "Politics",
+      "source": "LEADERSHIP Newspapers",
+      "published_at": "2026-10-15T13:32:13+00:00",
+      "recency": "archive"
     },
     {
-      "title": "What Country Has the Most Nigerians? - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tQ09qTWFxLVZ0cTU3OGw5ZGcxY1NUZVZubTI5ZHhEM1hqWVU5VnpvNE9QQXdJaTBNSnExaDBvd0NmcUE0cjN4VEgwY0FGLTRaSHFqZy1FRVFtVWtvWk44ZHNJWV8tempfMklnREszY1laamc?oc=5",
-      "category": "Diaspora",
-      "source": "The Guardian Nigeria News",
-      "published_at": "2025-12-24T08:00:00+00:00"
+      "title": "Amupitan’s AI plan for 2027 elections raises questions - The ICIR",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQelhzanFXU0xpbmlBc3FvU2k5S1NWMTItNzVYSXBCOE54MS1UcUw1QkJpeWlJblY1MFVUV2RkMFdHb3dJQm1PQThEdjRMRUVrajE4VTE1YS1vT1lOdTZqYThUV1dMVkVhb2gtOVdzZm9Zb2JJUExRVzk0dUE1ZmJTek9YMi1Vdm5rYlE?oc=5",
+      "category": "Politics",
+      "source": "The ICIR",
+      "published_at": "2026-10-15T12:28:57+00:00",
+      "recency": "archive"
     },
     {
-      "title": "FG, Nigerians In UK, US, Others Strengthen Engagement - Channels Television",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUVdYa21Lc2pDWUVwcFVLLU9uc0cxRGdXYlR4Tm1nRUxNN2RMT0JTNHpKTzhTWGR5Q2lIVDNKMklTMTlmRnNWX0I4Wk10a2JzblA5VUZJVHM4eU9MN0tVRjNLeEh3MEF0Mk8wWFpTZXpMbHZhRzZlamFweFVycmJwckZOWkhrU2s4UTRNZVdKVVVfOVE?oc=5",
-      "category": "Diaspora",
-      "source": "Channels Television",
-      "published_at": "2026-01-08T08:00:00+00:00"
+      "title": "2027 Election: Stakeholders Urge INEC to Tackle Vote Buying - Voice of Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVdSVEhDUERyc1luS0VhcThXZ3NBaFRMRnhDRFBoUXNfU08zbk5ZcGIzS0l4akdEbjVBM0tJM3JzdFozUXpfU3Y5THBEaThIZHZ5SDVpWGxvdXMyd2ZER05TOEF2a0ptdEhrNHZSNU9wdWJEOWRxODlmLTRWQkJHZ2c5d3o?oc=5",
+      "category": "Politics",
+      "source": "Voice of Nigeria",
+      "published_at": "2026-10-14T13:42:29+00:00",
+      "recency": "archive"
     },
     {
-      "title": "Giving back: Exploring the scope and impact of education remittances to Nigeria - World Bank Blogs",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXdmbzhwNzdUY3lMVS1mcG9oRDBURmhxa2lTLV9OVFNHX3JHWm1TWVpJa1BVYTBINlRtaENXN3VNTk8zdEFZWEQtcllNc2wzT2gtX01wTnJkUXU4di1LQXZtRENLdTNDV3Z1VC05UkFnUU1IaUhhalZNREpXaDNMRXVDM09oSmEyQjNzOGpMVWdrMmx0Vk9oVmJKeVJEM0FTSUVXZ1FHb2FmMkxoSmJJ?oc=5",
-      "category": "Diaspora",
-      "source": "World Bank Blogs",
-      "published_at": "2023-05-04T07:00:00+00:00"
-    },
-    {
-      "title": "Nigerian fintech bets on UK diaspora with remittance push - Semafor",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR0tsOWd3TDFJdkJIeXRVMjlvc1ZINjkzV3Nzdzh0cDdpU2Z1R0Jyazdvc2hoYUl6Q19heVcydkpDSUJGVkp1SWV1Sk05cktubGZFT2FfQVVkaHluRm1FU0N1RWR6czJGb0NDZ1dWbjlFQ2Y0SmtkWmtKbFpmc0M1eVhBSS1HTll2bjc2ZUlFVDdET3pKZlNfd3RpVTc1Vmt2cWc?oc=5",
-      "category": "Diaspora",
-      "source": "Semafor",
-      "published_at": "2025-04-18T07:00:00+00:00"
-    },
-    {
-      "title": "Turning japa nation into Africa’s true giant - TheCable",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NYXJsVjJEY0Nwa0tqTjZhYTRtNUpmTTVISkFFNV9iRnBzMmVDN0tWdjhVLURoMFhiaWgtTi1KVG96Skh0cWU4RDByMEp0dHpnTXkzck5lZG1fN3AtS0lZREw0NkR0UGhnRjFpaWlIeHB4cElvbzhj?oc=5",
-      "category": "Diaspora",
-      "source": "TheCable",
-      "published_at": "2025-10-13T07:00:00+00:00"
-    },
-    {
-      "title": "Moniepoint UK reports first month’s revenue following customer migration - Businessday NG",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRnNRek5aTldYdXRpVjZ3MHhFeUx0LUNhR2JlQ2tUdENsVG5QYUJqRlhNaWlBVGdqdFJyNk9sR3pLdVUzdVFnZm9PQnpzNmhoZlRYRFBySXRjeXVhd3hVaXAtcnM2VVppd3I4TU9JcE1jeHJVX3RNYmhyV3JkZ3pIOEFhT0VpYnUzdzd6VmpMa2w0Si1IRDF5YWFOQmV5R3JiSWIzdXZhLWw3UE1GRzNVRHNNbzJVRTJmYXfSAboBQVVfeXFMUEZzUXpOWk5XWHV0aVY2dzB4RXlMdC1DYUdiZUNrVHRDbFRuUGFCakZYTWlpQVRnanRScjZPbEd6S3VVM3VRZ2ZvT0J6czZoaGZUWERQckl0Y3l1YXd4VWlwLXJzNlVaaXdyOE1PSXBNY3hyVV90TWJocldyZGd6SDhBYU9FaWJ1M3c3elZqTGtsNEotSEQxeWFhTkJleUdyYkliM3V2YS1sN1BNRkczVURzTW8yVUUyZmF3?oc=5",
-      "category": "Diaspora",
-      "source": "Businessday NG",
-      "published_at": "2026-10-15T19:30:10+00:00"
-    },
-    {
-      "title": "Nigerian remittances startup Africhange launches in UK - - Disrupt Africa",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2NIV0g5bXEyUmJ4T2RPTGFTVWRYbkgwUnNnSHA0ZWZTYjhueVJtdHdPcUYySEQ1Nm5hY0xyOTZtcnNaYnJ0V1RmNlBGQVpERmNJMXdrOFdzVUlEYU5sWVhIOHNjSnlmYXRHZk41M0tSQzc3NG9LdkJYSE14Z2tYLWR1ZHJ1SnVobFcyMFd2T2p2ZEZXMzRz?oc=5",
-      "category": "Diaspora",
-      "source": "- Disrupt Africa",
-      "published_at": "2024-07-09T07:00:00+00:00"
-    },
-    {
-      "title": "Top 10 Diaspora Remittance Destinations in Africa - Dabafinance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPakxaeENNd01VX1FCNmJsNTlpcmFoU1FybklneVVTV0ZXU2xWN0xJRm1MVy1EWW5hMTJHby1UU1dkWWZudnA5RnRfQlBCRzBOVXVjYzhiOWcyZFB4MlNJejFPYkNLeG4yaXV0Mk1tbjUyd25yVW05T3hfMHM2MXNhUVQtX1UyTXdldGFFNDlB?oc=5",
-      "category": "Diaspora",
-      "source": "Dabafinance",
-      "published_at": "2025-07-20T07:00:00+00:00"
-    },
-    {
-      "title": "How Afrobeats’ maturity is driving diversification across entertainment - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ1hEMEluY2c4SnVON3pyekh2MmEwSTF0SFlwZ1ZKOTM1ZHp6ZWdzdGpEY3Y4NTNQUG9URnZOT3RZSFZaT2hpN0lzc3hxOWpvVzdRbGwwUGtweTJRdlU5MDJleFBLZnhtM0hrcjVXZThkTUM4RXktZlpnRGlPZE9IZTVkck5zTzM1Qk5YOUFiMGFhRThWVTNFNEppQzNmSzdNTjN4dQ?oc=5",
-      "category": "Entertainment",
-      "source": "The Guardian Nigeria News",
-      "published_at": "2026-06-20T07:00:00+00:00"
-    },
-    {
-      "title": "Nigeria’s Cultural Exports: Afrobeats Breaks Out, Nollywood Builds Inward - HipTV",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tTXdWYk5GejVQYjZyU3ZQTzJHWFZiYlMyRWZuQ3RVM1VjTTY4SGFMNk9HSGc3UWl5bFhJcl9Oa2VMWU9UTlJEUTNYdVlUQTJ4RjFZZzgzc1ZzSHBrNEdFRmhpdXZvX1FGSnBZbUctMA?oc=5",
-      "category": "Entertainment",
-      "source": "HipTV",
-      "published_at": "2026-01-30T08:00:00+00:00"
-    },
-    {
-      "title": "Nigeria’s Entertainment Industry Is Now Worth $10.8 Billion - The Nation Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2dEVVU3VV9yV1RTdkgtMmlvY2tJZ1hSWFgyZ2VhLVJZYWFZVUZwRkhnLVl4cXNyZTVGbkNJQk9uRjFsemx3RXlLYUZiOExQd0dZdG9ZQnI5WGJ0c3pmemF1UHZtUS1ITTlSVzVoY3pSWFdNRzJxMDR6Mnk3NW0zX2VFdmhCc0xnYzgzczVETDE0Z9IBlwFBVV95cUxQeEZLWDVZUTNvaHFSWWU1clc5SGFiUXZpLTQ2SjFEdFozcFJzM1JjUklrZHctTjZ5Y29zRDdweHp6b045VXk0MDd4TlNOUFVXU3ZIUW0xZWZIeThEaVU4dnZidlFyZ2pfSUVPcFRKclJPVTlRN052dExBMUhZMEE4RHNnMmlwZnNPcTdLeWtWN29mcktVYjFr?oc=5",
-      "category": "Entertainment",
-      "source": "The Nation Newspaper",
-      "published_at": "2026-04-30T07:00:00+00:00"
-    },
-    {
-      "title": "More Wins For Nollywood, Afrobeats As Toyin Abraham Breaks Box Office Record - Channels Television",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDZLajRqQzZYc0pJTlZOcDJ5eFEtTEdqU2JWMTVEOVVfdFFhamc4b3dZbE5uVm1wUVpwNHFEN0tDNmZXd2tYaEtZYUdXS1ZzcndsMlNOZFBqQ2c1aHZGRFRBRzAxblVEOEQxaEZFb2llWG9VQnVtMEpreGRra1ByOWtIVlhWbzNYbktGLVQ0OW5OcENsbjNVV3E5U2liMkJDQ01SMy1NaGVsdmxPaEtrMkdUTmY?oc=5",
-      "category": "Entertainment",
-      "source": "Channels Television",
-      "published_at": "2026-01-29T08:00:00+00:00"
-    },
-    {
-      "title": "Julius Malema Hails Nigeria's Banks and Afrobeats, Sparks Africa-Wide Debate: 'Learn From Nigerians, Stop Wielding Pangas' - Tell News Magazine",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSGExSWwwb3lXenJ1bXlJQmhfUkE3ektWcVFsMDNhUHZFUzgzX1VkVG1HbDhnRklCajJfWEFFeWVXcmR4eTNNbk40RUdlRlRZaDNYRUpnZXV2NmpxLUdQOTk4d1JwR1FJUnR2NFRfRTBGQ2VjRGo0SjAzSjJUNG9XbVNSLW4?oc=5",
-      "category": "Entertainment",
-      "source": "Tell News Magazine",
-      "published_at": "2026-07-16T07:00:00+00:00"
-    },
-    {
-      "title": "Afrobeats’ uneasy relationship with queerness at home in Nigeria - Erasing 76 Crimes",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR0xiQkhETTU0TTJ4NmVXUWhFMkxYbDRHUDFBZ2dLTVpXdjFGT2Z5eFYtWEFoREJUVzQwX3lYUXFZR2c2OWplQVY5MjR6MFZNUE02cDZXcVZnT1huZ2lJdVRpQUowcGdFX0tYdzB5WVVnR2dvMzVQc3hIalNvVjFFM1R6eWZkaHJ6N0JGSA?oc=5",
-      "category": "Entertainment",
-      "source": "Erasing 76 Crimes",
-      "published_at": "2026-05-01T07:00:00+00:00"
-    },
-    {
-      "title": "Davido Named 2026 Black Music and Entertainment Walk of Fame Inductee - Nollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYkZfOC1KWVY5SXNvUGFSZWRGVWc4aGZna3Zic0JvbE9ZOGZIWjNIWjJLTkM1WWM3YXlMUUhMSFpsRm92VXBWdTFMT2pOZEl6R052RWhraHNnQUNHUVlSMzBxRTdMZjllTmdQODFmNVhWWUVfZGNCcHFxTHg1YV9xU1lMMEdSUy05Y2kwSHhsZkRIdGlyRTRvSzJhVGFqck1ONmpXQU9EMUpkdw?oc=5",
-      "category": "Entertainment",
-      "source": "Nollywood Reporter",
-      "published_at": "2026-05-08T07:00:00+00:00"
-    },
-    {
-      "title": "VIDEO: Actor Gideon Okeke tackles Afrobeats stars for ignoring Nollywood - Punch Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb01UNUFSWGVoMjJWSzZSR1ZYMzhBekVTTzMtdk5ZeFBsSGtEeDZzTEFPWTlmT0J5aE5NRU9SdlVORlEzZmlHTHl3Z0NtMEliNnp5d1BSbklWQzBWOEd1ai1QTDBiQ0dhQ0dZazJkdXBTZGVxbUI0ZENTblk5dTFUX1FEbktoanA2SHZuLW81cWpXeXpZb1JJ?oc=5",
-      "category": "Entertainment",
-      "source": "Punch Newspapers",
-      "published_at": "2026-01-26T08:00:00+00:00"
-    },
-    {
-      "title": "The Fantastical Storytelling of Nollywood Movies - The Atlantic",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMERXWXZ5aWZhaUJvUnlobE40eVl1TVlyR25GWXFFM082Wk9TdXZQRUdncVZVMG4xZzd4SnQ5ZEVJNzBrN3ZHZTFtdzBnYjBqXzh4a1NoWHRWcjMta0RneGpZcmdZTEVNWjQ0cmd1V3g3c3ZzUUVWdk9Kem9mVkw4SXpXdjBzZ2VnZVpZS25TcGVJUXNHU05ndVRVaF8?oc=5",
-      "category": "Entertainment",
-      "source": "The Atlantic",
-      "published_at": "2025-11-23T08:00:00+00:00"
-    },
-    {
-      "title": "Nigeria’s entertainment, media revenues to hit $4.9billion - The Nation Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNalp6RHQtRlNCLWpNalc3Q1JTY0E0SEdwMUhka1NiLS12S1ZJeDVJd05GdGxNejJXY1pWQjVyMXljWm96aHBjTEQwa0lEV20yX3ZDNlNIVDlZZUtsM2xKT1RaVVlNWVNfSlZGcmJzXzNwVlZHbkJDOUVVWno0WW45SF9OaElWcDJqMkwyc2JfVdIBlAFBVV95cUxNWEo5S1N5V2RXUlNNeEo1SU1XVlBZQmp2S0p2RUZhUV82SVQ4amhhbUhQR1pRX2UzcWZ2d0JLNGdUMkZqd3AyQXVGX1lSVkZoVWZrcFhfdTU0TFE5MFZFN0VNdEd0OGJOcTRhTmdSVG00dW42Y2gtSW8tRGdzcmZUQ1FIcXVVVGhfLTR6dzFXaFlnTEow?oc=5",
-      "category": "Entertainment",
-      "source": "The Nation Newspaper",
-      "published_at": "2026-01-14T08:00:00+00:00"
-    },
-    {
-      "title": "Nollywood, Afrobeats’ N729bn haul glams up economy - Businessday NG",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaHFwSWFiRC1zbDZVSWZPV24wNFB2cTBrRWNKUTZrVlJqN2VvNzR1bkhNYUMxWE5oT01ZQnFIVEl4V2dfMmxUZkgyczhVdHRqYmc5REdtRjNwMDFOOUcyV0Q1clI1SGZYbEg2bWtfZmd1Y0I3R3RPeVNKTEpVdG8wcG9pY0dYNjViSGhFcGNB0gGTAUFVX3lxTFAzSXdpYmEtamxvLWdYYUsyaXlBZ1JkTFVvZFN1NDFsMGd2OVIzWjJnUm40ZjN6ZjhQbXV4OXkxME1sSXN4Q1pId0xJM1F6SjNMeVB0NzBjTDVET3dkaUZqNmloVEY2Rnd0SjB4M24zNGxUT0lnVTJERG5nVU1fY2dIVDZ3MEN0eTc0bnFna1ZWTXlPdw?oc=5",
-      "category": "Entertainment",
-      "source": "Businessday NG",
-      "published_at": "2024-06-28T07:00:00+00:00"
-    },
-    {
-      "title": "Is Nigeria famous for anything? - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SRlVmSWFBNHlQOXNjc2RHR2VodnJKQlF2eEpxWEtLRW0ya3dCRFc5WmgyRzVidTZFZ2UzQktKQ3NDRU96N0RiRjdhbm1OVnlsdTNfVzNKSXVMZ3hac2V1RTl5RV9lcXZMQ2FPbA?oc=5",
-      "category": "Entertainment",
-      "source": "The Guardian Nigeria News",
-      "published_at": "2025-11-30T08:00:00+00:00"
+      "title": "AI won’t decide 2027 election, says INEC chairman - The ICIR",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNnZEUW9mcVFuRkJicVVwVWdMcE1lYjN0MFIzal95ZHhQQ3JRN3NOa053VzRxX0RsckcwdFplYjktSThwSnJ2YU9JZXduckVRdm1hdzlEUWdFc09rOTQtb1BJM0lkM3ZyNUVZZV9DVU1TUGZIRk9iaFhHWTgwaG1VMHhn?oc=5",
+      "category": "Politics",
+      "source": "The ICIR",
+      "published_at": "2026-10-14T13:18:01+00:00",
+      "recency": "archive"
     },
     {
       "title": "What’s happening this week in economics? - Deloitte",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5",
       "category": "International",
       "source": "Deloitte",
-      "published_at": "2026-10-06T07:00:00+00:00"
-    },
-    {
-      "title": "Why one African region is set to outpace the U.S., UK and global economy in 2026 - IMF - Business Insider Africa",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdklYVmFOUlBYVGY3UEdNS3p1QXVzcmdkRmtjUG02Y2NPOVB1NGVhR0F0T3g4NHJ5S2wwalFVbFM4TmVJMVA1WUNvWHFHcEdoMU9jbXU5YjBueUs3T0Rxcm5IcW5QdkRDYWhCeEplbWVrMGxVeEk1d1RxUWRlSU5TVENZa040aEhSV3ppU25hb0VZOUhYbzdWUUdSVG9pcEVBTUJLWFU0WlBxa2RFenJzelQzRWJoX0VzbVpFSnZHc2tLZXhfaVVPNGstNDY5MVJMbllNNQ?oc=5",
-      "category": "International",
-      "source": "Business Insider Africa",
-      "published_at": "2026-07-28T07:00:00+00:00"
+      "published_at": "2026-10-06T07:00:00+00:00",
+      "recency": "archive"
     },
     {
       "title": "UK and US warned to take action on spiralling debt costs by IMF - BBC",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pdEIwWXp5UWVBYUNSZW9VNGRfRnd2VDNoRVF4NlJVeHBqNWxSSnFMRmtzN2hfS1NkTG5yYnc4cTJFaGk3VkRxcjhCdGx0WE1icXhlV1d4M2RYVnFLdXc?oc=5",
       "category": "International",
       "source": "BBC",
-      "published_at": "2026-09-23T07:00:00+00:00"
+      "published_at": "2026-09-23T07:00:00+00:00",
+      "recency": "archive"
+    },
+    {
+      "title": "Tinubu: Nigeria must turn global cultural boom into jobs, economic value - The Nation Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN1RhSjl4QnU5UTJuOGRfMmk0My1VX2FIWFpWTFZ2MFR5bVc4WXdMVUNKRkJnbFFGVFpJZ3lLVjczMS13Wk95Qk90amxnTzBiTER5SFlUdDBIb2NaUTNJcHpXa0lnYi1jRjE5VmxYZHdEenBqV2RxM3A2Y0R5cUFGN1psQTRRcVdUYUJYRXIxalVKYnc0dURNamFyOUlJNFIyZl9J0gGoAUFVX3lxTE1mMlI1WkdwSFBTTnlnem1kNnM5M0tCSEJIb2g2UW0tTXA3UmkxU013TGc1NlpScUVrMkxJdGx0RlI2UFVlRGpEeE9uaUhJRlpsa041WkZlaGZxejFSeFhlcmUwWWx1XzZXSTVkaURZSUFsUENfZnZQUzZrOUJwclF3U1djSlUwdkZ1bEpqV3ZJUHE0XzdmUEs1aEhXNFYtX1pzUlIzeU5FZg?oc=5",
+      "category": "Entertainment",
+      "source": "The Nation Newspaper",
+      "published_at": "2026-09-18T07:00:00+00:00",
+      "recency": "archive"
     },
     {
       "title": "Minister for International Development and Africa speech at the New Economics Foundation - GOV.UK",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYUk0eEZ2Nk5Tams2TzU4R3A2emE0cXhDUWNqODk1MTdxaUV1SmlzQU1JT09uTXZwOXdZS3M4WDZRTVpnNXhvYmtELXdiMTBnV2VBeGloeDB1bk0yZGdrU0p1WFoydUxoNE9SNXNQY2oxX2JsTDhQZFpRTDNnV19FTFg2T1RVdE1tRGs4Yk9aQ29jc0NMWUtzLWNUTXdJMXhWZi0ydkRpOXdieHhwdjFVcDRrTXMyWE5jYkJ3OUNiRm1KaWlFX3c?oc=5",
       "category": "International",
       "source": "GOV.UK",
-      "published_at": "2026-09-14T07:00:00+00:00"
+      "published_at": "2026-09-14T07:00:00+00:00",
+      "recency": "archive"
+    },
+    {
+      "title": "Why one African region is set to outpace the U.S., UK and global economy in 2026 - IMF - Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdklYVmFOUlBYVGY3UEdNS3p1QXVzcmdkRmtjUG02Y2NPOVB1NGVhR0F0T3g4NHJ5S2wwalFVbFM4TmVJMVA1WUNvWHFHcEdoMU9jbXU5YjBueUs3T0Rxcm5IcW5QdkRDYWhCeEplbWVrMGxVeEk1d1RxUWRlSU5TVENZa040aEhSV3ppU25hb0VZOUhYbzdWUUdSVG9pcEVBTUJLWFU0WlBxa2RFenJzelQzRWJoX0VzbVpFSnZHc2tLZXhfaVVPNGstNDY5MVJMbllNNQ?oc=5",
+      "category": "International",
+      "source": "Business Insider Africa",
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "recency": "archive"
     },
     {
       "title": "US hits dozens of countries with new wave of tariffs - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15N2M3Ym54N2RUUGFma3o4WVVESF9SQTFpSXJnOWVyZ3hQbnhfZWNtWXZyTzc0MWFZTXFSRGxudEtVc1dwbDhENTY0MmsxRkY3cDhHM2tnYUZRdw?oc=5",
       "category": "International",
       "source": "BBC",
-      "published_at": "2026-07-24T07:00:00+00:00"
+      "published_at": "2026-07-24T07:00:00+00:00",
+      "recency": "archive"
     },
     {
-      "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uNlVSdUtGTjVxem1mWXVleFZ2WFZCUDB4Z0hISGZhYnZ1dFR3b1VqRzVyLTh1Z3RINEI3SlBQRlVIYVkzS3JTT3Q1ZEJuU2twU0lNZzVsUHp0cF96?oc=5",
-      "category": "International",
-      "source": "BBC",
-      "published_at": "2026-07-24T07:00:00+00:00"
+      "title": "Julius Malema Hails Nigeria's Banks and Afrobeats, Sparks Africa-Wide Debate: 'Learn From Nigerians, Stop Wielding Pangas' - Tell News Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSGExSWwwb3lXenJ1bXlJQmhfUkE3ektWcVFsMDNhUHZFUzgzX1VkVG1HbDhnRklCajJfWEFFeWVXcmR4eTNNbk40RUdlRlRZaDNYRUpnZXV2NmpxLUdQOTk4d1JwR1FJUnR2NFRfRTBGQ2VjRGo0SjAzSjJUNG9XbVNSLW4?oc=5",
+      "category": "Entertainment",
+      "source": "Tell News Magazine",
+      "published_at": "2026-07-16T07:00:00+00:00",
+      "recency": "archive"
     },
     {
-      "title": "Nigeria takes its place on world stage in quest to become regional superpower - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaGlNamVzbENfSFpldHNyUjVZTUpFSlYzZ21iTkxWSWlNMmJ1Q3IwaUFhWFFEV2VIVkxvcjRpNnFkSUxDcFFjb1JNT2dJZ0VEeW82ekV6MlN0cnZwdTBjLWZidXFtSmpyUkowOVQ2R1NVNFdSc0E2X182eWhwWkNaczloN1AzTFhhVGFSMGtzTFJCWkJ2amVFemViSUVKQXkxanhlM1RCM1lxamF6ZmRWc3B0TXQ?oc=5",
-      "category": "International",
-      "source": "The Guardian",
-      "published_at": "2026-03-27T07:00:00+00:00"
+      "title": "How Afrobeats’ maturity is driving diversification across entertainment - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ1hEMEluY2c4SnVON3pyekh2MmEwSTF0SFlwZ1ZKOTM1ZHp6ZWdzdGpEY3Y4NTNQUG9URnZOT3RZSFZaT2hpN0lzc3hxOWpvVzdRbGwwUGtweTJRdlU5MDJleFBLZnhtM0hrcjVXZThkTUM4RXktZlpnRGlPZE9IZTVkck5zTzM1Qk5YOUFiMGFhRThWVTNFNEppQzNmSzdNTjN4dQ?oc=5",
+      "category": "Entertainment",
+      "source": "The Guardian Nigeria News",
+      "published_at": "2026-06-20T07:00:00+00:00",
+      "recency": "archive"
     },
     {
-      "title": "Who holds the biggest foreign investment in Africa? Not China - ODI: Think change",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVQwb2ZKNEZpczI2amZudmdRQlU5ZWFza2dNZzdKeTh2WmdTYTRac2FuRExYc0RDdE1aRnBnWWpLNUhhMC1YVDJ5OGN1WW9ZNFgxYl9EeTR4YkRjdXkxSjRtTkMtMzFHcEw2MmktUjFHYXhlZXc1dzFmajIwQXRwLXpFV2p2NEctQklkQkhNXzlWUGc?oc=5",
-      "category": "International",
-      "source": "ODI: Think change",
-      "published_at": "2025-07-10T07:00:00+00:00"
+      "title": "Why Nollywood producers can’t freely use Afrobeats songs – Dami Twitch - PM News Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWdXYU9GS0lxX0lqdkNwSlZnbDlUTW9vSFJWcVdEOTVobDZadThKOG1TNm84dmFDWGpOdzdZSklpVHJGRFVSWlpBVFgydnMyRmtPUGlpWmItQWVLVnpCUHB5V2dySEdTWFhDN3dpZ21nSXRJVVV0MWRKbE5TMi1leEtfT013Y1owZFU2YUppQ1dhOEVnRkNST3J5YndTbV9ZZW4zQ1pqb20?oc=5",
+      "category": "Entertainment",
+      "source": "PM News Nigeria",
+      "published_at": "2026-05-31T07:00:00+00:00",
+      "recency": "archive"
     },
     {
-      "title": "Africa’s moment to shape the global order - Brookings",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX1ZHanBacTgtbUdaME0tRTlPNHFNQzJRRy1FZUpIdlRvYkdkb2tPbVBSTjFHbURRVVBfcHlwaTlzUTkzdnZXc2tHOXpmNjRNcXlXYzBrYWJHbTRtVkpGNElnTUVZSHlBVUcxM3RZN05GUnRlMFVkV0RLQVRpWnd4NWhn?oc=5",
-      "category": "International",
-      "source": "Brookings",
-      "published_at": "2026-01-14T08:00:00+00:00"
-    },
-    {
-      "title": "The new ‘scramble for Africa’ risks becoming divide and conquer - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT21PWGUtbGdCeHNfTnkyaFJuSy0yNVhmdE5va1dqaXZYUUR4R3I1c1MyZkRFak9pLXRWTEFFSDBGYk1EVy1pMWUtRmFxQ1g4S0hHd2w2eUdIS3ZtZG9rekxDczIxdDdUTDZCMDcxYnZFaTkxdE9MazhwbXktc00xUGVsRUJaN08xZ0wzQ0d3?oc=5",
-      "category": "International",
-      "source": "The Japan Times",
-      "published_at": "2026-03-16T07:00:00+00:00"
-    },
-    {
-      "title": "World Bank country classifications by income level for 2024-2025 - World Bank Blogs",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObmdPc0hWSDhkRmRvUkFYU0h6RDVfOEpSekRfWXR0U3E4clZHeWV0eFJfNHZfcmpmbnBzVXg0Z1FzNDB1Uzd3X0hJQ1hUcFJIY1JDc21wRkpTN2JYTC02WU5VOF9YQXhEOUdsUHp4NTEzY01UMzZVSlpDR3h2TGplTzdmX2hCajN3SGVESGRlUUdmU1ZraS1RYU8yVDFPS0JtNEJVVVRoSQ?oc=5",
-      "category": "International",
-      "source": "World Bank Blogs",
-      "published_at": "2024-07-01T07:00:00+00:00"
-    },
-    {
-      "title": "G20 summit: Cyril Ramaphosa reply Donald Trump decision to boycott G20 summit for South Africa - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54QVBZQkNRYVpGTFdmNlZZcHlrTEZxRHZPUE9tRl8tUm1kS0IwNHRUclRNMjZMSGQtem9KQTdVdWMzVHlERUJKUzktNlBlZzRwckN1ekpacmdySXc40gFiQVVfeXFMUHAxcDh5QkhqYjRZS3R0N2RuOUtMcU5PYUhFLXR5dUg5NWdCV3BTU012bXJiSTlLY0tydGIydV9QTmh6TGlYUFhxZlN4dUUtbU5zUVhvOGlDNVoxaE5yRmRTeEE?oc=5",
-      "category": "International",
-      "source": "BBC",
-      "published_at": "2025-11-12T08:00:00+00:00"
+      "title": "Davido Named 2026 Black Music and Entertainment Walk of Fame Inductee - Nollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYkZfOC1KWVY5SXNvUGFSZWRGVWc4aGZna3Zic0JvbE9ZOGZIWjNIWjJLTkM1WWM3YXlMUUhMSFpsRm92VXBWdTFMT2pOZEl6R052RWhraHNnQUNHUVlSMzBxRTdMZjllTmdQODFmNVhWWUVfZGNCcHFxTHg1YV9xU1lMMEdSUy05Y2kwSHhsZkRIdGlyRTRvSzJhVGFqck1ONmpXQU9EMUpkdw?oc=5",
+      "category": "Entertainment",
+      "source": "Nollywood Reporter",
+      "published_at": "2026-05-08T07:00:00+00:00",
+      "recency": "archive"
     }
   ]
 }

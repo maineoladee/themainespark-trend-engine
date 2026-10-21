@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-20T21:37:22.726898+00:00",
+  "updated_at": "2026-10-21T12:56:24.322414+00:00",
   "topics": [
+    {
+      "title": "EDITORIAL: Nigeria’s power crisis: Why does the grid keep failing? - PM News Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcGR3V3p4LU9URXh1d2ladjNmXzJQdUQ1ZHhqejJnZm1HQW9WUi1TRlVOa0FTWUExakY0WGpNYWJFajdLZHpGUXRUWmtRQU1DQzRXNzNKZFZpNWNUcktLV1c2VWhmQmRYcC01RVVZcUV6YVlwd2dNR3JVU0xVeVJLdTNZNjE5cGFaZmZXUm80VTQxZzNk?oc=5",
+      "category": "Public Services",
+      "source": "PM News Nigeria",
+      "published_at": "2026-10-20T12:48:24+00:00",
+      "recency": "recent"
+    },
     {
       "title": "Nigeria Targets Faster Growth Through Lower Prices and Reduced Business Costs - https://www.nigeriahousingmarket.com/",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTHVWMzBUOU13eWV2R3g2OUVUeHBZVVczQ2RXTTNncGtBRThKNEtGQVV3VVk3MEkwVnFVcnFKRWxVcGo0SkUzN1dIc242QXBjUVd6RC16Q2hSdXFtMWpjQ2RMa3VpN2dPTXRjWXNWSlBnRkZwWmYtNGpQQzgta1JTQVVfOHg4ZFoyN1FGaXVncVdYemJoUUlDdmFYMld1T0tDa2ZpU2dn?oc=5",
@@ -31,14 +39,6 @@
       "category": "Diaspora",
       "source": "Businessday NG",
       "published_at": "2026-10-15T19:30:10+00:00",
-      "recency": "archive"
-    },
-    {
-      "title": "2027: Wike Urges Nigerians To Vote For Competence, Reject Political Gamblers - News Agency of Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDRydmdtR1NIYnVULVYtNGp4bmFkQW1rc3JWWERWWXotVzRObVhkS0t5Zk9TbXlsZjNlQjhCdGF2b1lvSFVDbTRwaElRV3FwNUFfLUZEZXlPUlRBTkc5cHYwaWtCQ2J2eVhXeldlVmxGRkdFWERRLVJTYk9tT1g0TXdXdVk0Q3UxdkpjV2JUa3hrTzI2QXRIaWpn?oc=5",
-      "category": "Public Services",
-      "source": "News Agency of Nigeria",
-      "published_at": "2026-10-15T19:24:51+00:00",
       "recency": "archive"
     },
     {
@@ -82,43 +82,11 @@
       "recency": "archive"
     },
     {
-      "title": "2027: How YPP will end food insecurity, unveils 50-hectare ward development model - The Sun Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUFVNW45OTZucmtmc08zTUJoeUlBVFRTSWsxekdjdlZrMTZVTWVLNnRhcWk0T0hKNGN3dWpSdDl2T3pMUFVKLTJlcjIzbGY2bUZaQmxOS3JHVjg5eC1aWDM5RVFUb2hNN1VzUnQtVWZFblk1Y0syekU0ZXZ0U0pwY3JnM0dDR0tBbkRWYjNETVVJSl9mZmlNWl9GM1pNb1E?oc=5",
-      "category": "Public Services",
-      "source": "The Sun Nigeria",
-      "published_at": "2026-10-11T12:52:41+00:00",
-      "recency": "archive"
-    },
-    {
-      "title": "2027: Where do Nigeria’s political parties stand? - The Nation Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUlZZ0hEbFVncm1hM1hiZDhBOG1HOTNvUDEzNnotaDh2dDFhODV0bVdqUC1HZ2tIa3AtOUNueVU0eFNNckhaaDdMU1JDRHBjSG12c2p6djViLTZRTy12MGxiVTRHMG92MktnNUEwcU1DOVhqRjZLUlpvRUNNZDRxSHR5SdIBiAFBVV95cUxPa05OV3MwRkl2VlpZRFp1VHBjZlpjX3hqZjZGek5hM25ocXhYTkF0dGcweVVTYkZCdlhjMjBOWGRydUNBOGlmQnJ2d2Zfc2J6ai10WUZpMW0yZkhjbEZIZC1DUHNiLXZib1FjSXNocTJlOWFJaGhnR05CSG41Ynkydkd3OEVrRjhV?oc=5",
-      "category": "Public Services",
-      "source": "The Nation Newspaper",
-      "published_at": "2026-10-07T07:00:00+00:00",
-      "recency": "archive"
-    },
-    {
-      "title": "2027: Lagos APM faults exclusion of Laja Adeoye from Gen Z town hall - Tribune Online",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUEc1UG5tMllxaTVObWllZDdabm55MlhSMGhLRDVQMmhNRWJlb0lmZ1dPSUd6REsyNVdIWjM2S2ZJLTlzdWZYN3ktVmRhVnREN0ZTRFlyYTgzd3JfTTdFSEVYREcxQmczYTBaQmNWcG1WQVI4cEJKZHR0d1E1cUhiTU9WTzFaN0gwck9IckhXLTE0bF83SllLUldPaXY?oc=5",
-      "category": "Public Services",
-      "source": "Tribune Online",
-      "published_at": "2026-10-07T07:00:00+00:00",
-      "recency": "archive"
-    },
-    {
       "title": "What’s happening this week in economics? - Deloitte",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5",
       "category": "International",
       "source": "Deloitte",
       "published_at": "2026-10-06T07:00:00+00:00",
-      "recency": "archive"
-    },
-    {
-      "title": "Nigeria At 66: Path to turning political survival to Nation-building, prosperity - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSW9TU3d3dkE1bjNYUXEyMkpDNFVKZ0cxYmF6Si0waklBbkxzbTRjOFpYb0xRNjFiLTVGbkFOUzM3MHpkaXZXN1dMcnQyY2V2dmFGcTBSQ2dCajBXT0Jnc3ZiRWpwUHhmTGhHcVBSdEZyRnBJS3FwdGtZMHd4QmxRR0ktZG5ySnA5N2c5ZnlIcUFCaTBnMEJ4X0h0Z1lLVGd3NG9LZ211bEgxUktr?oc=5",
-      "category": "Public Services",
-      "source": "The Guardian Nigeria News",
-      "published_at": "2026-10-03T07:00:00+00:00",
       "recency": "archive"
     },
     {
@@ -138,22 +106,6 @@
       "recency": "archive"
     },
     {
-      "title": "Minister for International Development and Africa speech at the New Economics Foundation - GOV.UK",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYUk0eEZ2Nk5Tams2TzU4R3A2emE0cXhDUWNqODk1MTdxaUV1SmlzQU1JT09uTXZwOXdZS3M4WDZRTVpnNXhvYmtELXdiMTBnV2VBeGloeDB1bk0yZGdrU0p1WFoydUxoNE9SNXNQY2oxX2JsTDhQZFpRTDNnV19FTFg2T1RVdE1tRGs4Yk9aQ29jc0NMWUtzLWNUTXdJMXhWZi0ydkRpOXdieHhwdjFVcDRrTXMyWE5jYkJ3OUNiRm1KaWlFX3c?oc=5",
-      "category": "International",
-      "source": "GOV.UK",
-      "published_at": "2026-09-14T07:00:00+00:00",
-      "recency": "archive"
-    },
-    {
-      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkR3JXRjBZSHc4bzJnTmt6TS0yWDRNNTIwMlNWbjhNa3JzV3FYV215Nlo4MEtMNWxOV21rYXlIU05zUlZQTmsxWWZBZnBDc21nVDJvVEVyTHhobm5U?oc=5",
-      "category": "International",
-      "source": "BBC",
-      "published_at": "2026-08-24T07:00:00+00:00",
-      "recency": "archive"
-    },
-    {
       "title": "Nigeria sends passport team across UK to tackle application backlog among its large diaspora - Business Insider Africa",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcWZnVUQ4cXJzMXFfRldPM0lXZF9QTnlhWElKN0NvQ295VWc0Mzh1eE5JME8tZFRUNEVwMk5iNVprWTU2SlhyWUlqSTZRQWg4c3VYdWFpODBDNTJUS3B0VFNSZTl0cmdmRm9pamdFanc0RFh0Z1EtNmVRQXB3NUFib1ZfYU1SdVVrN1htVllOc1R5Vl9JLU80dkpiQ3lHUTdzTzlQX3pQa0RvMUl3SEpBYTVrSEJXV1BLOVJrZ054aGhXWFRzMC1OVmtwU1dSMkxYTVpaSVJkVQ?oc=5",
       "category": "Diaspora",
@@ -167,6 +119,22 @@
       "category": "International",
       "source": "Business Insider Africa",
       "published_at": "2026-07-28T07:00:00+00:00",
+      "recency": "archive"
+    },
+    {
+      "title": "US hits dozens of countries with new wave of tariffs - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15N2M3Ym54N2RUUGFma3o4WVVESF9SQTFpSXJnOWVyZ3hQbnhfZWNtWXZyTzc0MWFZTXFSRGxudEtVc1dwbDhENTY0MmsxRkY3cDhHM2tnYUZRdw?oc=5",
+      "category": "International",
+      "source": "BBC",
+      "published_at": "2026-07-24T07:00:00+00:00",
+      "recency": "archive"
+    },
+    {
+      "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uNlVSdUtGTjVxem1mWXVleFZ2WFZCUDB4Z0hISGZhYnZ1dFR3b1VqRzVyLTh1Z3RINEI3SlBQRlVIYVkzS3JTT3Q1ZEJuU2twU0lNZzVsUHp0cF96?oc=5",
+      "category": "International",
+      "source": "BBC",
+      "published_at": "2026-07-24T07:00:00+00:00",
       "recency": "archive"
     },
     {
@@ -202,19 +170,19 @@
       "recency": "archive"
     },
     {
-      "title": "\"She built a legacy\": MOBO Awards founder Kanya King passes away, artists mourn - Legit.ng",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMGg3RHlOUUJUWWczanBkMmZrd1RqYXdUWDh2S1M0VGpXYno2QmdXa2pCbW92V1JjUEt4dUpjZDM2Q2cwN2JKRC15NmMtMnZIS3gydHRDLWJwb2VfbjRTVjh6M2N3dTRHbkFlTzQ2d3M0S094a2xVX3NqNG56ZF9uQ0VUdXM2M25jSlFoWVkzT1E4cG9vT05FeXhLbVg3Q25MY1EzOFUxbU1ldTA0YV9rWHdkejhvbEZlUDZlRTdLU2F2Mm9lYS1RWTRjWlBlZXFOQ3c?oc=5",
-      "category": "Entertainment",
-      "source": "Legit.ng",
-      "published_at": "2026-06-05T07:00:00+00:00",
-      "recency": "archive"
-    },
-    {
       "title": "Why Nollywood producers can’t freely use Afrobeats songs – Dami Twitch - PM News Nigeria",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWdXYU9GS0lxX0lqdkNwSlZnbDlUTW9vSFJWcVdEOTVobDZadThKOG1TNm84dmFDWGpOdzdZSklpVHJGRFVSWlpBVFgydnMyRmtPUGlpWmItQWVLVnpCUHB5V2dySEdTWFhDN3dpZ21nSXRJVVV0MWRKbE5TMi1leEtfT013Y1owZFU2YUppQ1dhOEVnRkNST3J5YndTbV9ZZW4zQ1pqb20?oc=5",
       "category": "Entertainment",
       "source": "PM News Nigeria",
       "published_at": "2026-05-31T07:00:00+00:00",
+      "recency": "archive"
+    },
+    {
+      "title": "Davido Named 2026 Black Music and Entertainment Walk of Fame Inductee - Nollywood Reporter",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYkZfOC1KWVY5SXNvUGFSZWRGVWc4aGZna3Zic0JvbE9ZOGZIWjNIWjJLTkM1WWM3YXlMUUhMSFpsRm92VXBWdTFMT2pOZEl6R052RWhraHNnQUNHUVlSMzBxRTdMZjllTmdQODFmNVhWWUVfZGNCcHFxTHg1YV9xU1lMMEdSUy05Y2kwSHhsZkRIdGlyRTRvSzJhVGFqck1ONmpXQU9EMUpkdw?oc=5",
+      "category": "Entertainment",
+      "source": "Nollywood Reporter",
+      "published_at": "2026-05-08T07:00:00+00:00",
       "recency": "archive"
     }
   ]

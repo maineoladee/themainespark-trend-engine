@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T13:18:57.100821+00:00",
+  "updated_at": "2026-10-23T13:59:46.074562+00:00",
   "topics": [
     {
       "title": "INEC to Use AI to Improve Election Results Management in 2027 - Radio Nigeria Lagos",
@@ -170,14 +170,6 @@
       "recency": "archive"
     },
     {
-      "title": "Nigeria’s 26.5% Rate Trap as CBN Is Caught Between Inflation & Economy Crying for Credit - Nigeria Communications Week",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTmJfLVFINVZLRGxSQXR3OXpiMXg2MXBrQWlzUEc3dmwxaS14SVJpMktITHo4STl6NXBLSC1pSVljbmwxYTBzUGdqdlNxMnlMdnp3SzZkaHNmTzFWZy10Rk1GX3U1OXdHZnkxdjBobXo3WmdsaUlmQUV1aGRuS05PYWxnNG5obUk1OXlEYkNuV01pVkZWbHVXUTlwU1RsdTI0WFZGc0tLS2hyTTFxS3U0TmVKYzZEbXBZSkhKaVlENWR3aGR2S2NwNUxlNDhMclIw?oc=5",
-      "category": "Economy",
-      "source": "Nigeria Communications Week",
-      "published_at": "2026-09-21T07:00:00+00:00",
-      "recency": "archive"
-    },
-    {
       "title": "August Inflation: Food Prices, Naira Stability Drive Nigeria’s Inflation - Independent Newspaper Nigeria",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRGt5YkNLVTcxcHNqWjVEV1VaVGxKVEFlZWNZZ2VPbU0ycVk2d2JMdWppaXM2OWZtN3JTYWtEM3g3UGhwa1J0RzhEd0p1bU02VkNkWGZ5YUE4X2Z1QmItUFFCSFdlX2hPdWlTRUVBanJRN1RLR2VzZzVRWVc0U0VxQ0dTdGlxbHZzeEo0bXgtQWpRV2twYXc1SA?oc=5",
       "category": "Economy",
@@ -207,6 +199,14 @@
       "category": "International",
       "source": "BBC",
       "published_at": "2026-08-21T07:00:00+00:00",
+      "recency": "archive"
+    },
+    {
+      "title": "₦1,000 Indomie: What Nigeria’s Favourite Noodles Tell Us About the Economy - Techeconomy",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5URW5STU12Y1FpWTFFb251TjM0Ql8xalEzVG5CM1ZpUlV5RFdlUDUwZ3M4czV3SjFWYndyRlBQbTVOUTVYSG1CeVBqcWtiVXlNMEZNeGZpb2tqU0ppV1BLbVU1Zm91QUk?oc=5",
+      "category": "Economy",
+      "source": "Techeconomy",
+      "published_at": "2026-08-17T07:00:00+00:00",
       "recency": "archive"
     },
     {
@@ -266,19 +266,19 @@
       "recency": "archive"
     },
     {
-      "title": "Nollywood Producers Can't Freely Use Afrobeats Songs in Movies Anymore - Dammy Twitch - nigerianeye.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU1BEVG1tOXRkS0dnQ1hhajViNjh3VmNXTGxpLTgyUVdzcXg0T29iX2dKQTJJTlBSM1VnUXd1VjFtMTRTTEZNSEZJaHMzT1RvTE9ZVnIyNm5mUVNnODFUWGNtVTJvdDZFOEtXZEtOWjJGcFhUTjVTWnZyOFc3ZHB5cHZn?oc=5",
+      "title": "Why Nollywood producers can’t freely use Afrobeats songs – Dami Twitch - PM News Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaWdXYU9GS0lxX0lqdkNwSlZnbDlUTW9vSFJWcVdEOTVobDZadThKOG1TNm84dmFDWGpOdzdZSklpVHJGRFVSWlpBVFgydnMyRmtPUGlpWmItQWVLVnpCUHB5V2dySEdTWFhDN3dpZ21nSXRJVVV0MWRKbE5TMi1leEtfT013Y1owZFU2YUppQ1dhOEVnRkNST3J5YndTbV9ZZW4zQ1pqb20?oc=5",
       "category": "Entertainment",
-      "source": "nigerianeye.com",
-      "published_at": "2026-05-30T07:00:00+00:00",
+      "source": "PM News Nigeria",
+      "published_at": "2026-05-31T07:00:00+00:00",
       "recency": "archive"
     },
     {
-      "title": "TPTA Partners US Law Firm Akin Gump To Train Nigerian Lawyers On Entertainment Law, Music Rights, Film, TV And Creative Economy Transactions - TheNigeriaLawyer",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUlV4Yjh5YlR3VGMzVWF4aGdUbWpXTUJtUF9FYkhFc0tTUmcteExGQWZvTHJESFYyMU5xQWkyZUNUblJwNGljWnYtdDk4TkoxYzhUMEs0d1d1NVQxeUw4MEVQRWhxamRwWXNMSnl5TzlWZ0R5VXZoSldXcHhhUU5XTUQySTZQanpzNnVaME9IbkNOYkM4bjBVYTNQYldoSXNXM3RzTXNpNnE2SUJsS3lxdjctWURZeFM0TWlMQUd5Z1ZPV3BoRGtkMl8xdFI4LXU2R2lyMUEtaGdzckdYc0g2RzJJVjRNblV1Wm5XQkJ6dU9tRFdxRU5IOThkQQ?oc=5",
+      "title": "Nigeria's Entertainment Industry Is Worth $10.8 Billion. Its Creators Are Not Seeing That Money. Both Things Are True. - YNaija",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13X3NZWVh2TDJid19uLTVJcFl6UDNQU2t6QTJLSEFKc3ZIb3dlaFNEZjNUX3g2aHpMdDIzNG5Jc2M0WkRMcWFNcW9xVEZNYU1WOFZ4bUlIRFVfRDZPZTZVd1RnRzlKdXgwYkp2UV96dEg3RGZWSHdaNTZZZWYxUQ?oc=5",
       "category": "Entertainment",
-      "source": "TheNigeriaLawyer",
-      "published_at": "2026-05-28T07:00:00+00:00",
+      "source": "YNaija",
+      "published_at": "2026-05-14T07:00:00+00:00",
       "recency": "archive"
     }
   ]

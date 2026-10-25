@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T13:11:26.620512+00:00",
+  "updated_at": "2026-10-25T17:03:39.542741+00:00",
   "topics": [
     {
       "title": "Nigeria Prioritizes Gas for Industrialization and Energy Security Amid Debt Settlements - Head Topics",
@@ -15,6 +15,22 @@
       "category": "Diaspora",
       "source": "LEADERSHIP Newspapers",
       "published_at": "2026-10-25T02:20:45+00:00",
+      "recency": "recent"
+    },
+    {
+      "title": "Are California voters about to impose 'world's first' tax on billionaires? - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00M21NNHhrRFVCNVprUU5SQXpWTldqUDVCRG04UXpFS2xRalNPTS16RFlIanROUHVKWkNYXzA0emphNkl4Wk9YOUdsdXhnUXFucDVqcE1IMWxEeTh5TlE?oc=5",
+      "category": "International",
+      "source": "BBC",
+      "published_at": "2026-10-23T23:12:12+00:00",
+      "recency": "recent"
+    },
+    {
+      "title": "South Sudan, Ethiopia and Rwanda rank among world's fastest-growing economies in 2026, outpacing Nigeria, South Africa, China and the US - Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMW9sbmRrbnF1SW1wS0FZVjExRVh4dzZCSlA2dmQ1VlF2UHBKQk10OU5adF9Td2VVVUFnbjh1Sl9vRUwxYzZmSjIweFI5SF9QQ0FjaG84dTd5eU1ZOV8wVk1nREFXQTBmZGtMR2l5Z1pHNldMSEFINDFRMmFqdl9HX3NfeEZXQ2hQS1lyRFRFWGQzckF2cExwb3phTzVhcEU2OGs3ZFE4a3ZndDR6RUZsNEZSRVZuM3dBM2tfd0NQWENMMDlPVjFXc1Vma2pBVEsydjBzYnpqTQ?oc=5",
+      "category": "International",
+      "source": "Business Insider Africa",
+      "published_at": "2026-10-23T13:53:28+00:00",
       "recency": "recent"
     },
     {
@@ -42,26 +58,10 @@
       "recency": "recent"
     },
     {
-      "title": "2027 Elections Will End Tinubu’s Government Of Lies — Makinde - The Whistler Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZWRULXFDdWdiWnIwUGp4bzFCZEZVN082Z3BLYkZXOGZscEdIWDBjS2JSZ1ZlQWNBQXhOSVN4Z28tUlhJbWtJQ0E1cUNOaV9OR0NtNTNtOUFzcUs5R2pIZHE4UEVIV1MzS2c0aXZRZFVuV2pQSVY2WkxxeTdoNm5oUkQ0R1JXZ1BjelE?oc=5",
-      "category": "Politics",
-      "source": "The Whistler Newspaper",
-      "published_at": "2026-10-22T14:38:20+00:00",
-      "recency": "recent"
-    },
-    {
-      "title": "What’s happening this week in economics? - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5",
-      "category": "International",
-      "source": "Deloitte",
-      "published_at": "2026-10-22T07:00:00+00:00",
-      "recency": "archive"
-    },
-    {
-      "title": "Nigeria Targets Faster Growth Through Lower Prices and Reduced Business Costs - nigeriahousingmarket.com",
+      "title": "Nigeria Targets Faster Growth Through Lower Prices and Reduced Business Costs - https://www.nigeriahousingmarket.com/",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTHVWMzBUOU13eWV2R3g2OUVUeHBZVVczQ2RXTTNncGtBRThKNEtGQVV3VVk3MEkwVnFVcnFKRWxVcGo0SkUzN1dIc242QXBjUVd6RC16Q2hSdXFtMWpjQ2RMa3VpN2dPTXRjWXNWSlBnRkZwWmYtNGpQQzgta1JTQVVfOHg4ZFoyN1FGaXVncVdYemJoUUlDdmFYMld1T0tDa2ZpU2dn?oc=5",
       "category": "Economy",
-      "source": "nigeriahousingmarket.com",
+      "source": "https://www.nigeriahousingmarket.com/",
       "published_at": "2026-10-19T10:05:40+00:00",
       "recency": "archive"
     },
@@ -79,14 +79,6 @@
       "category": "Economy",
       "source": "The Whistler Newspaper",
       "published_at": "2026-10-08T07:00:00+00:00",
-      "recency": "archive"
-    },
-    {
-      "title": "UK and US warned to take action on spiralling debt costs by IMF - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pdEIwWXp5UWVBYUNSZW9VNGRfRnd2VDNoRVF4NlJVeHBqNWxSSnFMRmtzN2hfS1NkTG5yYnc4cTJFaGk3VkRxcjhCdGx0WE1icXhlV1d4M2RYVnFLdXc?oc=5",
-      "category": "International",
-      "source": "BBC",
-      "published_at": "2026-09-23T07:00:00+00:00",
       "recency": "archive"
     },
     {
@@ -111,30 +103,6 @@
       "category": "Entertainment",
       "source": "The Whistler Newspaper",
       "published_at": "2026-09-18T07:00:00+00:00",
-      "recency": "archive"
-    },
-    {
-      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkR3JXRjBZSHc4bzJnTmt6TS0yWDRNNTIwMlNWbjhNa3JzV3FYV215Nlo4MEtMNWxOV21rYXlIU05zUlZQTmsxWWZBZnBDc21nVDJvVEVyTHhobm5U?oc=5",
-      "category": "International",
-      "source": "BBC",
-      "published_at": "2026-08-24T07:00:00+00:00",
-      "recency": "archive"
-    },
-    {
-      "title": "US debt has hit $40tn - Will that be a wake-up call? - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84UmpXQnM0SjRPdElNODhCWlR0UEtFVzJiTHZWc1UzTjU5NVlrYUs0RmxYclBVLW5xMVFoeVpkaGhmMW9zYzhoUHQyWGhxR09HdUwtYVc4N0szUUk4?oc=5",
-      "category": "International",
-      "source": "BBC",
-      "published_at": "2026-08-21T07:00:00+00:00",
-      "recency": "archive"
-    },
-    {
-      "title": "Why one African region is set to outpace the U.S., UK and global economy in 2026 - IMF - Business Insider Africa",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdklYVmFOUlBYVGY3UEdNS3p1QXVzcmdkRmtjUG02Y2NPOVB1NGVhR0F0T3g4NHJ5S2wwalFVbFM4TmVJMVA1WUNvWHFHcEdoMU9jbXU5YjBueUs3T0Rxcm5IcW5QdkRDYWhCeEplbWVrMGxVeEk1d1RxUWRlSU5TVENZa040aEhSV3ppU25hb0VZOUhYbzdWUUdSVG9pcEVBTUJLWFU0WlBxa2RFenJzelQzRWJoX0VzbVpFSnZHc2tLZXhfaVVPNGstNDY5MVJMbllNNQ?oc=5",
-      "category": "International",
-      "source": "Business Insider Africa",
-      "published_at": "2026-07-28T07:00:00+00:00",
       "recency": "archive"
     },
     {

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#101525"><title>Oladayo | Content Studio</title>
+<meta name="theme-color" content="#ffffff"><title>Oladayo | Content Studio</title>
 <style>
 .checkrow{display:flex!important;align-items:center;gap:10px;margin:14px 0!important}.checkrow input{width:18px;height:18px}input:not([type=checkbox]){max-width:100%}
 
@@ -10,6 +10,55 @@
 .nav{display:flex;gap:9px;flex-wrap:wrap;margin:0 0 18px}.nav a,.video-links a,.sources a{display:inline-block;background:#21314f;border:1px solid #415479;border-radius:9px;padding:9px 12px;color:#b8f5ea;text-decoration:none}.extras{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:18px}.video-links,.sources{display:flex;gap:8px;flex-wrap:wrap}.video-links{margin:15px 0}input{font:inherit;width:100%;background:#11192e;color:#f5f7fb;border:1px solid #43516f;border-radius:10px;padding:10px}textarea.short{min-height:95px}.numbergrid{display:grid;grid-template-columns:1fr 1fr;gap:0 14px}.calculation{padding:10px;color:#b8f5ea;white-space:pre-wrap}.sources{margin-top:16px}@media(max-width:800px){.extras{grid-template-columns:1fr}} .carousel-layout{display:grid;grid-template-columns:1fr minmax(250px,420px);gap:22px;align-items:start}.carousel-preview{background:#0c1326;border:1px solid #43516f;border-radius:12px;padding:13px;display:flex;justify-content:center}.carousel-preview canvas{width:100%;height:auto;max-height:630px;object-fit:contain}.carousel-grid{display:grid;grid-template-columns:1fr 1fr;gap:0 14px}.carousel-grid textarea{min-height:88px}.bulletbox{min-height:120px}.slidejump{display:flex;gap:8px;flex-wrap:wrap}.slidejump button{background:#162039;border:1px solid #425070;color:#cfddf1;padding:8px 12px;border-radius:20px}.slidejump button.active{background:#274d58;color:#b5f6e9;border-color:#68cabd}@media(max-width:800px){.carousel-layout,.carousel-grid{grid-template-columns:1fr}} .visual-layout{display:grid;grid-template-columns:1fr minmax(250px,420px);gap:22px;align-items:start}.visual-preview{background:#0c1326;border:1px solid #43516f;border-radius:12px;padding:13px;display:flex;justify-content:center}.visual-preview canvas{width:100%;height:auto;max-height:630px;object-fit:contain}.visual-layout textarea{min-height:105px}.visual-layout .short{min-height:94px}@media(max-width:800px){.visual-layout{grid-template-columns:1fr}} .publish-layout{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(270px,1fr);gap:20px}.publish-card{background:#101a30;border:1px solid #3b4e6c;border-radius:14px;padding:17px}.publish-buttons{display:grid;grid-template-columns:1fr 1fr;gap:10px}.media-preview{margin:14px 0;border:1px dashed #465779;border-radius:13px;min-height:110px;padding:12px;display:grid;place-items:center;overflow:hidden;text-align:center}.media-preview img,.media-preview video{max-width:100%;max-height:320px;border-radius:9px}.media-preview .asset-label{font-size:12px;color:#afc5df;overflow-wrap:anywhere}.publish-card .button{width:100%}@media(max-width:800px){.publish-layout{grid-template-columns:1fr}} 
 /* Phase 1-3 clean navigation additions */
 html{scroll-behavior:smooth} .nav{position:sticky;top:0;z-index:10;background:#0d1527;padding:11px;border-radius:14px;box-shadow:0 8px 22px #04091380}.nav a{font-size:13px;padding:9px 11px;white-space:nowrap}.nav a:hover,.nav a:focus-visible{border-color:#7debd8;background:#29475b}.panel{scroll-margin-top:105px}#newsSearch{flex:2;min-width:180px}.directory-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(175px,1fr));gap:9px}.directory-grid a{display:flex;justify-content:space-between;align-items:center;gap:7px;border:1px solid #344962;border-radius:11px;padding:11px;text-decoration:none;background:#15223a;color:#dceaf5}.directory-grid a:hover{background:#25425a;border-color:#74cabc}.mini{font-size:12px;color:#a4b9d2}.x-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}.x-snapshot{min-height:210px;border:1px dashed #4b6178;border-radius:12px;display:grid;place-items:center;overflow:hidden;background:#121e32}.x-snapshot img{max-width:100%;max-height:420px;object-fit:contain}.studio-notice{border-left:3px solid #72d7ca;padding:10px;background:#1c2d3c}.post-actions{display:flex;flex-wrap:wrap;gap:8px}@media(max-width:750px){.x-grid{grid-template-columns:1fr}.nav{overflow-x:auto;flex-wrap:nowrap;scrollbar-width:thin}.hero h1{font-size:clamp(23px,5vw,38px)}.controls{flex-wrap:wrap}}
+
+/* Clean editorial interface / October 2026 */
+:root{color-scheme:light!important;background:#f8fafc!important;color:#172333!important;--paper:#fff;--line:#e4e9f0;--muted:#66768a;--accent:#126b65}
+html,body{background:#f8fafc!important;color:#172333!important}
+body{background-image:none!important}
+.shell{max-width:1370px!important;margin:auto!important;padding:22px clamp(14px,2.4vw,36px)!important}
+header{background:white!important;color:#182538!important;border:1px solid #e5eaf0!important;border-radius:18px!important;padding:16px 20px!important;box-shadow:0 2px 8px #0f172a08!important}
+.brand,.brand span{color:#15243a!important}.brand span[style]{color:#126b65!important}
+.logo{background:#e8f5f1!important;color:#13776a!important}
+.hero{background:white!important;border:1px solid #e5eaf0!important;border-radius:20px!important;box-shadow:none!important;padding:27px!important;margin-top:18px!important}
+.hero h1{color:#162438!important;letter-spacing:-.035em!important}
+.muted,.note,.mini{color:#64748b!important}
+.stats .stat,.stat{background:#fff!important;border:1px solid #e5eaf0!important;color:#1e293b!important;box-shadow:none!important}
+.stat strong{color:#1d4741!important}
+.nav{position:sticky!important;top:8px!important;z-index:25!important;background:#fff!important;border:1px solid #e5eaf0!important;border-radius:15px!important;box-shadow:0 6px 22px #1f293714!important;gap:5px!important;padding:9px!important;overflow-x:auto!important;flex-wrap:nowrap!important}
+.nav a{white-space:nowrap!important;color:#475569!important;background:transparent!important;border:1px solid transparent!important;border-radius:10px!important;padding:10px 12px!important;font-weight:600!important}
+.nav a:hover,.nav a:focus-visible{background:#ecf7f4!important;color:#0f766e!important;border-color:#bfe6db!important}
+.panel{background:#fff!important;color:#172333!important;border:1px solid #e3e8ee!important;border-radius:18px!important;box-shadow:0 3px 16px #1b305208!important;padding:clamp(16px,2vw,26px)!important}
+.panel h2,.panel h3,.panelhead h2{color:#1a2c41!important}
+.panelhead{border-bottom-color:#e9edf2!important}
+.tag,.pill,.tag.new{color:#30665e!important;background:#eaf5f1!important;border:1px solid #d8e9e3!important;border-radius:999px!important}
+button,.button{transition:background .15s,border-color .15s,transform .15s!important}
+.button,button.button{background:#156b65!important;color:white!important;border:1px solid #156b65!important;border-radius:10px!important;box-shadow:none!important;font-weight:650!important}
+.button.secondary,button.secondary{background:#fff!important;color:#245b58!important;border:1px solid #d5e0e4!important}
+.button:hover{filter:brightness(.97)!important}
+input,select,textarea{background:white!important;color:#172333!important;border:1px solid #cfd9e3!important;border-radius:10px!important;box-shadow:none!important}
+input:focus,select:focus,textarea:focus{outline:2px solid #a4d7cc!important;outline-offset:1px!important}
+label{color:#334155!important;font-weight:600!important}
+.empty,.status,.calculation,.x-snapshot{background:#f8fafc!important;color:#475569!important;border-color:#e4eaf1!important}
+.story,.topic,.story-card,.feed-card,.publisher-card,.directory-grid a,.video-links a,.sources a{background:#fff!important;color:#263b50!important;border:1px solid #e2e8f0!important;box-shadow:none!important}
+a{color:#11716b!important}
+.directory-grid a,.video-links a,.sources a{text-decoration:none!important;border-radius:10px!important}
+.directory-grid a:hover{border-color:#91c8be!important;background:#f4faf8!important}
+.ai-image-create{background:#f9fbfc!important;border-color:#e3e8ee!important;border-radius:12px!important}
+#ai .ai-image-create .note{color:#64748b!important}
+#aiOutput,#publish,#x-studio{scroll-margin-top:100px}
+.x-finder{display:grid;gap:14px;border:1px solid #e2e8f0;border-radius:14px;background:#fcfdfd;padding:17px;margin:18px 0}
+.x-finder__head{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px}
+.x-finder__filters{display:grid;grid-template-columns: minmax(180px,2fr) repeat(2,minmax(120px,1fr));gap:10px}
+.x-results{display:grid;gap:10px}
+.x-post-card{background:white;border:1px solid #e3e8ef;border-radius:13px;padding:15px;display:grid;gap:9px}
+.x-post-card p{margin:3px 0;line-height:1.55;color:#27384d;white-space:pre-wrap;overflow-wrap:anywhere}
+.x-post-card__meta{display:flex;gap:9px;align-items:center;justify-content:space-between;flex-wrap:wrap;color:#64748b;font-size:12px}
+.x-post-card__actions{display:flex;gap:8px;flex-wrap:wrap}
+.x-note{font-size:13px;color:#68778a}
+.x-embed{border:1px solid #e2e8f0;border-radius:14px;padding:10px;background:white;min-height:80px;margin:12px 0}
+.x-source-line{font-size:12px;color:#64748b}
+@media(max-width:720px){.x-finder__filters{grid-template-columns:1fr}.nav a{font-size:12px!important}.shell{padding:12px!important}.panel{padding:16px!important}}
+
 </style>
 </head>
 <body><div class="shell">
@@ -27,7 +76,15 @@ html{scroll-behavior:smooth} .nav{position:sticky;top:0;z-index:10;background:#0
 </section>
 <section class="panel" id="x-studio" style="margin-top:18px">
  <div class="panelhead"><h2>𝕏 X Trending Posts Studio</h2><span class="tag new">Authentic posts · No synthetic screenshots</span></div>
- <p class="muted">Paste a public X post link, open it to verify, then upload a screenshot you captured. The image stays on your device. Automatic trending search and automatic screenshots require separate authorised X access.</p>
+ <p class="muted">Find public X posts, choose a conversation and prepare an original caption. Authentic post embedding is available when X permits it. Screenshot uploads remain optional for downloading an exact snapshot.</p>
+<div class="x-finder" id="xFinder">
+ <div class="x-finder__head"><div><strong>Discover public conversations</strong><div class="x-note">Nigeria-first · genuine posts, with attribution</div></div><span class="tag">Live data requires X API access</span></div>
+ <div class="x-finder__filters"><input id="xQuery" type="search" aria-label="Search X posts" placeholder="Search topics, keywords or hashtags" value="Nigeria"/><select id="xWindow" aria-label="X search window"><option value="24">Last 24 hours</option><option value="6">Last 6 hours</option><option value="168">Last 7 days</option></select><select id="xSort" aria-label="X result order"><option value="engagement">Most engaged</option><option value="recent">Most recent</option></select></div>
+ <div class="actions"><button class="button" id="xSearchNow" type="button">Find X posts</button><button class="button secondary" id="xSearchOnX" type="button">View search on X ↗</button><button class="button secondary" id="xRefreshFeed" type="button">Refresh cached results</button></div>
+ <div id="xDiscoveryStatus" class="x-note" role="status">Loading available posts…</div><div class="x-results" id="xResults"></div>
+</div>
+<div class="x-embed" id="xLiveEmbed"><div class="x-note">Select a retrieved post to preview its original X embed here. If the embed is blocked, open the source link to verify it.</div></div>
+
  <div class="x-grid"><div>
  <label for="xLink">Original public X post URL</label><input id="xLink" type="url" placeholder="https://x.com/username/status/123..."/>
  <div class="actions"><button class="button secondary" id="xOpen">View original on X ↗</button><button class="button secondary" id="xPrepare">Prepare commentary</button></div>
@@ -67,7 +124,7 @@ html{scroll-behavior:smooth} .nav{position:sticky;top:0;z-index:10;background:#0
 <p class="note">Tip: keep the longest wording on Slide 2 or Slide 3. Shorter hooks usually work best on Slide 1 and Slide 4.</p>
 </div><div class="carousel-preview"><canvas id="carouselCanvas" width="1080" height="1350" aria-label="4-slide carousel preview"></canvas></div></div>
 </section>
-<section class="panel" id="ai" style="margin-top:18px"><div class="panelhead"><h2>✨ AI Story Desk</h2><span class="tag">Gemini · optional secure connection</span></div><p class="muted">Select a story above, then generate several original hooks, an editable caption and a 4-slide explainer carousel. AI can only analyse supplied text; open the original article to confirm the facts.</p><div class="numbergrid"><div><label for="aiEndpoint">Your private Worker endpoint</label><input id="aiEndpoint" placeholder="https://...workers.dev" autocomplete="off"/></div><div><label for="aiAccess">Access token (not saved)</label><input id="aiAccess" type="password" placeholder="Your private access token" autocomplete="off"/></div></div><p class="note">Never paste a Gemini API key here. Store it as a secret in the Cloudflare Worker. A setup guide and ready-to-deploy Worker are included in the ZIP.</p><div class="numbergrid"><div><label for="aiHookStyle">Hook direction</label><select id="aiHookStyle"><option value="accountability">Accountability / process (default)</option><option value="question">Curious and questioning</option><option value="debate">Open debate</option><option value="legal">Legal framework questions</option><option value="conversational">Nigerian conversational</option><option value="playful">Playful (non-sensitive stories)</option><option value="informative">Factual / data-led</option></select></div><div><label for="aiLanguage">Language</label><select id="aiLanguage"><option value="mixed">Natural Nigerian English + occasional Pidgin</option><option value="english">Nigerian English only</option><option value="pidgin">Pidgin where appropriate</option></select></div></div><p class="note">For politics, hooks ask fair questions about evidence, safeguards or the legal framework without assuming wrongdoing.</p><div class="actions"><button class="button" id="aiGenerate">Generate hooks, caption &amp; carousel</button></div><div id="aiState" class="status" role="status"></div><div id="aiOutput" hidden><label for="aiHookChoices">Choose the hook</label><select id="aiHookChoices"></select><label for="aiVisualDirection">Visual concept (editable)</label><textarea id="aiVisualDirection" rows="3" placeholder="Image concept appears here"></textarea><label for="aiImagePrompt">Image prompt (editable; for a future image generator)</label><textarea id="aiImagePrompt" rows="5" placeholder="Image prompt appears here"></textarea><div class="actions"><button class="button secondary" id="aiCopyImagePrompt">Copy image prompt</button></div><div class="ai-image-create" style="margin:18px 0;padding:16px;background:#11192e;border:1px solid #415479;border-radius:12px"><h3 style="margin:0 0 8px">🖼️ Generate an AI background image</h3><p class="note">Optional paid Gemini image API request. Each click may incur charges. Your headline will be typeset separately for a clean Photoshop-style finish. Generated scenes are illustrations, not original news photos.</p><div class="actions"><button class="button" type="button" id="aiGenerateImage">Generate image (may cost money)</button><button class="button secondary" type="button" id="aiUseImage" disabled>Use image + hook in Photo Studio</button></div><div id="aiImageState" class="status" role="status"></div><img id="aiImagePreview" alt="AI-generated illustrative background" hidden style="max-width:340px;width:100%;height:auto;border-radius:12px;margin-top:12px"/></div><label for="aiCaption">Editable generated caption</label><textarea id="aiCaption"></textarea><div class="actions"><button class="button secondary" id="aiUse">Use hook + caption in studios</button><button class="button secondary" id="aiUseCarousel">Use AI explainer in Carousel Studio</button></div><p class="note">AI text can contain errors. Check the source, dates, figures and attribution before posting. If the source is shown on the card, your caption does not need to open with source attribution.</p></div></section>
+<section class="panel" id="ai" style="margin-top:18px"><div class="panelhead"><h2>✨ AI Story Desk</h2><span class="tag">Gemini · optional secure connection</span></div><p class="muted">Select a story above, then generate several original hooks, an editable caption and a 4-slide explainer carousel. AI can only analyse supplied text; open the original article to confirm the facts.</p><div class="numbergrid"><div><label for="aiEndpoint">Your private Worker endpoint</label><input id="aiEndpoint" placeholder="https://...workers.dev" autocomplete="off"/></div><div><label for="aiAccess">Access token (not saved)</label><input id="aiAccess" type="password" placeholder="Your private access token" autocomplete="off"/></div></div><p class="note">Never paste a Gemini API key here. Store it as a secret in the Cloudflare Worker. A setup guide and ready-to-deploy Worker are included in the ZIP.</p><div class="numbergrid"><div><label for="aiHookStyle">Hook direction</label><select id="aiHookStyle"><option value="accountability">Accountability / process (default)</option><option value="question">Curious and questioning</option><option value="debate">Open debate</option><option value="legal">Legal framework questions</option><option value="conversational">Nigerian conversational</option><option value="playful">Playful (non-sensitive stories)</option><option value="informative">Factual / data-led</option></select></div><div><label for="aiLanguage">Language</label><select id="aiLanguage"><option value="mixed">Natural Nigerian English + occasional Pidgin</option><option value="english">Nigerian English only</option><option value="pidgin">Pidgin where appropriate</option></select></div></div><p class="note">For politics, hooks ask fair questions about evidence, safeguards or the legal framework without assuming wrongdoing.</p><div class="actions"><button class="button" id="aiGenerate">Generate hooks, caption &amp; carousel</button></div><div id="aiState" class="status" role="status"></div><div id="aiOutput" hidden><label for="aiHookChoices">Choose the hook</label><select id="aiHookChoices"></select><label for="aiVisualDirection">Visual concept (editable)</label><textarea id="aiVisualDirection" rows="3" placeholder="Image concept appears here"></textarea><label for="aiImagePrompt">Image prompt (editable; for a future image generator)</label><textarea id="aiImagePrompt" rows="5" placeholder="Image prompt appears here"></textarea><div class="actions"><button class="button secondary" id="aiCopyImagePrompt">Copy image prompt</button></div><div class="ai-image-create" style="margin:18px 0;padding:16px"><h3 style="margin:0 0 8px">🖼️ Generate an AI background image</h3><p class="note">Optional paid Gemini image API request. Each click may incur charges. Your headline will be typeset separately for a clean Photoshop-style finish. Generated scenes are illustrations, not original news photos.</p><div class="actions"><button class="button" type="button" id="aiGenerateImage">Generate image (may cost money)</button><button class="button secondary" type="button" id="aiUseImage" disabled>Use image + hook in Photo Studio</button></div><div id="aiImageState" class="status" role="status"></div><img id="aiImagePreview" alt="AI-generated illustrative background" hidden style="max-width:340px;width:100%;height:auto;border-radius:12px;margin-top:12px"/></div><label for="aiCaption">Editable generated caption</label><textarea id="aiCaption"></textarea><div class="actions"><button class="button secondary" id="aiUse">Use hook + caption in studios</button><button class="button secondary" id="aiUseCarousel">Use AI explainer in Carousel Studio</button></div><p class="note">AI text can contain errors. Check the source, dates, figures and attribution before posting. If the source is shown on the card, your caption does not need to open with source attribution.</p></div></section>
 <div class="extras">
 <section class="panel" id="videos"><div class="panelhead"><h2>▶ Nigerian video discovery</h2><span class="tag">Curated searches · not verified rankings</span></div>
 <p class="muted">Open recent video results and decide which clips are worth covering. No scraping, automatic downloads or unauthorised reposting.</p>
@@ -283,4 +340,48 @@ function downloadBlob(blob,name){const u=URL.createObjectURL(blob);const a=docum
 $('xCopy').onclick=async()=>{try{await navigator.clipboard.writeText($('xCaption').value);$('xStatus').textContent='Caption copied.'}catch{$('xStatus').textContent='Clipboard unavailable; select and copy the text manually.'}};
 $('xDownload').onclick=()=>{const cap=$('xCaption').value.trim(),url=xURL();if(!cap)return $('xStatus').textContent='Write or prepare your caption first.';if(!url)return $('xStatus').textContent='Add the original X post link.';downloadBlob(new Blob([cap+'\n\nOriginal: '+url+'\n'],{type:'text/plain'}),'oladayo-x-caption.txt');if(xScreenshot)downloadBlob(xScreenshot,'oladayo-'+xScreenshotName);$('xStatus').textContent=xScreenshot?'Caption and original screenshot downloads requested. Allow multiple downloads if prompted.':'Caption downloaded; upload a screenshot to download both files.'};
 $('xPublish').onclick=()=>{const cap=$('xCaption').value.trim();if(!cap)return $('xStatus').textContent='Please write your caption first.';$('publishCaption').value=cap;$('publishSource').value=xURL()||'';if(xScreenshot){const dt=new DataTransfer();dt.items.add(xScreenshot);$('publishMedia').files=dt.files;$('publishMedia').dispatchEvent(new Event('change'))}$('publish').scrollIntoView({behavior:'smooth'})};
-</script></body></html>
+
+// X discovery: static authenticated-data cache generated by the GitHub workflow.
+let xDiscoveryPosts=[];
+const xDiscStatus=document.getElementById('xDiscoveryStatus');
+const xResults=document.getElementById('xResults');
+function xDate(s){const d=new Date(s);return Number.isNaN(d.getTime())?'Date unavailable':d.toLocaleString('en-GB',{dateStyle:'medium',timeStyle:'short'})}
+function makeXCard(post){
+ const card=document.createElement('article');card.className='x-post-card';
+ const meta=document.createElement('div');meta.className='x-post-card__meta';
+ const author=document.createElement('strong');author.textContent='@'+(post.username||'unknown');
+ const dt=document.createElement('span');dt.textContent=xDate(post.created_at);meta.append(author,dt);
+ const body=document.createElement('p');body.textContent=post.text||'';
+ const stats=document.createElement('div');stats.className='x-note';const m=post.public_metrics||{};stats.textContent=`♡ ${Number(m.like_count||0).toLocaleString()} likes  ·  ↻ ${Number(m.retweet_count||0).toLocaleString()} reposts  ·  ${Number(m.reply_count||0).toLocaleString()} replies`;
+ const actions=document.createElement('div');actions.className='x-post-card__actions';
+ const select=document.createElement('button');select.className='button';select.type='button';select.textContent='Use this post';
+ select.addEventListener('click',()=>{
+  document.getElementById('xLink').value=post.url;
+  const caption=document.getElementById('xCaption');
+  caption.value=`A post by @${post.username||'the author'} is drawing attention on X.\n\nWhat are your thoughts? Before sharing, confirm the context and any claims made in the original post.\n\nOriginal: ${post.url}`;
+  document.getElementById('xStatus').textContent='Post selected. Review its original text and edit your commentary. Add an image only if you need an exact snapshot in the download.';
+  const embed=document.getElementById('xLiveEmbed');embed.replaceChildren();
+  const link=document.createElement('a');link.href=post.url;link.target='_blank';link.rel='noopener noreferrer';link.textContent='Open original X post ↗';
+  const quote=document.createElement('blockquote');quote.className='twitter-tweet';const p=document.createElement('p');p.textContent=post.text;quote.append(p,link);embed.append(quote);
+  if(window.twttr?.widgets?.load)window.twttr.widgets.load(embed);
+  document.getElementById('xCaption').focus();
+ });
+ const open=document.createElement('a');open.href=post.url;open.target='_blank';open.rel='noopener noreferrer';open.textContent='Original ↗';open.style.alignSelf='center';actions.append(select,open);
+ card.append(meta,body,stats,actions);return card;
+}
+function filterXPosts(){
+ const query=document.getElementById('xQuery').value.trim().toLowerCase(),hours=Number(document.getElementById('xWindow').value),sort=document.getElementById('xSort').value;
+ const maxAge=Date.now()-hours*3600000;
+ let candidates=xDiscoveryPosts.filter(p=>(!query||`${p.text||''} ${p.username||''}`.toLowerCase().includes(query)||query.toLowerCase()==='nigeria')&&new Date(p.created_at).getTime()>=maxAge);
+ const score=p=>{const m=p.public_metrics||{};return Number(m.like_count||0)+Number(m.retweet_count||0)*2+Number(m.reply_count||0)};
+ candidates.sort((a,b)=>sort==='recent'?new Date(b.created_at)-new Date(a.created_at):score(b)-score(a));
+ xResults.replaceChildren();if(!candidates.length){const div=document.createElement('div');div.className='x-note';div.textContent=xDiscoveryPosts.length?'No cached posts match these filters. Select 7 days or another keyword.':'No live X feed is connected. To populate this section, add the X bearer token as a GitHub Actions secret named X_BEARER_TOKEN and run the refresh workflow. The search-on-X button is available without API access.';xResults.append(div)}else candidates.slice(0,30).forEach(p=>xResults.append(makeXCard(p)));
+}
+async function loadXPosts(){xDiscStatus.textContent='Checking X discovery cache…';try{const res=await fetch('./x_posts.json?ts='+Date.now(),{cache:'no-store'});if(!res.ok)throw new Error('Feed unavailable');const data=await res.json();xDiscoveryPosts=Array.isArray(data.posts)?data.posts:[];xDiscStatus.textContent=xDiscoveryPosts.length?`${xDiscoveryPosts.length} cached public posts · Updated ${xDate(data.fetched_at)} · Not a comprehensive X trends ranking`:'No posts available. Connect an authorised X API token to enable discovery.';}catch(e){xDiscoveryPosts=[];xDiscStatus.textContent='Discovery feed not configured. You can still search directly on X or paste a public post link.'}filterXPosts()}
+document.getElementById('xSearchNow').addEventListener('click',()=>{filterXPosts();if(!xDiscoveryPosts.length)xDiscStatus.textContent='Live searches require a connected authorised X API. The no-key version searches the cached feed only.'});
+document.getElementById('xSearchOnX').addEventListener('click',()=>{const q=document.getElementById('xQuery').value.trim()||'Nigeria';window.open('https://x.com/search?q='+encodeURIComponent(q)+'&src=typed_query&f=live','_blank','noopener,noreferrer')});
+document.getElementById('xRefreshFeed').addEventListener('click',loadXPosts);
+for(const id of ['xQuery','xWindow','xSort'])document.getElementById(id).addEventListener(id==='xQuery'?'input':'change',filterXPosts);
+loadXPosts();
+
+</script><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></body></html>

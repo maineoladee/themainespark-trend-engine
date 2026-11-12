@@ -1,254 +1,1178 @@
 {
-  "updated_at": "2026-11-12T01:32:13.147949+00:00",
+  "updated_at": "2026-11-12T16:48:19.157609+00:00",
   "topics": [
     {
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "category": "International",
-      "source": "BBC News",
-      "published_at": "2026-11-12T01:00:04+00:00",
-      "publisher": "BBC News",
+      "title": "Ghana Launches Smaller, Tougher Banknotes To Fight Counterfeiting",
+      "url": "https://www.channelstv.com/2026/11/12/ghana-launches-smaller-tougher-banknotes-to-fight-counterfeiting/",
+      "category": "Nigeria",
+      "source": "Channels Television",
+      "published_at": "2026-11-12T16:47:01+00:00",
+      "publisher": "Channels Television",
       "origin": "direct RSS",
       "recency": "recent"
     },
     {
-      "title": "Russia’s Ambassador to US, Alexander Darchiev, dies at 66",
-      "url": "https://www.vanguardngr.com/2026/11/russias-ambassador-to-us-alexander-darchiev-dies-at-66/",
+      "title": "Binance: How to avoid the next crypto heist",
+      "url": "https://punchng.com/binance-how-to-avoid-the-next-crypto-heist/?utm_source=rss.punchng.com&utm_medium=web",
+      "category": "Nigeria",
+      "source": "Punch",
+      "published_at": "2026-11-12T16:46:36+00:00",
+      "publisher": "Punch",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "COP31: ‘Africa won’t sacrifice development to decarbonise’",
+      "url": "https://www.premiumtimesng.com/business/business-news/924700-cop31-africa-wont-sacrifice-development-to-decarbonise.html",
+      "category": "Nigeria",
+      "source": "Premium Times",
+      "published_at": "2026-11-12T16:41:58+00:00",
+      "publisher": "Premium Times",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Insecurity: Atiku tackles Tinubu as 638 are killed, 64,000 flee Nigeria",
+      "url": "https://www.vanguardngr.com/2026/11/insecurity-atiku-tackles-tinubu-as-638-are-killed-64000-flee-nigeria/",
       "category": "Nigeria",
       "source": "Vanguard",
-      "published_at": "2026-11-12T00:48:00+00:00",
+      "published_at": "2026-11-12T16:41:48+00:00",
       "publisher": "Vanguard",
       "origin": "direct RSS",
       "recency": "recent"
     },
     {
-      "title": "Blatter brands FIFA Boss Infantino as a dictator - The Nation Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjZRUFBaYmpJd3ZyaktNV05RUHRxX0xRVU5rTzZSVmhOWGpuTDhqUks5MFF4MGttTm9VNDlnZ2xWS0NQVVI0ZkViMFhLNnRjNnFFeG1KanhfempJWFY1cUVRdFFXT0hpaGZCb09rUW1UYTRnbV8xTldrU3N0OFYwdDBNa3dIZ9IBiwFBVV95cUxQU2xyNHYtNU1EcThGR3ZUNWpBOFRzRzFnUmF0ZTdDenZQYnE5NE0tQzFrY0hRQ3dKVzZvMkxCSENCN3VUd2RfSXFVejNUdHNWYmlwSHlNOVRveHo5V1dmbzgzR3lWQjQxTHdwVWptMWVCaTV6NWd5cUNxYUZUUXZZRThtazdPbTctYUF3?oc=5",
+      "title": "The Guardian’s Ann Godwin named among top 50 African media personalities - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYThFSjFxWXZETHN1MzlSc0FhTlpyY3ZJYmlpOFp1cEk2MUtnbW9sZlZVVS1BVU0tcThhZ1dUTmFqWWZDQ0ZBWDNKMk1qNzBoNmVrNi1SMnAtSDhlWHZwSEE0OGxFV2pfQmhPQzZMd3haZDZNeTVHVUtnUmFybTZRbl9yaHZQbXRYTURqSmVHRFBTZjFZeUR5eDVPZ3JNQQ?oc=5",
+      "category": "Nigeria",
+      "source": "The Guardian Nigeria",
+      "published_at": "2026-11-12T16:40:47+00:00",
+      "origin": "Google News site search",
+      "publisher": "The Guardian Nigeria",
+      "recency": "recent"
+    },
+    {
+      "title": "Swiss Ebola patient repatriated from Nigeria has recovers",
+      "url": "https://www.vanguardngr.com/2026/11/swiss-ebola-patient-repatriated-from-nigeria-has-recovers/",
+      "category": "Nigeria",
+      "source": "Vanguard",
+      "published_at": "2026-11-12T16:40:07+00:00",
+      "publisher": "Vanguard",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "UNN declares four students dead, orders three-day mourning",
+      "url": "https://www.vanguardngr.com/2026/11/unn-declares-four-students-dead-orders-three-day-mourning/",
+      "category": "Nigeria",
+      "source": "Vanguard",
+      "published_at": "2026-11-12T16:38:40+00:00",
+      "publisher": "Vanguard",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Oyo SDP candidate sues INEC over omission from list",
+      "url": "https://www.vanguardngr.com/2026/11/oyo-sdp-candidate-sues-inec-over-omission-from-list-2/",
+      "category": "Nigeria",
+      "source": "Vanguard",
+      "published_at": "2026-11-12T16:36:52+00:00",
+      "publisher": "Vanguard",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Obi pledges ₦15 million for Yelewata massacre survivors, nursing college",
+      "url": "https://www.premiumtimesng.com/regional/north-central/924697-obi-pledges-%e2%82%a615-million-for-yelewata-massacre-survivors-nursing-college.html",
+      "category": "Nigeria",
+      "source": "Premium Times",
+      "published_at": "2026-11-12T16:33:53+00:00",
+      "publisher": "Premium Times",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "City Beats Archives - Page 3719 of 3719 - The Nation Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9maGhKU3BxemItRE1fVTlnRVJKcm5IVkRCdVZLNV90Z2c0S2dnWkdLWU1tQzhyWmNmOS1ZdTdfZ2llOW5uUDRFajExT2VUZ2ZvUlpXWHprSDlwX2p4d0owTg?oc=5",
       "category": "Nigeria",
       "source": "The Nation",
-      "published_at": "2026-11-12T00:46:27+00:00",
+      "published_at": "2026-11-12T16:32:11+00:00",
       "origin": "Google News site search",
       "publisher": "The Nation",
       "recency": "recent"
     },
     {
-      "title": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
-      "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
       "category": "International",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-12T00:43:26+00:00",
-      "publisher": "Al Jazeera",
+      "source": "BBC News",
+      "published_at": "2026-11-12T16:31:12+00:00",
+      "publisher": "BBC News",
       "origin": "direct RSS",
       "recency": "recent"
     },
     {
-      "title": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
-      "url": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
-      "category": "International",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-12T00:42:37+00:00",
-      "publisher": "Al Jazeera",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Gowon’s memoirs: Nigeria owes Awolowo an eternal debt, by Olu Fasan",
-      "url": "https://www.vanguardngr.com/2026/11/gowons-memoirs-nigeria-owes-awolowo-an-eternal-debt-by-olu-fasan/",
+      "title": "2027: INEC will obey court decision on Atiku’s eligibility – Amupitan",
+      "url": "https://www.vanguardngr.com/2026/11/2027-inec-will-obey-court-decision-on-atikus-eligibility-amupitan/",
       "category": "Nigeria",
       "source": "Vanguard",
-      "published_at": "2026-11-12T00:41:53+00:00",
+      "published_at": "2026-11-12T16:30:21+00:00",
       "publisher": "Vanguard",
       "origin": "direct RSS",
       "recency": "recent"
     },
     {
-      "title": "The US built world’s greatest card system",
-      "url": "https://www.vanguardngr.com/2026/11/the-us-built-worlds-greatest-card-system/",
+      "title": "Thuggery Attack: NDC demands probe, prosecution of perpetrators, vows not to be intimidated",
+      "url": "https://www.vanguardngr.com/2026/11/thuggery-attack-ndc-demands-probe-prosecution-of-perpetrators-vows-not-to-be-intimidated/",
       "category": "Nigeria",
       "source": "Vanguard",
-      "published_at": "2026-11-12T00:40:22+00:00",
+      "published_at": "2026-11-12T16:29:07+00:00",
       "publisher": "Vanguard",
       "origin": "direct RSS",
       "recency": "recent"
     },
     {
-      "title": "2027 Elections: Beyond INEC, 375 Judges’ integrity under trial",
-      "url": "https://www.vanguardngr.com/2026/11/2027-elections-beyond-inec-375-judges-integrity-under-trial/",
-      "category": "Nigeria",
-      "source": "Vanguard",
-      "published_at": "2026-11-12T00:38:00+00:00",
-      "publisher": "Vanguard",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Thinking on your feet: The power of spoken structure under pressure, by Ruth Oji",
-      "url": "https://www.vanguardngr.com/2026/11/thinking-on-your-feet-the-power-of-spoken-structure-under-pressure-by-ruth-oji/",
-      "category": "Nigeria",
-      "source": "Vanguard",
-      "published_at": "2026-11-12T00:37:44+00:00",
-      "publisher": "Vanguard",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "What, if the heavens fall? By Ikechukwu Amaechi",
-      "url": "https://www.vanguardngr.com/2026/11/what-if-the-heavens-fall-by-ikechukwu-amaechi/",
-      "category": "Nigeria",
-      "source": "Vanguard",
-      "published_at": "2026-11-12T00:36:16+00:00",
-      "publisher": "Vanguard",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Why the US, Mexico and Guatemala may lose their measles-free status",
-      "url": "https://www.aljazeera.com/news/2026/11/12/why-the-us-mexico-and-guatemala-may-lose-their-measles-free-status?traffic_source=rss",
-      "category": "International",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-12T00:33:44+00:00",
-      "publisher": "Al Jazeera",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Gbenga Omotoso at 65: A rare gift of generosity and mentorship",
-      "url": "https://www.vanguardngr.com/2026/11/gbenga-omotoso-at-65-a-rare-gift-of-generosity-and-mentorship/",
-      "category": "Nigeria",
-      "source": "Vanguard",
-      "published_at": "2026-11-12T00:33:08+00:00",
-      "publisher": "Vanguard",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Women and their househelps: The cruelty must stop",
-      "url": "https://www.vanguardngr.com/2026/11/women-and-their-househelps-the-cruelty-must-stop/",
-      "category": "Nigeria",
-      "source": "Vanguard",
-      "published_at": "2026-11-12T00:30:26+00:00",
-      "publisher": "Vanguard",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Patronise indigenous firms to create jobs, boost development, Ifezue tells S’East govs",
-      "url": "https://www.vanguardngr.com/2026/11/patronise-indigenous-firms-to-create-jobs-boost-development-ifezue-tells-seast-govs/",
-      "category": "Nigeria",
-      "source": "Vanguard",
-      "published_at": "2026-11-12T00:30:00+00:00",
-      "publisher": "Vanguard",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Cameroon: Who is really calling the shots?",
-      "url": "https://www.aljazeera.com/news/2026/11/12/cameroon-who-is-really-calling-the-shots?traffic_source=rss",
-      "category": "International",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-12T00:29:33+00:00",
-      "publisher": "Al Jazeera",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Right-sizing the map of Africa",
-      "url": "https://www.vanguardngr.com/2026/11/right-sizing-the-map-of-africa-2/",
-      "category": "Nigeria",
-      "source": "Vanguard",
-      "published_at": "2026-11-12T00:26:16+00:00",
-      "publisher": "Vanguard",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Hegseth scolded by security at Tomb of the Unknown Soldier",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/hegseth-scolded-by-security-at-tomb-of-the-unknown-soldier?traffic_source=rss",
-      "category": "International",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-12T00:18:46+00:00",
-      "publisher": "Al Jazeera",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Tinubu recycling failed 2023 promises in 2027 manifesto, says ADC",
-      "url": "https://www.vanguardngr.com/2026/11/tinubu-recycling-failed-2023-promises-in-2027-manifesto-says-adc-2/",
-      "category": "Nigeria",
-      "source": "Vanguard",
-      "published_at": "2026-11-12T00:14:00+00:00",
-      "publisher": "Vanguard",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "US election results could be positive for Lebanon, Hezbollah chief says",
-      "url": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
-      "category": "International",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-12T00:06:50+00:00",
-      "publisher": "Al Jazeera",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
-      "category": "International",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-12T00:00:44+00:00",
-      "publisher": "Al Jazeera",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Barcelona erupts in violence after general strike",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss",
-      "category": "International",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-11T23:50:01+00:00",
-      "publisher": "Al Jazeera",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "2027: APC using my name to gain sympathy – Sule Lamido",
-      "url": "https://www.vanguardngr.com/2026/11/2027-apc-using-my-name-to-gain-sympathy-sule-lamido/",
-      "category": "Nigeria",
-      "source": "Vanguard",
-      "published_at": "2026-11-11T23:42:00+00:00",
-      "publisher": "Vanguard",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Abiodun allocates 49 new duplexes to Ogun judges, swears in five new ones",
-      "url": "https://www.premiumtimesng.com/promoted/924581-abiodun-allocates-49-new-duplexes-to-ogun-judges-swears-in-five-new-ones.html",
+      "title": "Nvidia’s CEO Jensen Huang resigns",
+      "url": "https://www.premiumtimesng.com/business/business-news/924694-nvidias-ceo-jensen-huang-resigns.html",
       "category": "Nigeria",
       "source": "Premium Times",
-      "published_at": "2026-11-11T23:29:12+00:00",
+      "published_at": "2026-11-12T16:27:26+00:00",
       "publisher": "Premium Times",
       "origin": "direct RSS",
       "recency": "recent"
     },
     {
-      "title": "Mbah declares emergency on Nsukka-Adani road, tours Uzo Uwani",
-      "url": "https://www.premiumtimesng.com/promoted/924575-mbah-declares-emergency-on-nsukka-adani-road-tours-uzo-uwani.html",
+      "title": "Bank of Ghana to introduce upgraded cedi banknotes from December 1",
+      "url": "https://nairametrics.com/2026/11/12/bank-of-ghana-to-introduce-upgraded-cedi-banknotes-from-december-1/",
+      "category": "Nigeria",
+      "source": "Nairametrics",
+      "published_at": "2026-11-12T16:26:54+00:00",
+      "publisher": "Nairametrics",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Meet only two countries to have won both men’s and women’s FIFA World Cups",
+      "url": "https://www.vanguardngr.com/2026/11/meet-only-two-countries-to-have-won-both-mens-and-womens-fifa-world-cups/",
+      "category": "Nigeria",
+      "source": "Vanguard",
+      "published_at": "2026-11-12T16:25:08+00:00",
+      "publisher": "Vanguard",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+      "url": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
+      "category": "International",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-12T16:23:29+00:00",
+      "publisher": "Al Jazeera",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Katsina APC Campaign Council Condemns Funtua Violence, Says Perpetrators Will Face Justice",
+      "url": "https://www.channelstv.com/2026/11/12/katsina-apc-campaign-council-condemns-funtua-violence-says-perpetrators-will-face-justice/",
+      "category": "Nigeria",
+      "source": "Channels Television",
+      "published_at": "2026-11-12T16:19:54+00:00",
+      "publisher": "Channels Television",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Over N10trn invested in power sector since privatisation – FG",
+      "url": "https://www.vanguardngr.com/2026/11/over-n10trn-invested-in-power-sector-since-privatisation-fg/",
+      "category": "Nigeria",
+      "source": "Vanguard",
+      "published_at": "2026-11-12T16:16:17+00:00",
+      "publisher": "Vanguard",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "A new look for FHFL, with affordable housing still at its heart",
+      "url": "https://www.premiumtimesng.com/promoted/924689-a-new-look-for-fhfl-with-affordable-housing-still-at-its-heart.html",
       "category": "Nigeria",
       "source": "Premium Times",
-      "published_at": "2026-11-11T23:17:30+00:00",
+      "published_at": "2026-11-12T16:12:58+00:00",
       "publisher": "Premium Times",
       "origin": "direct RSS",
       "recency": "recent"
     },
     {
-      "title": "Coy Reimagines Everyday Living with Innovative Home Robot - THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFkwM1RRemJqY3BIeWxqSDdseHVrRWFSUzM1THlVY3d0R2I0S2JpMjZtSzhSOUtBWHpjWTJFV0hYVy16dklzNW8wakk0azNYM1dNT29zVm9mUG55MnJrTFh2b0JpTUtDM3NFUmw5VUtrbV84UjJiU2dwcGZKSHBGdXBPQXBmSUQwd1NLaUN2S2gwN1VJRnhlUHFMa2d4QQ?oc=5",
+      "title": "Customs officers must outsmart smugglers, go intelligence-led — Adeniyi",
+      "url": "https://www.vanguardngr.com/2026/11/customs-officers-must-outsmart-smugglers-go-intelligence-led-adeniyi/",
+      "category": "Nigeria",
+      "source": "Vanguard",
+      "published_at": "2026-11-12T16:10:24+00:00",
+      "publisher": "Vanguard",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
+      "category": "International",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-12T16:07:16+00:00",
+      "publisher": "Al Jazeera",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "PromiseLand Estate earmarks N50b for massive infrastructure development across Nigeria in 2027 – Amb Oloche",
+      "url": "https://www.premiumtimesng.com/promoted/924685-promiseland-estate-earmarks-n50b-for-massive-infrastructure-development-across-nigeria-in-2027-amb-oloche.html",
+      "category": "Nigeria",
+      "source": "Premium Times",
+      "published_at": "2026-11-12T16:06:30+00:00",
+      "publisher": "Premium Times",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "UNN Confirms Death Of Four Students After Off-Campus Party",
+      "url": "https://www.channelstv.com/2026/11/12/unn-confirms-death-of-four-students-after-off-campus-party/",
+      "category": "Nigeria",
+      "source": "Channels Television",
+      "published_at": "2026-11-12T16:03:48+00:00",
+      "publisher": "Channels Television",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Ebonyi pensioners endorse Nwifuru for second term",
+      "url": "https://www.vanguardngr.com/2026/11/ebonyi-pensioners-endorse-nwifuru-for-second-term/",
+      "category": "Nigeria",
+      "source": "Vanguard",
+      "published_at": "2026-11-12T16:03:16+00:00",
+      "publisher": "Vanguard",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "How CanalBox is Democratising Internet Service Through Fibre",
+      "url": "https://nairametrics.com/2026/11/12/how-canalbox-is-democratising-internet-service-through-fibre/",
+      "category": "Nigeria",
+      "source": "Nairametrics",
+      "published_at": "2026-11-12T16:01:26+00:00",
+      "publisher": "Nairametrics",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "2027: Reelect us to complete what we started, Tinubu begs Edo people",
+      "url": "https://www.vanguardngr.com/2026/11/2027-reelect-us-to-complete-what-we-started-tinubu-begs-edo-people/",
+      "category": "Nigeria",
+      "source": "Vanguard",
+      "published_at": "2026-11-12T16:00:08+00:00",
+      "publisher": "Vanguard",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Trump calls for Apple ex-CEO Tim Cook to replace Huang at Nvidia",
+      "url": "https://www.vanguardngr.com/2026/11/trump-calls-for-apple-ex-ceo-tim-cook-to-replace-huang-at-nvidia/",
+      "category": "Nigeria",
+      "source": "Vanguard",
+      "published_at": "2026-11-12T15:58:31+00:00",
+      "publisher": "Vanguard",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "‘We’ll Be Refined And Rugged In 2027,’ Aisha Yesufu Tells NDC Supporters After Lagos Attack",
+      "url": "https://www.channelstv.com/2026/11/12/well-be-refined-and-rugged-in-2027-aisha-yesufu-tells-ndc-supporters-after-lagos-attack/",
+      "category": "Nigeria",
+      "source": "Channels Television",
+      "published_at": "2026-11-12T15:55:18+00:00",
+      "publisher": "Channels Television",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Businessman’s Death: Chris Okafor’s lawyer threatens action over reports of cleric’s arrest",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/924683-businessmans-death-chris-okafors-lawyer-threatens-action-over-reports-of-clerics-arrest.html",
+      "category": "Nigeria",
+      "source": "Premium Times",
+      "published_at": "2026-11-12T15:53:52+00:00",
+      "publisher": "Premium Times",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Jarumin Nollywood, Olumide Oworu ya tsaya takarar ɗan Majalisar Tarayya a Lagos - Legit News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2pWZEZPd1A5RE15cEdvLU1BNE5kRFFPME1QRlk3OU9WNzhhUk9kTFVPemdOU3NocFcyVHV6NlMzMUpmdVRwN1J2S0Rjb1F3SXpjMXZnRFYyZjNNYWJ3cXhHX1VNWEpvWnhzRVNjanZEWlFkT05aZWRqRENqc3diVXpSaW1qMjBZS2lpeHdUak9tVGxQeDZ0ZjBPemVvVXR1Ynd6a0tjNkJyMXV3aUtzUnM0dFlTZlE?oc=5",
+      "category": "Nigeria",
+      "source": "Legit.ng",
+      "published_at": "2026-11-12T15:49:28+00:00",
+      "origin": "Google News site search",
+      "publisher": "Legit.ng",
+      "recency": "recent"
+    },
+    {
+      "title": "Reps ask law enforcement agencies to probe ‘threats’ against judicial officers - TheCable",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV1RsUXd3MHdDckRhRUJ1Y1BqeHJ4MncwX1FKNkstWFNGMG00RUdIRU5FSUJqWWYyRmhJVWc4VTBWaG00RmUxWTZ1bktZRVpHUVY4clZoZFBySjNqYkVNbFNiQU1xWko3MG9lc0VndmZxTlhfaVNzWUlPWWxKZDduSzlVanY4UXZqZUVjYWZPUmNlY0lOUlc4RTQ4cWpTdmtqMmtj?oc=5",
+      "category": "Nigeria",
+      "source": "TheCable",
+      "published_at": "2026-11-12T15:46:00+00:00",
+      "origin": "Google News site search",
+      "publisher": "TheCable",
+      "recency": "recent"
+    },
+    {
+      "title": "Four people shot in Washington DC",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
+      "category": "International",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-12T15:42:07+00:00",
+      "publisher": "Al Jazeera",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "New York Building Collapse Kills Eight, Leaves 19 Injured as Rescue Efforts Continue - nta.ng",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeS1hclFmckRpT1hsRElpcjlMZDA0clpvNDB4YnB2ZG1LQ0dBTVpGQ2NDMXZGcktoVm1EZTFja2RqTjliNzBvVlNiN1YyNEpVZHpMa2V0V3Y3NU1VOEVSX0hTNnpES0J3WFZ0MGVzYkYzdGdNSHVoQkFQNW5RSS1WbW9FUHRtVmNrOXl1a0c4ck4teHpMRGZBcVNCQXZiUFI3b1pnb1g3Q1NVU0ZmZW9rcFhWTDRuTFE?oc=5",
+      "category": "Nigeria",
+      "source": "NTA",
+      "published_at": "2026-11-12T15:38:59+00:00",
+      "origin": "Google News site search",
+      "publisher": "NTA",
+      "recency": "recent"
+    },
+    {
+      "title": "2027: Reps to probe attacks on political rallies, supporters",
+      "url": "https://www.premiumtimesng.com/news/top-news/924680-2027-reps-to-probe-attacks-on-political-rallies-supporters.html",
+      "category": "Nigeria",
+      "source": "Premium Times",
+      "published_at": "2026-11-12T15:38:53+00:00",
+      "publisher": "Premium Times",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Suspected thugs attack NDC town hall venue in Lagos, damage vehicles",
+      "url": "https://www.premiumtimesng.com/news/top-news/924677-suspected-thugs-attack-ndc-town-hall-venue-in-lagos-damage-vehicles.html",
+      "category": "Nigeria",
+      "source": "Premium Times",
+      "published_at": "2026-11-12T15:30:24+00:00",
+      "publisher": "Premium Times",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "MirrorMingo Al Surpasses 2,000 Users After Launch, Champions AI-Powered Learning in Hausa, Igbo, Yoruba and Pidgin, and Drives Al Adoption in Nigerian Schools. - Techpoint Africa",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZFNZT1YxdHdTSjNRN2M5M3lvaE5ENWJaeWtnY19leDJlYkRoWUNnQ1NyaFNaWFJzT2VRNXlQN2g2Z1JKNVk1ekhmVFVPcFBvWjVITE9GT01ZbkY5a1Z5UjZRa2ZnU1VZcExLVlRXZHYxcXl3U1JIZUpzcGVRQ1pKclNNYl85bXRMR1VJYXl3ZGtnb3ZqNXFYYUhiWHVjZE9HdXZmNl9zeFBKVk5RLU1pcVcxcG1NRUo5aUJkaGpuWU1TNDBhOGtDRlk2c2tIX25SaXJjS2IyTm1naEFoREJ6XzdPT0hxVkg2S29DVUs5a0R2VHlNdU1VUWtGak1TcWZUdGh6SzhsLV9yT0VGV0FjQjN0aVhFeFB6VV93?oc=5",
+      "category": "Nigeria",
+      "source": "Techpoint Africa",
+      "published_at": "2026-11-12T15:30:00+00:00",
+      "origin": "Google News site search",
+      "publisher": "Techpoint Africa",
+      "recency": "recent"
+    },
+    {
+      "title": "Colette Kress: Meet Nvidia’s interim CEO steering multi-trillion dollar AI growth",
+      "url": "https://nairametrics.com/2026/11/12/colette-kress-meet-nvidias-interim-ceo-steering-multi-trillion-dollar-ai-growth/",
+      "category": "Nigeria",
+      "source": "Nairametrics",
+      "published_at": "2026-11-12T15:25:26+00:00",
+      "publisher": "Nairametrics",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Manchester United sacked manager Michael Carrick",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/manchester-united-sacked-manager-michael-carrick?traffic_source=rss",
+      "category": "International",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-12T15:21:43+00:00",
+      "publisher": "Al Jazeera",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "UNIJOS appoints first female vice-chancellor, Patricia Lar",
+      "url": "https://www.premiumtimesng.com/regional/north-central/924674-unijos-appoints-first-female-vice-chancellor-patricia-lar.html",
+      "category": "Nigeria",
+      "source": "Premium Times",
+      "published_at": "2026-11-12T15:18:48+00:00",
+      "publisher": "Premium Times",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "category": "International",
+      "source": "BBC News",
+      "published_at": "2026-11-12T15:18:20+00:00",
+      "publisher": "BBC News",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "UK court finds two Iranian men guilty of spying for Iran",
+      "url": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
+      "category": "International",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-12T15:15:48+00:00",
+      "publisher": "Al Jazeera",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Four UNN students die of ‘hard drug overdose’",
+      "url": "https://www.premiumtimesng.com/news/top-news/924672-four-unn-students-die-of-hard-drug-overdose.html",
+      "category": "Nigeria",
+      "source": "Premium Times",
+      "published_at": "2026-11-12T15:11:11+00:00",
+      "publisher": "Premium Times",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Spain approves housing reforms after nationwide strike over costs",
+      "url": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss",
+      "category": "International",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-12T15:02:30+00:00",
+      "publisher": "Al Jazeera",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Court orders Maina’s son to serve seven-year jail term after six years of fleeing",
+      "url": "https://www.premiumtimesng.com/news/top-news/924670-court-orders-mainas-son-to-serve-seven-year-jail-term-after-six-years-of-fleeing.html",
+      "category": "Nigeria",
+      "source": "Premium Times",
+      "published_at": "2026-11-12T14:52:47+00:00",
+      "publisher": "Premium Times",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang resigns as company appoints Colette Kress interim CEO",
+      "url": "https://nairametrics.com/2026/11/12/nvidia-ceo-jensen-huang-resigns-as-company-appoints-colette-kress-interim-ceo/",
+      "category": "Nigeria",
+      "source": "Nairametrics",
+      "published_at": "2026-11-12T14:49:51+00:00",
+      "publisher": "Nairametrics",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?",
+      "url": "https://www.aljazeera.com/news/2026/11/12/trump-heads-to-china-amid-nvidia-scandal-will-he-get-tougher-on-beijing?traffic_source=rss",
+      "category": "International",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-12T14:48:10+00:00",
+      "publisher": "Al Jazeera",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Gbenga Adeboye’s widow names former lover amid family dispute",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/924666-gbenga-adeboyes-widow-names-former-lover-amid-family-dispute.html",
+      "category": "Nigeria",
+      "source": "Premium Times",
+      "published_at": "2026-11-12T14:45:32+00:00",
+      "publisher": "Premium Times",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/live-jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns?traffic_source=rss",
+      "category": "International",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-12T14:44:54+00:00",
+      "publisher": "Al Jazeera",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Migrant caravan sets out from southern Mexico bound for US after midterms",
+      "url": "https://www.aljazeera.com/news/2026/11/12/migrant-caravan-sets-out-from-southern-mexico-bound-for-us-after-midterms?traffic_source=rss",
+      "category": "International",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-12T14:38:42+00:00",
+      "publisher": "Al Jazeera",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
+      "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
+      "category": "International",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-12T14:27:54+00:00",
+      "publisher": "Al Jazeera",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "category": "International",
+      "source": "BBC News",
+      "published_at": "2026-11-12T14:27:30+00:00",
+      "publisher": "BBC News",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Who bewitched Nigerian youths? - TheCable",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MS2xiSUpBNFlEVElUem1KZWJUeE9zSnZWOU1HRlZVNnNqS21KbWNqTGxGT2JFUlFoelBPX3pDRnhubnpCdGM0M1FQb0F2NHdhTUNRb1lUV0hfSVhiZDJMbkM3X3U?oc=5",
+      "category": "Nigeria",
+      "source": "TheCable",
+      "published_at": "2026-11-12T14:27:02+00:00",
+      "origin": "Google News site search",
+      "publisher": "TheCable",
+      "recency": "recent"
+    },
+    {
+      "title": "FG clears 21-Month pension backlog, funds workers’ benefits until December 2029",
+      "url": "https://nairametrics.com/2026/11/12/fg-clears-21-month-pension-backlog-funds-workers-benefits-until-december-2029/",
+      "category": "Nigeria",
+      "source": "Nairametrics",
+      "published_at": "2026-11-12T14:24:56+00:00",
+      "publisher": "Nairametrics",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
+      "url": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
+      "category": "International",
+      "source": "Al Jazeera",
+      "published_at": "2026-11-12T14:23:01+00:00",
+      "publisher": "Al Jazeera",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Resigns",
+      "url": "https://www.channelstv.com/2026/11/12/nvidia-ceo-jensen-huang-resigns/",
+      "category": "Nigeria",
+      "source": "Channels Television",
+      "published_at": "2026-11-12T14:19:20+00:00",
+      "publisher": "Channels Television",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Nvidia's CEO was the rock star of AI before his dramatic unravelling - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kUDZMaXl2dWF4b0lHT0JkWVJBYXFiWnhXX1EyWGZGNy11aTk0RGhZRzlHRUFXREpjdWpHZUlMWElRcXRRM1ByWGIzLXRBQlN1UEY4OU9ONWJhc1d2N0E?oc=5",
+      "category": "International",
+      "source": "BBC",
+      "published_at": "2026-11-12T14:18:33+00:00",
+      "origin": "Google News RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "The vote is not yours to deliver - TheCable",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ub1ByUWVkNEtEQzdDQ09nMWs3RW41YWRyWl9YVk5SR0FGLXd2cnF3S2hycERWYVFsYXRwRm1ldFVEUXVjN3dsMU42cXgwOUtPbXBJSjdRT2NQUHN5STFxYTJKb2F6NGVB?oc=5",
+      "category": "Nigeria",
+      "source": "TheCable",
+      "published_at": "2026-11-12T14:18:00+00:00",
+      "origin": "Google News site search",
+      "publisher": "TheCable",
+      "recency": "recent"
+    },
+    {
+      "title": "‘I’m Here’, Fubara Declares As Wike Inaugurates Rainbow Coalition, APC Campaign Council In Rivers",
+      "url": "https://www.channelstv.com/2026/11/12/im-here-fubara-declares-as-wike-inaugurates-rainbow-coalition-apc-campaign-council-in-rivers/",
+      "category": "Nigeria",
+      "source": "Channels Television",
+      "published_at": "2026-11-12T14:14:20+00:00",
+      "publisher": "Channels Television",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Reps move to establish governing board for PTDF - The Nation Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2hNcGVvS1FrWnU4UDAyUnpUU0VnZWc1ZjhFU2V0dDJZUVI2SnhuaExxazM2Q1NmbFR2am1mMkhLU3ZSSHhvbUFmblNpcHkwWWRGb0Q1TG0wa0YxMmZuZ2NZSzdVaWZ3TktfbEUwbmxpYmVKMG5qMmpCSGtpZ3JnZ2duT2jSAYoBQVVfeXFMTlVqd1FOOHlqWTJZT1NWWDM2R2I0SEhiYy1TNXFlWnFJVEVLMHNxa1FuNFBYWTlMZm55dF9tcVNZVE5mNjRQaU5BR1JxMlhuemcyYXFrcHZvTlU0bU1wcF9KT29QcFVaWWU0RkFJU0hBcDAxQWZBRDVyVEo2TWhFd2FfbjhBanVvcGd3?oc=5",
+      "category": "Nigeria",
+      "source": "The Nation",
+      "published_at": "2026-11-12T14:10:34+00:00",
+      "origin": "Google News site search",
+      "publisher": "The Nation",
+      "recency": "recent"
+    },
+    {
+      "title": "Lifu Judgment: ADC Guber Candidates Seek AU, UN, ECOWAS Intervention - The Whistler Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGhVeUlLX2Q5eUZmdjNvOE90cEtlVF9hZ2l6WWFOeEdvTUJrUDY1NTdWZTBqMEtNemhwdlAxUFlfd1U0eTN0QWppSmd4NUt5OHgtWVg0LVJ6NlZpS2lhak41SS0yWC1zeUVlMGJmY0ZoeE1xZmttSUNSUlh2Ukx6VmRNZEZNSWszd0ZDVXdncmoyc1U?oc=5",
+      "category": "Politics",
+      "source": "The Whistler Newspaper",
+      "published_at": "2026-11-12T14:02:13+00:00",
+      "origin": "Google News RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "AI Powers UK Economic Growth In Third Quarter",
+      "url": "https://www.channelstv.com/2026/11/12/ai-powers-uk-economic-growth-in-third-quarter/",
+      "category": "Nigeria",
+      "source": "Channels Television",
+      "published_at": "2026-11-12T13:58:23+00:00",
+      "publisher": "Channels Television",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "TheCable journalist attacked, equipment stolen by 'APC' loyalists at NDC town hall meeting in Lagos - TheCable",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTG91aWZZZG85cUVIX2cyZ3J0aUFmcnJXc1FaYVF0WEptVDF0d08wZ1hJenhSVm5meExDYnYwdlUzODZYT3NCSjlFT244UHFEZVotRDRQalZiekFmUURRZ0NWYVRLOVhwdTZMWFc5ZC1xZk53LU5sWDBCa29YaVZmcXFFbDdwZEhfYXNDcW9kUUpXZUtieDRjbXpjQm1hd2RTSEpUSUhjekVyUUJUXzN4SWhRYTJ6aVJGaTg2dEtB?oc=5",
+      "category": "Nigeria",
+      "source": "TheCable",
+      "published_at": "2026-11-12T13:51:00+00:00",
+      "origin": "Google News site search",
+      "publisher": "TheCable",
+      "recency": "recent"
+    },
+    {
+      "title": "Gridlock as APC campaign train arrives Edo - Daily Trust",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Md1cxbUxQcWJMR0NBeExWbGxZWkswZXhydTlHWTNNNWJuQktaRjZfSmwzWDFFZWY2SHdmNjhrMGRXdDlzSXN3UFZyakZKWWRHTTduaHZtQmg4c1YyUWtrcWt6OVhfV3lSQXY0Q3BVYWlnVzVW?oc=5",
+      "category": "Nigeria",
+      "source": "Daily Trust",
+      "published_at": "2026-11-12T13:49:52+00:00",
+      "origin": "Google News site search",
+      "publisher": "Daily Trust",
+      "recency": "recent"
+    },
+    {
+      "title": "Inside the economics of OPay and Moniepoint’s business - TechCabal",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wV2JuZkNCczh4dXpYSVR2cVZNNGpwU2hZc3NYcmFlLUptMG1LQXY3TjhNMnpseDlfRlFMVFU1MjVSb3FUN21EdjZRQ0RjYzVzYVJFMXJSNFF5bmthQjN3cWg1VVVXRTkyVlhXY19QNmU0TFpFSmc?oc=5",
+      "category": "Nigeria",
+      "source": "TechCabal",
+      "published_at": "2026-11-12T13:42:33+00:00",
+      "origin": "Google News site search",
+      "publisher": "TechCabal",
+      "recency": "recent"
+    },
+    {
+      "title": "US Does Not ‘Need A Deal With Iran’, Says Trump",
+      "url": "https://www.channelstv.com/2026/11/12/us-does-not-need-a-deal-with-iran-says-trump/",
+      "category": "Nigeria",
+      "source": "Channels Television",
+      "published_at": "2026-11-12T13:42:18+00:00",
+      "publisher": "Channels Television",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Ana cikin jana'iza, rikici ya ɓarke da ya jawo rasa ran mutum 2 da raunata wasu - Legit News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdjBxRUxOLWZ6OHJqcmFEVno1WUlKZjVfQ2xJQXdqZkFwQ25vUmVRZzJqVFc5YWZwSVJBRUhBNm9ZbzNvVWtIX3h4a0ZzektzN3NEMzZZTXZXUUJScHF4Qkk3UkF5MEpfRzM3NlFGSl9abXJ0aEVWd0dveno5eFlnQUlsOEYwTWx0SU55VU93blllUTZkS1FMZ0FSbnY0WDFTZ2FF?oc=5",
+      "category": "Nigeria",
+      "source": "Legit.ng",
+      "published_at": "2026-11-12T13:38:22+00:00",
+      "origin": "Google News site search",
+      "publisher": "Legit.ng",
+      "recency": "recent"
+    },
+    {
+      "title": "Amaechi’s campaign worse than diarrhoea - TheCable",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QOVBvMzFZUmp3emhkVEZaUmtWVzdQSzdzdDcwM2lpaTBudno3eTJ3ZTFSNlRta19MU0JpVWM3ZFYtVWF6VzVqQVVEbjNOTXZOY1lNX3hoZVo5R3lxX0pJZnRjX0xoUld4dWtUZG16Z0E?oc=5",
+      "category": "Nigeria",
+      "source": "TheCable",
+      "published_at": "2026-11-12T13:34:19+00:00",
+      "origin": "Google News site search",
+      "publisher": "TheCable",
+      "recency": "recent"
+    },
+    {
+      "title": "Tsohon shugaban jami'ar OAU, Farfesa Wale Omole, ya rasu yana da shekaru 84 - Legit News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONl90YVJoSHVXbVBsckMwNVFYNExsSDN2ZVV6SkRfcDFvMlRmcWhZZlNCZW1lZWU5NnY0QTV4SnpPbEJ4TC1yT0dPTElsS2o4ajBMZHNWa0RDMWRiejY0QWFTcklFNzdQSVZNbXdjbThkX1R1RDh3a05saEJIRV9OcjJjU3ZDZWxlNkd5MG1fcTg5dXJHaE9FQXRGTEY2aDkwZEkw?oc=5",
+      "category": "Nigeria",
+      "source": "Legit.ng",
+      "published_at": "2026-11-12T13:26:47+00:00",
+      "origin": "Google News site search",
+      "publisher": "Legit.ng",
+      "recency": "recent"
+    },
+    {
+      "title": "Faisal Islam: Why the UK economy is surprisingly resilient - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0TFpVdXlwaWJkYjd6S3V0cERrU3o2MUNiYlpzVVJMREdXemV6QkZIdHhHei1zdFpPUVJyYnhkRzFwR2gtV3N0VEVIcFZOdXUwOUdRdzctOTZZVzhvcWc?oc=5",
+      "category": "International",
+      "source": "BBC",
+      "published_at": "2026-11-12T13:26:36+00:00",
+      "origin": "Google News RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "UNIJOS Appoints First Female Vice Chancellor In 50-Year History",
+      "url": "https://www.channelstv.com/2026/11/12/unijos-appoints-first-female-vice-chancellor-in-50-year-history/",
+      "category": "Nigeria",
+      "source": "Channels Television",
+      "published_at": "2026-11-12T13:21:15+00:00",
+      "publisher": "Channels Television",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "DMO raises N5.06 billion from November savings bonds, down 17.4%",
+      "url": "https://nairametrics.com/2026/11/12/dmo-raises-n5-06-billion-from-november-savings-bonds-down-17-4/",
+      "category": "Nigeria",
+      "source": "Nairametrics",
+      "published_at": "2026-11-12T13:19:14+00:00",
+      "publisher": "Nairametrics",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "category": "International",
+      "source": "BBC News",
+      "published_at": "2026-11-12T13:02:46+00:00",
+      "publisher": "BBC News",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "category": "International",
+      "source": "BBC News",
+      "published_at": "2026-11-12T12:56:55+00:00",
+      "publisher": "BBC News",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "What Does Maga Mean in Nigerian? - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PU2NuRGQwVXFSZTBvVzRsOVZvb0pRdFZueTJXNTFfeGNuMzNxejNTLVVYS2hfUnpXVkc5eENnUVdLN1pUMi10M3piV2RpazdVRGRnRkFsVXJ5XzBwRGt0aUdrbVROTThXUVpvZjZB?oc=5",
+      "category": "Nigeria",
+      "source": "The Guardian Nigeria",
+      "published_at": "2026-11-12T12:55:22+00:00",
+      "origin": "Google News site search",
+      "publisher": "The Guardian Nigeria",
+      "recency": "recent"
+    },
+    {
+      "title": "Reps Call For Investigation Into Reports On Alleged Judicial Officials Intimidation",
+      "url": "https://www.channelstv.com/2026/11/12/reps-call-for-investigation-into-reports-on-alleged-judicial-officials-intimidation/",
+      "category": "Nigeria",
+      "source": "Channels Television",
+      "published_at": "2026-11-12T12:54:42+00:00",
+      "publisher": "Channels Television",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "category": "International",
+      "source": "BBC News",
+      "published_at": "2026-11-12T12:39:39+00:00",
+      "publisher": "BBC News",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "2026 CAF Awards: Date, Venue, Nominees & Everything to Know - BellaNaija",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONFRCa0IyU25CRWhfc0xJZUh0WndIa21aTW1RUHphTkNfckpha0NVY1dlemMtUnBCaVBoWkVHQ0w2Mlp4dGZsejZHS3drWkZQMm9IN3RCbG4wUm9RMFVpLXpvVTdvaHNzdUZfcld0N3hNelN3MUpZWGRlUnlTOGkyOXFoQQ?oc=5",
+      "category": "Nigeria",
+      "source": "BellaNaija",
+      "published_at": "2026-11-12T12:03:37+00:00",
+      "origin": "Google News site search",
+      "publisher": "BellaNaija",
+      "recency": "recent"
+    },
+    {
+      "title": "Party supporters fight back as Thugs break into NDC townhall in Lagos - Daily Trust",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2hMQU9iOENwN3I0WGd0SnJTcHp3cmJKQnlPR3JzOGwyQ0dyZ1VpdENMYmJrT3hkaTlfUmw1NTZpWFVXdHJuQ2ZFd3JRX2piSmVqMms2MUJDS08xUDQ2SmVXOXJmZXNDWEljQTlxVHZnNTctZlFNY1pEdmNUVWVDOTFBTlVoWGZDajZnS0FoNVYzVWhfdVYxa3lJMVZSQjdJRTVHaA?oc=5",
+      "category": "Nigeria",
+      "source": "Daily Trust",
+      "published_at": "2026-11-12T11:59:51+00:00",
+      "origin": "Google News site search",
+      "publisher": "Daily Trust",
+      "recency": "recent"
+    },
+    {
+      "title": "Funke Akindele Reflects on Discipline, Originality and the Power of Creative Innovation - nta.ng",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdS1KSmxNVDZIemk1ZXhLY0FINjFkS0I1RlpUTzFYM0FyS1BKVUdvMVpQczRGUlVqVzdGYUcwTkJYSlNVeXdpNENXQ2JzbXFJMTV0c1ZNNDJXcjJhTmNqUU5yRDc5TFp6cUluT3l5ZmVwaExjcmVXamQ1NWlSZVpVcGNhZF9pZFIxV0dteDdtMzROUFV3RXdiOFNsNFFyMk80WWY2LWJfUlNDd1JwdHh6eEt2bGR1TTlHb3E1ZDJjMjA1Zw?oc=5",
+      "category": "Nigeria",
+      "source": "NTA",
+      "published_at": "2026-11-12T11:43:26+00:00",
+      "origin": "Google News site search",
+      "publisher": "NTA",
+      "recency": "recent"
+    },
+    {
+      "title": "Celebrating 50 Years of Nourishment: Maltina Introduces Its New Look to Trade Partners - BellaNaija",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FX3hBZ3VOZWxPbTVMUFE5Zkdqb0hWdzA5Tk1Sd0xMUTVSWU9LR0ZndEVWcUxPbDJhVHZPS25tejZqSkp0bVplLV9YbURlVG1vclJ5RWI0YzVxVDRBSEZuQnhEOWhmR3NhSlFQYllhSUZUUTh5UzJ1RjN5Wlo?oc=5",
+      "category": "Nigeria",
+      "source": "BellaNaija",
+      "published_at": "2026-11-12T11:41:08+00:00",
+      "origin": "Google News site search",
+      "publisher": "BellaNaija",
+      "recency": "recent"
+    },
+    {
+      "title": "AfDB, AFD sign five-year deal to expand infrastructure financing across 14 African countries",
+      "url": "https://nairametrics.com/2026/11/12/afdb-afd-sign-five-year-deal-to-expand-infrastructure-financing-across-14-african-countries/",
+      "category": "Nigeria",
+      "source": "Nairametrics",
+      "published_at": "2026-11-12T11:13:11+00:00",
+      "publisher": "Nairametrics",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Za a kaddamar da littafin tarihin Buhari daga yarinta zuwa rasuwarsa - Legit News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUFV4OHppUlRPSkx4Q1JaR3JTc3M2TWVscm5NMjBENVhZOVJLVWdpQ1RkQjduY2VVMjY5bHprRlRsLUNYRTRmX0lVYWh4ZG9zZC1UOUhNSFQzZU1MQ2tHbWRTS2RQdkExVHR0MGdpUVR0Znk4UGh0d2lZNHMwSWhfZXRmYUMzWjAzLVAxZ2Z0SVgzQQ?oc=5",
+      "category": "Nigeria",
+      "source": "Legit.ng",
+      "published_at": "2026-11-12T11:07:25+00:00",
+      "origin": "Google News site search",
+      "publisher": "Legit.ng",
+      "recency": "recent"
+    },
+    {
+      "title": "After Worst Start in 40 Years, Manchester United sack Carrick - Daily Trust",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSWc5T2M5SnlsdnlVUm5udmJLQng2aDBBQzFTRXpCT3lhaGk0M0NQa0pJN0t0eVNyUE9Fdk5wYkFBVG9mel9IZEk5bVZibUVFYjlxM2k1Q1NPUDk1ZjNDekFIZVFKVFZzSlpsRnNjYV9SeTBSak14NlRUSllQQWZuUDZlUHFwS2pTNzRKNw?oc=5",
+      "category": "Nigeria",
+      "source": "Daily Trust",
+      "published_at": "2026-11-12T11:04:37+00:00",
+      "origin": "Google News site search",
+      "publisher": "Daily Trust",
+      "recency": "recent"
+    },
+    {
+      "title": "Moniepoint, Tosin Eniolorunda Foundation reward OAU Final-Year students with millions for innovative and practical projects",
+      "url": "https://nairametrics.com/2026/11/12/moniepoint-tosin-eniolorunda-foundation-reward-oau-final-year-students-with-millions-for-innovative-and-practical-projects/",
+      "category": "Nigeria",
+      "source": "Nairametrics",
+      "published_at": "2026-11-12T11:03:15+00:00",
+      "publisher": "Nairametrics",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "World Bank proposes $250 million financing for Kenya’s irrigation projects",
+      "url": "https://nairametrics.com/2026/11/12/world-bank-proposes-250-million-financing-for-kenyas-irrigation-projects/",
+      "category": "Nigeria",
+      "source": "Nairametrics",
+      "published_at": "2026-11-12T10:55:38+00:00",
+      "publisher": "Nairametrics",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "PHOTOS: Thugs attack NDC supporters during town hall meeting in Lagos - TheCable",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkN3enV2MG51TkhpREhINVYwaTY3VU0zM3dGVXd0ZUYxSXk3dzZ2UnJfQWpFcF9VOW1qaG5MdW9jYmRmbmxRaE91T0hsSlFKSFlCeXJ1czgwNFZiNTJhRWYxUmNDelRCMEtUODhWNlRHUm9DLTNKcEgxRjA3d2tiaXduSkdWSkN5dHJ3aWFsa0VUT2xnZ1BEYy1PYw?oc=5",
+      "category": "Nigeria",
+      "source": "TheCable",
+      "published_at": "2026-11-12T10:53:00+00:00",
+      "origin": "Google News site search",
+      "publisher": "TheCable",
+      "recency": "recent"
+    },
+    {
+      "title": "Jama'a sun ta kira sunan Peter Obi da shugaban majalisa ya fara tallata Tinubu - Legit News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSU5Ic0o4NnNVZDhxMXhPNkp4ZGI2cG84czNZR3VtTDNsOEZSd0J5TDdxQlhNTWUxZXRBSEhyM0FXZTk4eXA3ZWJzcWJDN2o3WEpWR2lXSWpfYnN1MVdFdlBzdWJfRTB1VjJjVjV4NUJLSnczTDk2M1I4SlowVjlBWjRZM28yMzZoS3FGOGtCdTZnNkhxOG9UVkVQcEFsT2pqMGQwVzZFN1B3eFAwVUlaOHNNYU8?oc=5",
+      "category": "Nigeria",
+      "source": "Legit.ng",
+      "published_at": "2026-11-12T10:28:21+00:00",
+      "origin": "Google News site search",
+      "publisher": "Legit.ng",
+      "recency": "recent"
+    },
+    {
+      "title": "Nigeria’s active mobile subscriptions cross 200 million in September, highest in 2 years",
+      "url": "https://nairametrics.com/2026/11/12/nigerias-active-mobile-subscriptions-cross-200-million-in-september-highest-in-2-years/",
+      "category": "Nigeria",
+      "source": "Nairametrics",
+      "published_at": "2026-11-12T10:25:18+00:00",
+      "publisher": "Nairametrics",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "British woman missing from cruise ship in Atlantic",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+      "category": "International",
+      "source": "BBC News",
+      "published_at": "2026-11-12T10:13:35+00:00",
+      "publisher": "BBC News",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Taraba L-PRES opens bids for abattoir rehabilitation, farmer field schools, wet markets - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3BYMllQYWNXNHFfbkNkR3FBX25aQzJNSHlWQkR4el9wWFpOZUdYWGxCN1RkNGYyd3pSNWl4VXlRZUk3eUFpSy02T0lvWDNnM1E1Zzk3Qy1JVXBqTTd0cXFKWEJmdWdjem5INUJJUXBIbWI3eWlVQ1JSaHVjS281WmZ1R3VtQnQzUEtSS1NMSWxQQWZsSG8yc3h5aFg2NUthWWFlXzZrSkhkeXU0OWd4eg?oc=5",
+      "category": "Nigeria",
+      "source": "The Guardian Nigeria",
+      "published_at": "2026-11-12T09:51:54+00:00",
+      "origin": "Google News site search",
+      "publisher": "The Guardian Nigeria",
+      "recency": "recent"
+    },
+    {
+      "title": "FG moves to award contracts for four new satellites, awaits FEC approval",
+      "url": "https://nairametrics.com/2026/11/12/fg-moves-to-award-contracts-for-four-new-satellites-awaits-fec-approval/",
+      "category": "Nigeria",
+      "source": "Nairametrics",
+      "published_at": "2026-11-12T09:29:45+00:00",
+      "publisher": "Nairametrics",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Layer3 Strengthens Board with Tomi Davies and Maryamu Aminu as It Targets Cloud and Infrastructure Growth",
+      "url": "https://nairametrics.com/2026/11/12/layer3-strengthens-board-with-tomi-davies-and-maryamu-aminu-as-it-targets-cloud-and-infrastructure-growth/",
+      "category": "Nigeria",
+      "source": "Nairametrics",
+      "published_at": "2026-11-12T09:22:54+00:00",
+      "publisher": "Nairametrics",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Union Pickets RMRDC Over Unresolved Labour Dispute - LEADERSHIP Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9udFpwTk5KVHVmNFlYZl93OFhJYWRmOEE0NjdEUlNzbEV0TUY5QnRuYklQTk9feU1VZkdMOTJGaGRBdl8tUm82aUhxZkRmNmRMUXh6bE53aU9oT2tiSnNKeHNhQWJNSnV4TkFjY1ZZeHBYcTJDM2dvcEZhMHU0dw?oc=5",
+      "category": "Nigeria",
+      "source": "Leadership",
+      "published_at": "2026-11-12T09:04:51+00:00",
+      "origin": "Google News site search",
+      "publisher": "Leadership",
+      "recency": "recent"
+    },
+    {
+      "title": "Dan shugaban kasa, Seyi Tinubu ya ziyarci Sarkin Musulmi a Sokoto - Legit News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnJVblhqYmJkdmJGa2hDSGZIbFpKTUVwNnFaZFZfTGZ6MjFPUThCMDFvUUE0NXphX0VFTldiOVpsUE1iUmRqNU5uaFliOGJpaWE4RmR1X1FoU1pTR1RVczZpalVXY2pHeXg0SWw1akdMdzJYUWRGZS1CUEhPUEpnUUMzOFB5NFg1Y3pMbUlxdXBpUQ?oc=5",
+      "category": "Nigeria",
+      "source": "Legit.ng",
+      "published_at": "2026-11-12T09:01:03+00:00",
+      "origin": "Google News site search",
+      "publisher": "Legit.ng",
+      "recency": "recent"
+    },
+    {
+      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "category": "International",
+      "source": "BBC News",
+      "published_at": "2026-11-12T08:46:57+00:00",
+      "publisher": "BBC News",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Missing 11-month-old baby found buried alive in dog crate as father faces attempted murder charge - Pulse Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHJCaTFuMkNqWHc0OVd0TFM4MUpkc20xdF83eGNqZW5IX0s2Ukk0N3Z5ZVJnbXFvWmpCUXRxMDhBM1BiVjNhNnhPY1ZZVV8xVW1wclp5b0dYdmF3cmlOVFllanhmbkxlTl8tUU9EZnJiZWVHLXJpOEg0RGlBbkhaQ0JxV3lqQ21YX2NyWi1hYmw3NHFzRjZQYQ?oc=5",
+      "category": "Nigeria",
+      "source": "Pulse Nigeria",
+      "published_at": "2026-11-12T08:35:04+00:00",
+      "origin": "Google News site search",
+      "publisher": "Pulse Nigeria",
+      "recency": "recent"
+    },
+    {
+      "title": "GOOD MORNING NIGERIA | Thursday, November 12, 2026 - nta.ng",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdmdLSFRYai03Nm5xdjJKbmRaMUFSWlh4OWQyNkMyTG9scWhPQk5jSkxDZUxaa3BYQ0lfTUhzZG9xcTRXN0xTVk9tN09mdkRySTFkSGI3SDZOS2c1cHhZSmFFRlNkS01UT0p1UXZnYjlod3cwa1dUYkM3aTBVcnFHNHhNWQ?oc=5",
+      "category": "Nigeria",
+      "source": "NTA",
+      "published_at": "2026-11-12T08:26:01+00:00",
+      "origin": "Google News site search",
+      "publisher": "NTA",
+      "recency": "recent"
+    },
+    {
+      "title": "Kerrygold Engages Women in Business and Leadership at 25th WIMBIZ Annual Conference - BellaNaija",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yUmQ5bzluVTAyRjdDQ1lqSUJsclpzWmlaRjNQR2M0MFp6TUx4NEdTUWJ2WEJXSXQySEZYa3RkOVZZakVjWldDeHROUEZPUjhzWkNaRkRMYXdOYXh6MlFuVEJKNWN4MmQ1eWxzcw?oc=5",
+      "category": "Nigeria",
+      "source": "BellaNaija",
+      "published_at": "2026-11-12T08:04:11+00:00",
+      "origin": "Google News site search",
+      "publisher": "BellaNaija",
+      "recency": "recent"
+    },
+    {
+      "title": "Africa's largest economy remains among Portugal's top eight Golden Visa investors behind the US, China, UK and others, but new €500,000 rules could change the picture - Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRmpMN2RaSTQ2ZmcyZy1fRy11T1ZUbFNCRFRmS1RBWno1d1NWdFJHSHlOcHVOd0lEb2RzSWZ1Mnh0T0JqQVZWVmhtbnp3dGVXWDFMbzF1V3VYQ3dKY0pJcVhMRnk3NnJaQWlpX3ZyMGtxWVUzTXprXzZUM29wY2N4Xzk4VHhwZUlOc3UxT3VNeDJzN0c3QmNHVnBEN2dCSHF2dFM5ekl2Qmsxa09sNE52M2hVMmh1eUVVZ0xkdjNRMzh0VFBWR1o1Qko3WnhUakV1Smc?oc=5",
+      "category": "International",
+      "source": "Business Insider Africa",
+      "published_at": "2026-11-12T08:00:05+00:00",
+      "origin": "Google News RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
+      "category": "International",
+      "source": "BBC News",
+      "published_at": "2026-11-12T07:45:52+00:00",
+      "publisher": "BBC News",
+      "origin": "direct RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "Floyd Mayweather to launch TMT Frontrow Fight Series in Nigeria - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcXJ4NmcxT1pNRGtmZ2ZoQVZRYTdTNGwzQkprSFh6OEhqSWVmQnF4VjJpOG93QVBFc0lTLVFFbkdoazV2WlE4LXZuYTRJZ3JvOEx4cnY1a2tOZnhHV0lQZTJUN1hhS196Nmg2blN1S2hOVXpNMVZJOHg4S204MDZuY2Zra1lUdlRiYjY4bWdhOUFSX0k3WkpTb1hR?oc=5",
+      "category": "Nigeria",
+      "source": "The Guardian Nigeria",
+      "published_at": "2026-11-12T07:15:53+00:00",
+      "origin": "Google News site search",
+      "publisher": "The Guardian Nigeria",
+      "recency": "recent"
+    },
+    {
+      "title": "UK economy grows at fastest rate for more than two years - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IRmgxd1RxdGt4bUZCc2h4WDhoWFZ5M2k3My1VMHR1RkN1NFJFeG1qQndhNlAzVENUeFg4LXEyTW9rSGJXbndVQU15aTJJaEJaSi1PcGJqS09RZVZ4RUE?oc=5",
+      "category": "International",
+      "source": "BBC",
+      "published_at": "2026-11-12T07:05:23+00:00",
+      "origin": "Google News RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "She turns pressure into progress - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mMUN6cEFNb0RTbmhaVlFsX1VuWmV1Wnp6YUxjZGphb2psd1R3SXZBTklNaHo0QVY1eVlFQnV6Y1hoalRqUW1jX0VOeXhuYXVTaHVzZjZsa3k0eHNXMkVLZGhwdkxOT0w5UE1YVDFPMDIxT1V0WUUw?oc=5",
+      "category": "Nigeria",
+      "source": "The Guardian Nigeria",
+      "published_at": "2026-11-12T07:04:07+00:00",
+      "origin": "Google News site search",
+      "publisher": "The Guardian Nigeria",
+      "recency": "recent"
+    },
+    {
+      "title": "SSANIP Threatens Strike Over Unpaid CONTTA, Unimplemented 2026 Agreement - LEADERSHIP Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWZ4bG80Z0hBZWlmOFpSXzJsSS1QdmltS3lpVlJGem1jYTRxaWZpc2JzRWVjakhhdEdzM3dGMFVFWjRnSm16TVBoOUxGTHI0S2JfV1hnRzdOZ2NIcEVQTm01am5odmZVMkxOQzVfcXB6NnVGN0JlZlN0M0pORUdic3hjQXJ4R0FNVXB4V0FTYWk2ZTZwX2RIM3J3?oc=5",
+      "category": "Nigeria",
+      "source": "Leadership",
+      "published_at": "2026-11-12T06:59:52+00:00",
+      "origin": "Google News site search",
+      "publisher": "Leadership",
+      "recency": "recent"
+    },
+    {
+      "title": "DSS Foils Terror Plot, Intercepts Arms Shipment From Niger Republic - LEADERSHIP Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVHVDU2RPdC05S0xNTEthSXE4ZW5uTHpJLUVCRS1GRHc3LWc4eXllY2R5T1RkSW0wVGx6dzR1VWNYY3JZbmNfN29EeEU3VVd5NjRyQktjWlhJY2FuLXNIWm4zanpyVzBEZnY4ZGZwMVZGQk1KVjRZT0VPU09uaUxwZ0l2dWo2eUtZQkZvenRwNWlBeEk?oc=5",
+      "category": "Nigeria",
+      "source": "Leadership",
+      "published_at": "2026-11-12T06:50:00+00:00",
+      "origin": "Google News site search",
+      "publisher": "Leadership",
+      "recency": "recent"
+    },
+    {
+      "title": "Leadership Crisis: ADC Protesters Drag Justice Lifu To NJC, UN, Others - LEADERSHIP Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONVBnSmdqLWdKTUIxQ2xrcGVobW02Y3AzX05PRlVDSmZzd25ZWjlsMjlwb3ppM21xZGg1bVRFYk5RM3drcVlKR2E4X2FNSDJBUW1KdjlhdFE1Y2VvU0pLMVIwQU5QMU5xb0VvNGlROWY4OW5iRjgxUko3WGVxYm9NNTdVTUhwOWdBX0pfMDRqcF9vUVhH?oc=5",
+      "category": "Nigeria",
+      "source": "Leadership",
+      "published_at": "2026-11-12T06:36:59+00:00",
+      "origin": "Google News site search",
+      "publisher": "Leadership",
+      "recency": "recent"
+    },
+    {
+      "title": "LEADERSHIP News Editor Wins Media Icon Award, Warns Against Digital Backwardness - LEADERSHIP Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0hrOTdHaGRhWENtOExJTlZuZTRxMzlmaU9JQ1RVVUl1ZDdmbm1ld0hVdVROM0pQQzFKSDhYSlJEWHhyMV9rZU5uRkp0LWRFTTY4ZWtHM1RHN1ZFWG1VdVNKRkk0UXR3YWJVbG1qX2V5T1FkUTE0R1ZBMlBtZVJyOFpMZmw5NUhNSkVwRDlaVTJmcVNVS3Uwd3IyNXJrT0hZLXN6bA?oc=5",
+      "category": "Nigeria",
+      "source": "Leadership",
+      "published_at": "2026-11-12T06:25:32+00:00",
+      "origin": "Google News site search",
+      "publisher": "Leadership",
+      "recency": "recent"
+    },
+    {
+      "title": "Oshoniyi: Nigerians Yet to Feel Gains of Tinubu’s Reforms - THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUZLMTZuZEh4bjFOdVZ0cGk3bmhwS1dmc25NWnFhSEp1Z0p1UUdMeEpHM1B5WjFlQ0ViNFBLMDZkVm44UTBZSmNYSk9IUGhQMXc4alFqdWxubDBzd1hLY3NQWHRpU3puZXdyaFY2Nk9jRlpvSlRpREdBNjBqRmk3R1NrS2VZem9nX0UtNEVITEtKZFZUQWd6akVNRQ?oc=5",
+      "category": "Public Services",
+      "source": "THISDAYLIVE",
+      "published_at": "2026-11-12T06:04:16+00:00",
+      "origin": "Google News RSS",
+      "recency": "recent"
+    },
+    {
+      "title": "UI researchers develop herbal soaps to fight skin infection-causing germs - Tribune Online",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdEM3YldKOVpwWThSM0VFLWp1ZmFUOW1HbDVYeHFDRWVqajFOZEIzSUhBT0RUTjJyYjItZmhOQlR6MTBieGQyTjk4XzVlMngwalN6Q09lYmhIeTJSSG0zNzh5VmdZQVN5SjhkNDlxWEc0UXh4bkV4TXJUWGtBMGw3bkdFaVBzMG00YVA1YTFsU0JZUjYtM1pjVjBXY3BRRVd0alNEYw?oc=5",
+      "category": "Nigeria",
+      "source": "Nigerian Tribune",
+      "published_at": "2026-11-12T05:35:00+00:00",
+      "origin": "Google News site search",
+      "publisher": "Nigerian Tribune",
+      "recency": "recent"
+    },
+    {
+      "title": "2027: IGP warns officers against compromise - Daily Trust",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85Mmk3MFE4em42OW1lWWFTanNTV1ZGb0pUeUZ1VDBzS01zazdXYVR6NmZfZ092cGdIbVF4QUNyaGhyckVNLWlnSmh3VUhDUGVtekI1RS1HdWpQUzdhbWltejlmanRlbDhYUEFyS25vbm80TFRN?oc=5",
+      "category": "Nigeria",
+      "source": "Daily Trust",
+      "published_at": "2026-11-12T05:21:52+00:00",
+      "origin": "Google News site search",
+      "publisher": "Daily Trust",
+      "recency": "recent"
+    },
+    {
+      "title": "PenCom sets condition for states to access N52,500 minimum pension - Daily Trust",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY3JMbnJld29USnpnRHIyNUp3QW5GUERNRmxRWlpRZDhObEtDMFFJajhxM3FXX2pEc21rVUgzZEd0QnZzWmRKajQ5bE9oWWx4T0JEQ1d6eGhTZHpxbjF3YlVya0k3X3RzSDA4SkRoOVZ6Tmo2RDhTSkZ1VklHazVkcTFXTGk4YW0wQXFFM28zNkxlVXM?oc=5",
+      "category": "Nigeria",
+      "source": "Daily Trust",
+      "published_at": "2026-11-12T05:21:52+00:00",
+      "origin": "Google News site search",
+      "publisher": "Daily Trust",
+      "recency": "recent"
+    },
+    {
+      "title": "Ondo pledges 1m votes for President - The Nation Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pa3Z6b0RkZ2R5U1lxb29QbFBPRjJBZ2Vva2RzWUxIdHpDYl9NcjUxNWZScWdtYjd0UXhxQnZJcTMzSkdpeG4zMno0bzlCdXEybUZXRG9xWklENGpTZ2xldHZ5enRydjJWOUVrS2JlM1FlRWZL0gF6QVVfeXFMTVF4b21YUERyLTNNc19FT0RXX3lneXhQdEh0ZVc4MmliZlJBSkNua0ZCTlJfZmtQRENIb282MnViVVZCWnlSdWg1bU5qUWpFZFRVY1QzV2J1d19zc0t1Umh4X3RYZTRyQkU3QnA2NjgzZmUyQzVRQU92V1E?oc=5",
+      "category": "Nigeria",
+      "source": "The Nation",
+      "published_at": "2026-11-12T04:26:34+00:00",
+      "origin": "Google News site search",
+      "publisher": "The Nation",
+      "recency": "recent"
+    },
+    {
+      "title": "Nigeria’s Telecoms Subscriptions Cross 200m Milestone - THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObXNPdUZZUERPZFNONnY5SmNwenFzRXZYVWVlWmdHNWFmazM1LThsM0ZDSWhMcFJPanlWcHlFTFUzT2VtMHI0dFdXWVp2QU9GeXh5aXdNcGhZcUZpdHJhVlVtR1g3VHl1N1NCT251Rk1OMTZzVlVrWjdveTJET0V2NmN6OHZDeEpIdUpzN1pYRlFud2U1RjJR?oc=5",
       "category": "Nigeria",
       "source": "THISDAY",
-      "published_at": "2026-11-11T23:16:38+00:00",
+      "published_at": "2026-11-12T04:26:24+00:00",
       "origin": "Google News site search",
       "publisher": "THISDAY",
+      "recency": "recent"
+    },
+    {
+      "title": "Firm to Drive Africa’s Digital Economy with Innovative Technology - THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU0NWc2ExSEJLelBCLW1zYmY0b0U3UVFvSlR6cVZsa0JBVXk5bGRXZmtwNjRBM0RGa3B6X2dzVFBJOHBJVFVEWFFsUmlPM3BaVzZKbUxqVEJUR3lzMHRVLTB4amFLTkxuMXh6WjdpdU1QaWxYUHY5SkFOVmgwd0pTUnNmVGplN0o1bzJkaDMwR1FpUkdkbUhsTUxid1FiODNobmxXNVBzUQ?oc=5",
+      "category": "Nigeria",
+      "source": "THISDAY",
+      "published_at": "2026-11-12T04:14:01+00:00",
+      "origin": "Google News site search",
+      "publisher": "THISDAY",
+      "recency": "recent"
+    },
+    {
+      "title": "Africa Needs Viable Projects To Attract Chinese Investment - LEADERSHIP Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWEtzcWxzYXNNZFBrZ3dkMkdUdE5BUjNINDZ1Vm1Qd0dDSVNPM0FmZ1ZTQzI1MzdhQUxHM2tXcjk0dVZFeTZnNTZVc2NWVnFLRnFMN2FSV082d1o2NXpvVzMxOW5MeGhsbHAzZDJnZHZETGxPa29jY2d5YTB5REJQdFFMVWRRS0w0?oc=5",
+      "category": "Nigeria",
+      "source": "Leadership",
+      "published_at": "2026-11-12T04:13:42+00:00",
+      "origin": "Google News site search",
+      "publisher": "Leadership",
+      "recency": "recent"
+    },
+    {
+      "title": "United Nigeria Airlines, NCS Kick-off Initiative to Fight Cancer - THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRW10UXg3dHhJV2VBaDhGa0dJMmpJN1VZWi1hdW02VHFnOG8xWVhnV2V1T1FZejZsRW1zbFVlc3VMakpQOUJzSlFYVkgwSER6VlNiNnA4QWlGeTZJMGRVTUhhVnJ5YnRrOURlRmZmeWxQekZZLWtjSEQ5dVpoYy1tZm9EeWFfWjRmNThJVnlWY2VIS0o5MmZ3cmdtNXEtM3REbzM3Y3VRZEs?oc=5",
+      "category": "Nigeria",
+      "source": "THISDAY",
+      "published_at": "2026-11-12T04:04:24+00:00",
+      "origin": "Google News site search",
+      "publisher": "THISDAY",
+      "recency": "recent"
+    },
+    {
+      "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
+      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+      "category": "International",
+      "source": "BBC News",
+      "published_at": "2026-11-12T04:03:13+00:00",
+      "publisher": "BBC News",
+      "origin": "direct RSS",
       "recency": "recent"
     },
     {
@@ -256,89 +1180,78 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdi1rdnVSa3hXc0Q5a0xvYUZRaEVMenJXXzdKWUczamI5NmVNQkduak1MdWt1aFY3Z3JPdzJDUVctaGFwbDF1Q3E5MEFQd1dqNE9mTmhXOGhSVFdxYXlUY3haU1RmZnBnREgwSy1mMUhvMExIdGF3aFlfQ2N3Qi0xWFM5V1BabUtYMENJLWI3ZW9Jb21ZQTdzYUVxeWIzVk5xVER2MXRmUDFGVWEyUXY0Rk9zZmw4Tm1GWXc?oc=5",
       "category": "Nigeria",
       "source": "THISDAY",
-      "published_at": "2026-11-11T23:16:38+00:00",
+      "published_at": "2026-11-12T03:59:11+00:00",
       "origin": "Google News site search",
       "publisher": "THISDAY",
       "recency": "recent"
     },
     {
-      "title": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
-      "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
-      "category": "International",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-11T23:05:34+00:00",
-      "publisher": "Al Jazeera",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Awujale: Ogun reveals Fusengbuwa crisis, insists on due process",
-      "url": "https://www.premiumtimesng.com/promoted/924573-awujale-ogun-reveals-fusengbuwa-crisis-insists-on-due-process.html",
+      "title": "Coy Reimagines Everyday Living with Innovative Home Robot - THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFkwM1RRemJqY3BIeWxqSDdseHVrRWFSUzM1THlVY3d0R2I0S2JpMjZtSzhSOUtBWHpjWTJFV0hYVy16dklzNW8wakk0azNYM1dNT29zVm9mUG55MnJrTFh2b0JpTUtDM3NFUmw5VUtrbV84UjJiU2dwcGZKSHBGdXBPQXBmSUQwd1NLaUN2S2gwN1VJRnhlUHFMa2d4QQ?oc=5",
       "category": "Nigeria",
-      "source": "Premium Times",
-      "published_at": "2026-11-11T22:58:12+00:00",
-      "publisher": "Premium Times",
-      "origin": "direct RSS",
+      "source": "THISDAY",
+      "published_at": "2026-11-12T03:59:09+00:00",
+      "origin": "Google News site search",
+      "publisher": "THISDAY",
       "recency": "recent"
     },
     {
-      "title": "Israeli strikes hit medical complex as nine killed across Gaza",
-      "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
-      "category": "International",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-11T22:55:37+00:00",
-      "publisher": "Al Jazeera",
-      "origin": "direct RSS",
+      "title": "Nigeria’s Next Green Champions Crowned - THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMW1IcF9rb3o3aWVKT05fY0VWTkFsWXdjOGxhYTk1ZTNWR2M1NlJYdHBjU3QyMG1CTE9IbHlxdnA1RE9zR1I0SktiUXNLVjFVRllrdFg2cElzeW5sYXpNaURnVUhuQl9OM2dkT3pkWXN2U1hFZUx6MEl3OXhBbmtvWnpfUQ?oc=5",
+      "category": "Nigeria",
+      "source": "THISDAY",
+      "published_at": "2026-11-12T03:59:07+00:00",
+      "origin": "Google News site search",
+      "publisher": "THISDAY",
       "recency": "recent"
     },
     {
-      "title": "New York building collapse kills one person and injures 12",
-      "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+      "title": "Flutterwave Named Africa’s Best Payments Infrastructure Provider at Euromoney Awards - THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGFQVTk0NUdwMWJtSklsbm16MnVpM1FaTWcwLURLOERud1NRYUttREJCY3N4RGtWdTNOemNOUlR5NWw3RDV5RXlISWkwbUNZV1kxdWw2YUE4OXhhY3BncjF5c1lFdUNCOE41YkxCR2xWMGE5Y3NDX1VweFBydEh3WVlSN0FKZ0hKZS1TRmVfWVNKWkc0YmtTQWotZGRsRzhYVVpJM2hFZ0lCMTIzSXVFRndIOTI2UFNhM2lacHFUNHA?oc=5",
+      "category": "Nigeria",
+      "source": "THISDAY",
+      "published_at": "2026-11-12T03:08:41+00:00",
+      "origin": "Google News site search",
+      "publisher": "THISDAY",
+      "recency": "recent"
+    },
+    {
+      "title": "The Guardian Editorial Board Chair, former OAU VC, Omole dies at 84 - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTzM5TUJZTVdpY09NQ01wXzV4QWFvM2RyaV9lOWNqRWlHeWJUM0pYTHhCUFNrdElhWUVJSVJWazlmQ0RnQzBqS0NFR2RWLWxtQVctZGVrU0NjN2Fac0VDbTRIZkJsSUVuemV2RGZudUJkLUNCVjhlUk82bjkxbDVyeWxWU2ViUXlsV25qVHdMTGd3Y2pNTGhKdGRPQW1ZckRzamx4ZWxVNzU?oc=5",
+      "category": "Nigeria",
+      "source": "The Guardian Nigeria",
+      "published_at": "2026-11-12T03:00:57+00:00",
+      "origin": "Google News site search",
+      "publisher": "The Guardian Nigeria",
+      "recency": "recent"
+    },
+    {
+      "title": "Australian teen missing in bush for six days rescued alive",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
       "category": "International",
       "source": "BBC News",
-      "published_at": "2026-11-11T22:55:26+00:00",
+      "published_at": "2026-11-12T02:40:18+00:00",
       "publisher": "BBC News",
       "origin": "direct RSS",
       "recency": "recent"
     },
     {
-      "title": "ADC accuses Tinubu, APC of obstructing opposition after Kaduna govt sealed Arewa House",
-      "url": "https://www.premiumtimesng.com/news/top-news/924570-adc-accuses-tinubu-apc-of-obstructing-opposition-after-kaduna-govt-sealed-arewa-house.html",
-      "category": "Nigeria",
-      "source": "Premium Times",
-      "published_at": "2026-11-11T22:50:55+00:00",
-      "publisher": "Premium Times",
-      "origin": "direct RSS",
+      "title": "2027: Obi visits Benue, promises security, investment in healthcare, education, youth employment - The Sun Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS25zLVo3QU9oTnNEWXRuZmg0eDFSdG1rNmRsLWNtaFdybEU1T1BmVkxjNkN6QWNVSk1MYlRONkZZQkdNdUFXWnU3RmluT3JJLXNzdzNaY2pFVVozX2xaTG5jMVRQdjdyZmJFMkxNcjZoeGo2UDJQa1F1a0l2QzN4ajVWNzJZdWo2T2dzREhzTkJPYjZFQXhXRmJGRVJ1RVVYS0xfek43eXZfcW15ZGVF?oc=5",
+      "category": "Public Services",
+      "source": "The Sun Nigeria",
+      "published_at": "2026-11-12T02:21:56+00:00",
+      "origin": "Google News RSS",
       "recency": "recent"
     },
     {
-      "title": "2027: SDP appoints Peter Obi’s ex-adviser as campaign coordinator",
-      "url": "https://www.premiumtimesng.com/news/top-news/924567-2027-sdp-appoints-peter-obis-ex-adviser-as-campaign-coordinator.html",
+      "title": "FIFA: Infantino in fresh trouble amid looming Arsene Wenger opposition - Pulse Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLXNvVWk2eGo4TlVzeUNuQUZURno4ejZaNkJSMW1fN3lIV0ZsSUZOWFZ2SmhOWDdpWXVzMEM1Sk9MSUZGM05TU3UwampGX0ZncEpEeklwMEplRzdFVDVxaFV1Vm0zRWMwM3NJWEdDajJRa2NVN21veFFvYUNMT3BLZkRjQl9JTWhTMEVneHBHczFmM1hYTlZXZmI0OHNMZ3djZjlCXzdmR3gzY2N4Rm9ySnBKbjJsejA?oc=5",
       "category": "Nigeria",
-      "source": "Premium Times",
-      "published_at": "2026-11-11T22:37:06+00:00",
-      "publisher": "Premium Times",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
-      "url": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
-      "category": "International",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-11T22:34:43+00:00",
-      "publisher": "Al Jazeera",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "EFCC re-arraigns ex-Skye Bank chair Tunde Ayeni on N15.6bn fraud charges",
-      "url": "https://www.premiumtimesng.com/news/top-news/924565-efcc-re-arraigns-ex-skye-bank-chair-tunde-ayeni-on-n15-6bn-fraud-charges.html",
-      "category": "Nigeria",
-      "source": "Premium Times",
-      "published_at": "2026-11-11T22:27:50+00:00",
-      "publisher": "Premium Times",
-      "origin": "direct RSS",
+      "source": "Pulse Nigeria",
+      "published_at": "2026-11-11T23:35:53+00:00",
+      "origin": "Google News site search",
+      "publisher": "Pulse Nigeria",
       "recency": "recent"
     },
     {
@@ -352,43 +1265,13 @@
       "recency": "recent"
     },
     {
-      "title": "FG funds federal workers’ accrued pension rights through 2029 – Official",
-      "url": "https://www.premiumtimesng.com/business/business-news/924563-fg-funds-federal-workers-accrued-pension-rights-through-2029-official.html",
+      "title": "Kaduna Tertiary Institutions Union Begins 7-Day Warning Strike - LEADERSHIP Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1ROaWlDdFJHREdFOUVsWGctSFdBZlI4S3kzeFRWTEtjR2duTTVJbEtHc0tnMnotdXJoeF9vTU41NTU3R2N3ZmJQdmJfeDZmdENXZDR0a2trejE2TEljbTVTc2xDRHpQNUFaUzFXU2REd293UmZqd1R3WGhoSUVITlNuN2dYX1oxSThkTXRn?oc=5",
       "category": "Nigeria",
-      "source": "Premium Times",
-      "published_at": "2026-11-11T22:18:41+00:00",
-      "publisher": "Premium Times",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Nigeria 2027 Election Watch: The Battle For The Ballot Deepens As Parties Lose Candidates, Gain Defectors And Confront The Courts",
-      "url": "https://www.channelstv.com/2026/11/11/nigeria-2027-election-watch-the-battle-for-the-ballot-deepens-as-parties-lose-candidates-gain-defectors-and-confront-the-courts/",
-      "category": "Nigeria",
-      "source": "Channels Television",
-      "published_at": "2026-11-11T22:12:23+00:00",
-      "publisher": "Channels Television",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
-      "url": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss",
-      "category": "International",
-      "source": "Al Jazeera",
-      "published_at": "2026-11-11T22:10:12+00:00",
-      "publisher": "Al Jazeera",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Wale Omole, former OAU Vice-Chancellor, dies at 84",
-      "url": "https://www.premiumtimesng.com/news/top-news/924559-wale-omole-former-oau-vice-chancellor-dies-at-84.html",
-      "category": "Nigeria",
-      "source": "Premium Times",
-      "published_at": "2026-11-11T22:09:42+00:00",
-      "publisher": "Premium Times",
-      "origin": "direct RSS",
+      "source": "Leadership",
+      "published_at": "2026-11-11T22:12:02+00:00",
+      "origin": "Google News site search",
+      "publisher": "Leadership",
       "recency": "recent"
     },
     {
@@ -412,76 +1295,6 @@
       "recency": "recent"
     },
     {
-      "title": "COP31: HOMEF demands clarity over fossil fuel language in ongoing climate talks in Turkey",
-      "url": "https://www.premiumtimesng.com/business/business-news/924556-cop31-homef-demands-clarity-over-fossil-fuel-language-in-ongoing-climate-talks-in-turkey.html",
-      "category": "Nigeria",
-      "source": "Premium Times",
-      "published_at": "2026-11-11T21:58:48+00:00",
-      "publisher": "Premium Times",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Ogun govt defends Awujale succession intervention, cites Fusengbuwa family disputes",
-      "url": "https://www.premiumtimesng.com/news/top-news/924554-ogun-govt-defends-awujale-succession-intervention-cites-fusengbuwa-family-disputes.html",
-      "category": "Nigeria",
-      "source": "Premium Times",
-      "published_at": "2026-11-11T21:46:11+00:00",
-      "publisher": "Premium Times",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "DSS Intercepts Arms Shipment From Niger Republic In Sokoto, Arrests Female Courier",
-      "url": "https://www.channelstv.com/2026/11/11/dss-intercepts-arms-shipment-from-niger-republic-in-sokoto-arrests-female-courier/",
-      "category": "Nigeria",
-      "source": "Channels Television",
-      "published_at": "2026-11-11T21:34:40+00:00",
-      "publisher": "Channels Television",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Zoho Simplifies Multichannel Marketing with AI Agent Capabilities - THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSEp3S0piampOcHJxOExJZWJJMktsVThnbnpyQ0ZYZjZFeVdhUVZzZUJiX0c0cDlwZjlkdWxrWU1UaWxuLU5HUzgyeWliODI2UG15R3hGVHFFb25qUW9PdVJZNktxaFZhc1pUZDRmVXlTN3NKelFuU0lzbUp1c3ZHUWVmN0RVdVZBSzhEdGZsRVFjdVllRDVrZjRMSVJ2R1RENlhVSi1SQUg?oc=5",
-      "category": "Nigeria",
-      "source": "THISDAY",
-      "published_at": "2026-11-11T21:29:01+00:00",
-      "origin": "Google News site search",
-      "publisher": "THISDAY",
-      "recency": "recent"
-    },
-    {
-      "title": "Nigeria’s Next Green Champions Crowned - THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMW1IcF9rb3o3aWVKT05fY0VWTkFsWXdjOGxhYTk1ZTNWR2M1NlJYdHBjU3QyMG1CTE9IbHlxdnA1RE9zR1I0SktiUXNLVjFVRllrdFg2cElzeW5sYXpNaURnVUhuQl9OM2dkT3pkWXN2U1hFZUx6MEl3OXhBbmtvWnpfUQ?oc=5",
-      "category": "Nigeria",
-      "source": "THISDAY",
-      "published_at": "2026-11-11T21:15:01+00:00",
-      "origin": "Google News site search",
-      "publisher": "THISDAY",
-      "recency": "recent"
-    },
-    {
-      "title": "University sacks another four staff members, gives reason",
-      "url": "https://www.premiumtimesng.com/news/top-news/924552-university-sacks-another-four-staff-members-gives-reason.html",
-      "category": "Nigeria",
-      "source": "Premium Times",
-      "published_at": "2026-11-11T21:11:49+00:00",
-      "publisher": "Premium Times",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Zedvance Launches ExtraCash, Empowering Nigerians to Show Up Ready - Techpoint Africa",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXo3T1ZPN25CRXczRXlSMUthajFlV1RIMnRXWDBKSlNxQ0F5VmV2b1FqVTE3RzVLeEM4eUhqemlIa3NvQjZncGlLY1V1VEVFV0FiVkI4QUNpRFFLRXMxNXpjV2pUX005RmY0SFpSSFBkN3RTcURPUUlPaTdlQkNhTDI1d19YTzlrRjE5X3lEa3AyS2ZiM1ZJdjdZOHp0ZjNZbldIeA?oc=5",
-      "category": "Nigeria",
-      "source": "Techpoint Africa",
-      "published_at": "2026-11-11T20:55:57+00:00",
-      "origin": "Google News site search",
-      "publisher": "Techpoint Africa",
-      "recency": "recent"
-    },
-    {
       "title": "OAU mourns former Vice-Chancellor, Prof. Wale Omole - The Guardian Nigeria News",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeXdveW5SSk1tOW80dm5VUjdEMTJmQnN5Q0dTNjJyUmdCUnp3Tkx0SVVhT1BrM1dxcjJrMzAyNTZLanB5UkYyVUktT3NtblQ0NGwyZC1teHpNUVJPUUd1VWYxRFplSU9RcFRIelJqYmU1N0ZfRUlPRWxLN09PV0xySll4bVNvaE0?oc=5",
       "category": "Nigeria",
@@ -502,163 +1315,63 @@
       "recency": "recent"
     },
     {
-      "title": "Justice Lifu’s Judgment Does Not Void Atiku’s Candidacy — ADC Lawyer",
-      "url": "https://www.channelstv.com/2026/11/11/justice-lifus-judgment-does-not-void-atikus-candidacy-adc-lawyer/",
+      "title": "Reps Wade Into NRS, TETFund Dispute Over N123.48bn Education Tax Deductions - LEADERSHIP Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbExBUndaczJMcnhDYnJ5NVZFWVFSNkh5MTA1WWd3UWJRclFtaVJDeXlUbThiU1N5RFVpV1c5cTJjUjhOS1p1MGhBbVJGdXJJbEVVZ1VwY3FoX2N4MXRtSXNBekoycng2S3FqbzdBVGVTNW1WR0NCV21JRHBhNXhSOW41Z3V0c2stcFFSbHU5cXN6VXJGSk5zVGdEb3ROdw?oc=5",
       "category": "Nigeria",
-      "source": "Channels Television",
-      "published_at": "2026-11-11T20:37:59+00:00",
-      "publisher": "Channels Television",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Notorious bandit leader Kachalla Bello ‘killed’ in factional clash in Katsina - TheCable",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDhWcWFGLWc0WkFwTEJXNFBqZldCYlVVb3liQmJCSmNmX1dNVl9ITHBMeFAxTHMyN0daRTlKNXdqaDNBY0ViN2k3UGlKT2dlUjNGR3BmTmZGWW5FMVppWWd1SjI0Z3ItWkhVbmVmNHBtVkVWc19rbk5pYXFVNUJSVjVhYUdGcjhnUGt0aVBmQm0yU2FBQm9YUE1IbFhZdWMxZ2pB?oc=5",
-      "category": "Nigeria",
-      "source": "TheCable",
-      "published_at": "2026-11-11T20:27:00+00:00",
+      "source": "Leadership",
+      "published_at": "2026-11-11T20:13:52+00:00",
       "origin": "Google News site search",
-      "publisher": "TheCable",
+      "publisher": "Leadership",
       "recency": "recent"
     },
     {
-      "title": "‘I created Banana Island,’ Terry Waya claims",
-      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/924548-i-created-banana-island-terry-waya-claims.html",
+      "title": "JUST IN: DSS foils major terror plot, intercepts huge arms shipment from Niger Republic in Sokoto - The Nation Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOEstTUFVYmdpc205WTh0d1o3ZUtVMU92WHladXVyVTlzX2xKcFM1TzVWbmlHNm1hTmFKWmN6T29SeHBrd0ZZNlg4dE5kcnhJR09ST3VsbnQ2NFZ1NGJhTVZvdkxCTGhuMlppekg4bEt0NElaNGlkSWlzUGR6eVlSRGJCRjQwTjNaV29IbWJLRy0tblhBcFVvTXh3SWkteVRJbDc3M0dpVjZvSjJoUm5NYjg1VzVVRHNsVnNKaE5PV0ppdVFh0gHKAUFVX3lxTFB5azZNWnpFOUxJb1VtUExqWENadm9MTFNLVE9zaHRLYWhaeFJQcjlCUzZrdzdiX2FMc0lXTElWbUJtUTNmOWhlaURUUzFobHYwM2FQeXJKd1R5ZnRoY0dITThhQTdfcEVEY3lLNHhJU1NXMHRRa05CQmpXZkRUaWJqdXFJTS1Ic0dYclZzM1JrTzllZTc0b202VW1WVE1rS25wcHlZdzlIbWN2OUQ5QVdqbmlxUTdiTFMxNDFqaWFQRUJPQVFtYlpadVE?oc=5",
       "category": "Nigeria",
-      "source": "Premium Times",
-      "published_at": "2026-11-11T20:24:37+00:00",
-      "publisher": "Premium Times",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Russian ambassador to US dies after battling ‘chronic illness’ - TheCable",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV2VJeUNCbU5waWNoV0xsUWdLMmw3d1ZnWUgyZGJ1Ujhob0pITF9NNU4yRm5DcG1TX0ZqLWxVOUVXU2szQ3M1LVZXUUhQQk0tc0l6dnJuWkpLTUROTkhiTjhiU2d0b09pTldMS2R3VWNJSkE1QUZUcGxxMFRPZ2JSelpwYWdqSGtGUEppdTV3?oc=5",
-      "category": "Nigeria",
-      "source": "TheCable",
-      "published_at": "2026-11-11T20:23:00+00:00",
+      "source": "The Nation",
+      "published_at": "2026-11-11T19:57:48+00:00",
       "origin": "Google News site search",
-      "publisher": "TheCable",
+      "publisher": "The Nation",
       "recency": "recent"
     },
     {
-      "title": "VIDEO: Obi Donates ₦10m Educational Support Fund For Yelewata Children, Promises To Improve Security",
-      "url": "https://www.channelstv.com/2026/11/11/obi-donates-%e2%82%a610m-educational-support-fund-for-yelewata-children-promises-to-improve-security/",
+      "title": "Pantami defies bonfires, roadblocks, gains entry into Gombe - Daily Trust",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNnNtd0tLRlV5eVNsYzFEZV9vLVJhcHR2RC04dEE3eDhfaDNGZ0NVNGoyLU5hNFdHeFMtTFVsdlBBa0duY0l4YU1HdmpteVFMSXQxY3BXLUVISEtoV3hjWmRuZTIydlhDcGF4NjB4YkF3Vi1wOFpMTjhWZEZOQ1k3M0ExN2xjS3dr?oc=5",
       "category": "Nigeria",
-      "source": "Channels Television",
-      "published_at": "2026-11-11T19:49:40+00:00",
-      "publisher": "Channels Television",
-      "origin": "direct RSS",
+      "source": "Daily Trust",
+      "published_at": "2026-11-11T19:51:47+00:00",
+      "origin": "Google News site search",
+      "publisher": "Daily Trust",
       "recency": "recent"
     },
     {
-      "title": "‘Prosperity Is Already Flowing,’ Trade Minister Oduwole Defends Tinubu’s Economic Policies",
-      "url": "https://www.channelstv.com/2026/11/11/prosperity-is-already-flowing-trade-minister-oduwole-defends-tinubus-economic-policies/",
+      "title": "DSS Intercepts Arms Shipment From Niger Republic, Recovers 25 Guns In Sokoto - - TVC News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZkdyM3VwSlA1N2dLMlkwZk9nRDBQWTFDQ3VFYUFfdTB2NHNVTUc5aFB1ejlyVm1OR1V0clhzN2JPaG1rQTdHUE1ydmxMN09wUXJ3OURTNVdSVGVvYTRwdmVRZWNRRFlBU2xyQXNGeVNySW9VVVlqX1RYaDB3T2F0MGNhSXZFRmd1UzhESGIyVzMyaVc4SHo2cnk4aThGSUx4?oc=5",
       "category": "Nigeria",
-      "source": "Channels Television",
-      "published_at": "2026-11-11T19:46:49+00:00",
-      "publisher": "Channels Television",
-      "origin": "direct RSS",
+      "source": "TVC News",
+      "published_at": "2026-11-11T19:38:00+00:00",
+      "origin": "Google News site search",
+      "publisher": "TVC News",
       "recency": "recent"
     },
     {
-      "title": "ADC ta tabbatar da karbar takardar hukuncin kotu da ya rusa majalisar David Mark - Legit News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMWNNd29DbUZpSHBJcXhSYU41WHVSRWhMb0gyVUh5WWswbWY4Rk1fUUF6YzNMWE1vLUpISkhhaEwya2xPOG1QeUMwRDA3dEZqT1lINEc3N3E1aTNDZFByVzQwbFh5WkVjM0tjSFZyUTV2TGhEZGt3WkhfcG1DMVF3aTJLUk5VejdibUNaZWxCbV9WcTFnb2VOaXBfSEFSdUllZFhZVEJLTGtRbkpXcTdKcQ?oc=5",
+      "title": "Seven New Tracks From Rema? E-Mortal Boy (EMB) Is Coming Next Week - BellaNaija",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02NGhsWkNVZTRKLUhjQjE4M1pCeExyU1ZHd1IyZGEzRjg1ZGhNdnNoRDNaM1hqaTNCUnpTVDRHbGFBT2F6Nm1OTlhQRUJWa1N5Vzg1SVBUVXB5eWs2dFc4ZFgySlRnNm00Snluc3pwWERpVEc2aE5zMkh3?oc=5",
+      "category": "Nigeria",
+      "source": "BellaNaija",
+      "published_at": "2026-11-11T19:37:45+00:00",
+      "origin": "Google News site search",
+      "publisher": "BellaNaija",
+      "recency": "recent"
+    },
+    {
+      "title": "Tinubu ya yi ikirarin Atiku ba shi da goyon bayan manyan ’yan siyasar Adamawa - Legit News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTkFtbFVtMW85Z2JweVFCdmwzSng1YVlUcVl6ZDVSSkNfR1ZlanBIcjV0WUtfUVd3NHc4N2NjeWR0WVlyLTFRbWdSUXBkMWtwS19BYm55Z1FzY2lMNldpZ3ZHbHpOQy1PZmJBV3RUM2tyV2Rtb0t1eUxHMkhBa1NRR3c2ZTFzQlZxbVBiSmU2anFkUkFOWDQ5ag?oc=5",
       "category": "Nigeria",
       "source": "Legit.ng",
-      "published_at": "2026-11-11T19:27:10+00:00",
+      "published_at": "2026-11-11T19:33:28+00:00",
       "origin": "Google News site search",
       "publisher": "Legit.ng",
-      "recency": "recent"
-    },
-    {
-      "title": "Nigeria, Jamaica Move Closer To Signing Aviation Agreement",
-      "url": "https://www.channelstv.com/2026/11/11/nigeria-jamaica-move-closer-to-signing-aviation-agreement/",
-      "category": "Nigeria",
-      "source": "Channels Television",
-      "published_at": "2026-11-11T19:25:55+00:00",
-      "publisher": "Channels Television",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Latest on Scoop | Page 1177 of 1177. Read on BellaNaija - November 12, 2026 - BellaNaija",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NNUVnMDdrRFcySFFOVVViakFBWlBSd0I5dkZIUkFVdzFqSzRSS1FIc0FwNWhkYWRlLWR1YjM4TktrV0dlc3VJR0tSMGdXbk5sbHpMRDdR?oc=5",
-      "category": "Nigeria",
-      "source": "BellaNaija",
-      "published_at": "2026-11-11T19:06:22+00:00",
-      "origin": "Google News site search",
-      "publisher": "BellaNaija",
-      "recency": "recent"
-    },
-    {
-      "title": "Air strikes kill ‘40 ISWAP fighters’ in Borno - TheCable",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsLWJkaUFsSXlHVDFDMUtWY201YXh0OU1feTNjVHRkTU5haDVEUTktWFk2clZweENpam13bXpNMktVV3lFR1UtZFJwbWdWbnMwYU80dzhYZFlTTUNEcjUxTDVDcG10Nk9pRm5SSFVMMnRGSmF0VG1J?oc=5",
-      "category": "Nigeria",
-      "source": "TheCable",
-      "published_at": "2026-11-11T18:55:00+00:00",
-      "origin": "Google News site search",
-      "publisher": "TheCable",
-      "recency": "recent"
-    },
-    {
-      "title": "Afreximbank commits $75 million to DBN to finance Nigerian SMEs",
-      "url": "https://nairametrics.com/2026/11/11/afreximbank-commits-75-million-to-dbn-to-finance-nigerian-smes/",
-      "category": "Nigeria",
-      "source": "Nairametrics",
-      "published_at": "2026-11-11T18:50:00+00:00",
-      "publisher": "Nairametrics",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Okomu, Nascon, FUGAZ stocks wipe N293.43 billion off NGX",
-      "url": "https://nairametrics.com/2026/11/11/okomu-nascon-fugaz-stocks-wipe-n293-43-billion-off-ngx/",
-      "category": "Nigeria",
-      "source": "Nairametrics",
-      "published_at": "2026-11-11T18:46:41+00:00",
-      "publisher": "Nairametrics",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Famed ship SS United States to be sunk off coast of Florida",
-      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-      "category": "International",
-      "source": "BBC News",
-      "published_at": "2026-11-11T18:42:27+00:00",
-      "publisher": "BBC News",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "category": "International",
-      "source": "BBC News",
-      "published_at": "2026-11-11T18:38:45+00:00",
-      "publisher": "BBC News",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Latest on Events | Page 870 of 870. Read on BellaNaija - November 12, 2026 - BellaNaija",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TSjE2VnE5WVhEZUlUSzd4cXU2ZkFiVV9ZVVJvSUloMGNFSXBPMTlHN25PaTYxYm5oTFhhYzJCUnpDRW5yR0xLeXJXay1xYjAyRkoxOA?oc=5",
-      "category": "Nigeria",
-      "source": "BellaNaija",
-      "published_at": "2026-11-11T18:37:42+00:00",
-      "origin": "Google News site search",
-      "publisher": "BellaNaija",
-      "recency": "recent"
-    },
-    {
-      "title": "APC Restricts Presidential Campaign Spokespersons To Yari, Alake, Idris",
-      "url": "https://www.channelstv.com/2026/11/11/apc-restricts-presidential-campaign-spokespersons-to-yari-alake-idris/",
-      "category": "Nigeria",
-      "source": "Channels Television",
-      "published_at": "2026-11-11T18:25:11+00:00",
-      "publisher": "Channels Television",
-      "origin": "direct RSS",
       "recency": "recent"
     },
     {
@@ -692,33 +1405,13 @@
       "recency": "recent"
     },
     {
-      "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
-      "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
-      "category": "International",
-      "source": "BBC News",
-      "published_at": "2026-11-11T18:10:57+00:00",
-      "publisher": "BBC News",
+      "title": "APC Restricts Presidential Campaign Spokespersons To Yari, Alake, Idris",
+      "url": "https://www.arise.tv/apc-restricts-presidential-campaign-spokespersons-to-yari-alake-idris/",
+      "category": "Nigeria",
+      "source": "ARISE News",
+      "published_at": "2026-11-11T18:08:40+00:00",
+      "publisher": "ARISE News",
       "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Gwammatin Kano ta kafa hukuma domin magance matsalar ruwan sha - Legit News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYmFmSmw1RTkybElxcXNyM0JWWC1xTTlCdFFqbG9CR015VUtib0pjQWx0Ykg4YUJqZW9yQjl1TmYtUUxpS2NJVm10RkRkWWdEaURKTUNnaUg1MWxyRFo1ZkZHWUJCOXdPODFsQXV2Sjg2RnNUVVZhX25XVnd3TzFSYjhTNFAwZm1hMGNVZ1dtbVJJbG0zYW81Y2FqYktPZE0wc1NqMGk1R2k?oc=5",
-      "category": "Nigeria",
-      "source": "Legit.ng",
-      "published_at": "2026-11-11T18:10:35+00:00",
-      "origin": "Google News site search",
-      "publisher": "Legit.ng",
-      "recency": "recent"
-    },
-    {
-      "title": "Yunusa Tanko exits Obidient Movement, appointed SDP presidential campaign coordinator - TheCable",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaDJNcUJ4S0h3WGVYYXNkcXFHZkFiRk5CRFZ3ZDZGd0t2WnFVOFpqWWt3Sld4RHJ1WkJCd0RUTHFYam45QXFtelprNnE5eEFIVzBfN2V0RGptazhCcm1QLU10QmtKUkFIZm5PQnltY2dvTmxvM2o2SkFNUklLRTVsZFpBMzg0a1ZOd0UyNVVZczE1ODdvb1RtZEpfdzFGeURrX1V0MXozOXlka1ExMGc?oc=5",
-      "category": "Nigeria",
-      "source": "TheCable",
-      "published_at": "2026-11-11T18:09:00+00:00",
-      "origin": "Google News site search",
-      "publisher": "TheCable",
       "recency": "recent"
     },
     {
@@ -732,16 +1425,6 @@
       "recency": "recent"
     },
     {
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "category": "International",
-      "source": "BBC News",
-      "published_at": "2026-11-11T18:04:58+00:00",
-      "publisher": "BBC News",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
       "title": "Tinubu Rewards Flamingos ₦100m Each For Historic U-17 Women’s World Cup Victory",
       "url": "https://www.arise.tv/tinubu-rewards-flamingos-%e2%82%a6100m-each-for-historic-u-17-womens-world-cup-victory/",
       "category": "Nigeria",
@@ -752,48 +1435,8 @@
       "recency": "recent"
     },
     {
-      "title": "ADC Faults Lifu Over Delayed CTC Release, Accuses APC Of Sealing Atiku’s Meeting Venue",
-      "url": "https://www.channelstv.com/2026/11/11/adc-faults-lifu-over-delayed-ctc-release-accuses-apc-of-sealing-atikus-meeting-venue/",
-      "category": "Nigeria",
-      "source": "Channels Television",
-      "published_at": "2026-11-11T17:56:18+00:00",
-      "publisher": "Channels Television",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Beyond The Sole: How Nigerian Artist Eugene Is Turning Waste Into Beauty For A Better World",
-      "url": "https://www.channelstv.com/2026/11/11/beyond-the-sole-how-nigerian-artist-eugene-is-turning-waste-into-beauty-for-a-better-world/",
-      "category": "Nigeria",
-      "source": "Channels Television",
-      "published_at": "2026-11-11T17:52:23+00:00",
-      "publisher": "Channels Television",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Matashin APC ya yi zargin Buhari bai goyi bayan Tinubu a zaɓen 2023 Ba - Legit News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaF9hR3NEQnNXLXB6UHl3cTg2d1BkVlotS3ZUZ2c0aW93YUxVb1pNRHdseGdWNTdFc2dJT3V2bDJ2QWtBODJTa3kzTGNoaHMwSWdRUlJHVjNQVEtpVS1TWGhUUUI4UkFEY0tMT09YWXpUY2QtOXozbzRYb1VLOG90OFotMHhvNDRjUldMUWhBWDhiUG5BbDY1eE5meFRkUDBBSWJXaFFZMkNja1dvTjZCdnVSVkkxeW9CQzk3TU9zQ21RVFQzRXc?oc=5",
-      "category": "Nigeria",
-      "source": "Legit.ng",
-      "published_at": "2026-11-11T17:41:39+00:00",
-      "origin": "Google News site search",
-      "publisher": "Legit.ng",
-      "recency": "recent"
-    },
-    {
       "title": "Tinubu gifts N100m each to Flamingos for World Cup Triumph - Daily Trust",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbk9GZ3FOLVJaOW9OaW84ODIyQVF5OWU0UGNFNXJrcEJMWlQtN0lVWDlJQVJyTUpqSm5QejVaVkpQdmZ1SFBmM3cwa2plNWtZRlJwQ29yNkw3LUhsZW0zZjhkcUFsbElaV2xaai14M092ckV5eDB3NTRHeW5PUlM1aDQ5aENkMEhNQTQyZTAzN1BPMXF5LVE?oc=5",
-      "category": "Nigeria",
-      "source": "Daily Trust",
-      "published_at": "2026-11-11T17:36:47+00:00",
-      "origin": "Google News site search",
-      "publisher": "Daily Trust",
-      "recency": "recent"
-    },
-    {
-      "title": "ADC confirms receipt of Lifu’s judgment but raises concern on timing of release - Daily Trust",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNVRDdUx6V0s0OERhdnQ1U1ZUYlI2d2c0ajlfX295WklmanhBQzdlU00wdU1JZ1lFMTVZMlVHUElpYUFVMTY2UkRsc2E3SHdXS2VBcXhNQUhrU0Z1UzBabDhrd3pnR0JDenpGaXUtalI0QjJkaXFKLVZzbktSZHZKZ09LX2M1WHN5X2I4VU9zcm5ILTU3MWlBTm1xRl85blNZZ2lSdg?oc=5",
       "category": "Nigeria",
       "source": "Daily Trust",
       "published_at": "2026-11-11T17:36:47+00:00",
@@ -822,6 +1465,16 @@
       "recency": "recent"
     },
     {
+      "title": "Barcelona star warns club about ONE obsession that led to financial 'coma' - Pulse Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY3JZazE4d2pxS3UwQ0h4ZEd3TUk2ZF9UOXd1QnVGV1lOc2k5YTloZ3NkSnJEYktKdnNBV25ra3E4aWloQTlWWVJRWi0xWm9QYnVna0J3U19wQlU2Y1VjUmk2N05YT2xQRlNQTkU2RUJNMGhhZTU0RXNsWURLZjhtcDlNQnpUUWcxUlZCb1ZsaXl4ZWNteExlTmU4d1NUQUR5N3JHWmRwOTlEdTBuR19nRUt6aV9uNk01cGJF?oc=5",
+      "category": "Nigeria",
+      "source": "Pulse Nigeria",
+      "published_at": "2026-11-11T17:15:49+00:00",
+      "origin": "Google News site search",
+      "publisher": "Pulse Nigeria",
+      "recency": "recent"
+    },
+    {
       "title": "Ayra Starr Joins Coachella 2027 Lineup Alongside SZA, Dua Lipa & More - BellaNaija",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTmVVVUdPZXFrQWFiYjY2d0wxM1NkTnJVbWlJRWVzLS1CMXJNZ1ltWlE4cWVKWUJISEZrRzJwWkRxVEh4NlRVU1BuUDBaZEZ0cnlEM3djR2oxRUtJSTlRQlhneG5ZbEliS2I0Z1Qza2lfbWhzb1B5NWw0OWJnaTZwZ0R6Ql81NzNH?oc=5",
       "category": "Nigeria",
@@ -829,56 +1482,6 @@
       "published_at": "2026-11-11T16:59:56+00:00",
       "origin": "Google News site search",
       "publisher": "BellaNaija",
-      "recency": "recent"
-    },
-    {
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "category": "International",
-      "source": "BBC News",
-      "published_at": "2026-11-11T16:45:11+00:00",
-      "publisher": "BBC News",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Awujale: Ogun Insists On Due Process, Warns Against Misinformation",
-      "url": "https://www.channelstv.com/2026/11/11/awujale-ogun-insists-on-due-process-warns-against-misinformation/",
-      "category": "Nigeria",
-      "source": "Channels Television",
-      "published_at": "2026-11-11T16:39:18+00:00",
-      "publisher": "Channels Television",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "category": "International",
-      "source": "BBC News",
-      "published_at": "2026-11-11T16:38:07+00:00",
-      "publisher": "BBC News",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Rikici ya barke tsakanin matasa, an jikkata wasu daga ciki a jihar Kaduna - Legit News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUk42alNhREZsdTliZDE1QW0wZzFkRzV0TTktX3lua3pER3lQQ2ZiNWVhQ3lXLVJEMThOUFlRVlFHUDU1NXhDaEJKM25OWFZnVnR4SjgxaDhPT0ktQjYtcmU2MXBYemZqRlVDeVZHTFZDenkyTjE5MUdSWl9ZRGNlRFpkbnpaRnRSOFI2a2hiTkx1Qk9lOTVjWUdn?oc=5",
-      "category": "Nigeria",
-      "source": "Legit.ng",
-      "published_at": "2026-11-11T16:25:39+00:00",
-      "origin": "Google News site search",
-      "publisher": "Legit.ng",
-      "recency": "recent"
-    },
-    {
-      "title": "APC PCC: Only Yari, Alake, Idris can speak for Tinubu campaign - Daily Trust",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWs4cVZqUnpqdDVJdVg0NlhTMjBWLUd5MkRudFdNRjItUFFxOVBNdlNHN052aENNOHBhZlZNclJGRTlKeU1yRlNISnhKamdtZjRMU0UxSnNacDFNRThpNGp5UGtJbFlnR1k3M2hveF92ai1jNkhOVjdDMHd2TTduYTB6WWlvUlpuSXBB?oc=5",
-      "category": "Nigeria",
-      "source": "Daily Trust",
-      "published_at": "2026-11-11T16:11:38+00:00",
-      "origin": "Google News site search",
-      "publisher": "Daily Trust",
       "recency": "recent"
     },
     {
@@ -921,23 +1524,23 @@
       "recency": "recent"
     },
     {
-      "title": "Google supports child online safety in Nigeria with $600,000 in support - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObEUzbVl6UVNYN1lsT1M3Vm95dlBqSlVsWXl3eV92LVRwUDlBSUhpeXM1bjZFdU54dU5CZnJTak5IMXpMQ0hmczE2RDRCQWRvTW1UYXI1OFJBNF8tT2lvYndodkdEOXdVaHhYZnlKMTJidjI2RWhSVFNKOGtHb2FEc1hNX29XaUtDYmpVYzlXWXdkWUVNOVluak9nVE5kXzBwVGtv?oc=5",
+      "title": "My smile hides private battles, says Lateef Adedimeji - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWZzVHVhTll2Ylg4OTA2MTRhYjZUMU5kWVBVaHJWUm1ZZHQ2NGwzV2xEVk1fQjZ6QzRXYnpJaUcxSUgwWlh2bkJic05DSXVZb29tZk45WUVGSHJBY2dwNEdTMi16eVA3U3FVTU91QloxSG9udnY4b2lGckZ6V1hCcnUzY3NUR1VYcTVF?oc=5",
       "category": "Nigeria",
       "source": "The Guardian Nigeria",
-      "published_at": "2026-11-11T15:29:47+00:00",
+      "published_at": "2026-11-11T15:40:47+00:00",
       "origin": "Google News site search",
       "publisher": "The Guardian Nigeria",
       "recency": "recent"
     },
     {
-      "title": "Fossil fuel expansion in Africa undermining transition agenda, says campaigner - TheCable",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDByWHFnVjNrZk04VUhOLWQ2VUIwTlFZRXppbzZUYmxBd2poTVpjWjYtd0JSSEFYaHJCbUNjcEMyUGRmcVphaFlKTlZpam1XT3diVThZczY5Q1RPX2U0ZXp6YjBrTEdIWlNSaEVjOTFaNHp0TWstcWJnTjl4alBLVVBvUEVFbTRkaHd3RzB5b1VfcmN4VzFZQ0RldU9zTV9qZE5WUWFKM2VOLTQ?oc=5",
+      "title": "Visa Report highlights opportunity to connect digital payments with business operations for SMEs in Nigeria - Pulse Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ2x3cnlLejZtSTFNcy1hUjFzUlpJSFg0ZlZsdjNpbDZXY1lqY0ZBd2R0ZEt0OVdXZHYtMUhFR0U0dzA3S3B2QzVCUXhmdGMyVUtsVU9mMW9ta1c1QUZ3dUluZUNCZGdQdXJmSzRaejhNRlZDSFJhb3RzblVnVWxTQWlNYkM3Tjl0eXpCdEVhLVE2eTBMc3RZQi04TjFnbkpvVjVuU0poankxalZVdTJacjVScWVUWTFWb0NHMnJYc1VPaDJGSGFENTlfSnNuaVI4LTVnVmVxY3d2ZTlBNEZvX3Z2MDcxeGM5Vnc?oc=5",
       "category": "Nigeria",
-      "source": "TheCable",
-      "published_at": "2026-11-11T15:28:00+00:00",
+      "source": "Pulse Nigeria",
+      "published_at": "2026-11-11T15:30:49+00:00",
       "origin": "Google News site search",
-      "publisher": "TheCable",
+      "publisher": "Pulse Nigeria",
       "recency": "recent"
     },
     {
@@ -951,13 +1554,13 @@
       "recency": "recent"
     },
     {
-      "title": "Zedvance Launches ExtraCash, Empowering Nigerians to Show Up Ready",
-      "url": "https://nairametrics.com/2026/11/11/zedvance-launches-extracash-empowering-nigerians-to-show-up-ready/",
+      "title": "Zedvance Launches ExtraCash, Empowering Nigerians to Show Up Ready - Techpoint Africa",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXo3T1ZPN25CRXczRXlSMUthajFlV1RIMnRXWDBKSlNxQ0F5VmV2b1FqVTE3RzVLeEM4eUhqemlIa3NvQjZncGlLY1V1VEVFV0FiVkI4QUNpRFFLRXMxNXpjV2pUX005RmY0SFpSSFBkN3RTcURPUUlPaTdlQkNhTDI1d19YTzlrRjE5X3lEa3AyS2ZiM1ZJdjdZOHp0ZjNZbldIeA?oc=5",
       "category": "Nigeria",
-      "source": "Nairametrics",
-      "published_at": "2026-11-11T15:05:14+00:00",
-      "publisher": "Nairametrics",
-      "origin": "direct RSS",
+      "source": "Techpoint Africa",
+      "published_at": "2026-11-11T15:08:03+00:00",
+      "origin": "Google News site search",
+      "publisher": "Techpoint Africa",
       "recency": "recent"
     },
     {
@@ -991,52 +1594,12 @@
       "recency": "recent"
     },
     {
-      "title": "Two Injured as Shooting Triggers Traffic Gridlock on Lokoja-Abuja Highway - nta.ng",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUk92dWUyLXdhc0ZuNzNxS0xvcl9qcEhPeWxiTTZzLVpIaDhnczRnMnpGOWxsaEpaNFNHYTZxbjNFbVNJdUlTMVJXdWpSN2ZQOXBwVjRPUTZ2R2xYUDF0ZDFucElJXy1jMHhhWlFDQk1VWjJmZlhadXE0WTNVbXQzRHV2dkR1bGtMSl9WWERXSEtYRHhGMkpYMUxWZXh1WlYxdW5uYUVPTEJPUQ?oc=5",
-      "category": "Nigeria",
-      "source": "NTA",
-      "published_at": "2026-11-11T15:04:18+00:00",
-      "origin": "Google News site search",
-      "publisher": "NTA",
-      "recency": "recent"
-    },
-    {
-      "title": "Tinubu Presents APC Manifesto at Jigawa Rally, Inaugurates 400 Tractors, 60 Harvesters - nta.ng",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT3ZralN3MnZPNjc0MDRGM3ppRWN6TUhmTGVSbTNWX0NUOFVQT0t3UThaLUpaTmYxX1hoXzNUY2E3R2NoemVoNE1rNHk1eGhsMmktV0RQa0FnaHNZZDJXUFF1bjJ2THEyUnAzTktIb2RMYWpBbUxiT1FncDdncG1KQUFwUXc3WVFZNTBGRk9heHIwWkRsdHRuTkNpdDVxSWxTdXRGMDk1QWVsakNBdEc4MHBxVWFwN2c0?oc=5",
-      "category": "Nigeria",
-      "source": "NTA",
-      "published_at": "2026-11-11T15:04:18+00:00",
-      "origin": "Google News site search",
-      "publisher": "NTA",
-      "recency": "recent"
-    },
-    {
-      "title": "Youths clash in Kaduna over colleague’s death - Daily Trust",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ULW9JdFRNM2c0enpmWHpPX09mQWRiNVhyY05FYVFWWTBabjFSVjRNdDdsZmdIQ1dpU3hkQnN1a3Fmd2ZLdTVsU1UzQzM1WEtRZng2Wm81YUVLZTBiNV9XdUR1Q1NTT2pwbGJ5Uzg5ZE5vM3JUYlBZ?oc=5",
-      "category": "Nigeria",
-      "source": "Daily Trust",
-      "published_at": "2026-11-11T15:01:38+00:00",
-      "origin": "Google News site search",
-      "publisher": "Daily Trust",
-      "recency": "recent"
-    },
-    {
       "title": "Pochettino Ready To Take Manchester United Job As Carrick Faces Sack",
       "url": "https://www.arise.tv/pochettino-ready-to-take-manchester-united-job-as-carrick-faces-sack/",
       "category": "Nigeria",
       "source": "ARISE News",
       "published_at": "2026-11-11T14:59:56+00:00",
       "publisher": "ARISE News",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Sterling HoldCo Subsidiary, Alternative Bank appoints Gul Khan as MD/CEO",
-      "url": "https://nairametrics.com/2026/11/11/sterling-holdco-subsidiary-alt-bank-appoints-gul-khan-as-md-ceo/",
-      "category": "Nigeria",
-      "source": "Nairametrics",
-      "published_at": "2026-11-11T14:57:50+00:00",
-      "publisher": "Nairametrics",
       "origin": "direct RSS",
       "recency": "recent"
     },
@@ -1051,16 +1614,6 @@
       "recency": "recent"
     },
     {
-      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-      "category": "International",
-      "source": "BBC News",
-      "published_at": "2026-11-11T14:56:11+00:00",
-      "publisher": "BBC News",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
       "title": "Olumide Oworu Takes Second Shot At 2027 Surulere Reps Seat Under APM",
       "url": "https://www.arise.tv/olumide-oworu-takes-second-shot-at-2027-surulere-reps-seat-under-apm/",
       "category": "Nigeria",
@@ -1068,26 +1621,6 @@
       "published_at": "2026-11-11T14:54:35+00:00",
       "publisher": "ARISE News",
       "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "After you die, your consciousness continues, scientist says - Pulse Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcDBicWZvY1ZmZzM3SmNaWG5qV0F6RmtoSE1CUllsRGhjYi1yUGhadXNZZ2NjbGFRQ0dub2p1ckZQWlpsOGtaUVQwYnB0UmE3cGRibWlCRUxuSllBdVJPc012VDVFT1NoYlhtenhaOWZPSThfcUMxZGlsX0NNRlI1dVlDVllzd05yb2NvSW5xc0o1U3hjSFBSaWYxWldzSk9Ubk9kempKbw?oc=5",
-      "category": "Nigeria",
-      "source": "Pulse Nigeria",
-      "published_at": "2026-11-11T14:52:26+00:00",
-      "origin": "Google News site search",
-      "publisher": "Pulse Nigeria",
-      "recency": "recent"
-    },
-    {
-      "title": "BREAKING: Tinubu rewards Flamingos, coach with N100m bonds each - The Nation Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTlotZWZJTEZoSDlkejdKcXQtaHI5Wm1JM01KUGUzRDRnT0E0M2hvb3Z4akZENEkyOU1leEMtb2tzMTBsZ3pfcWw0ZFZza3N6SkVoMGtELUlQdXdBOVVCcXhmdWwzRjNkVDVEdlFhdXZvdEc4akhMOVlReVFqaHU5ZTZZMmFmaHQwdkdKZi1BNFJMenhMX0000gGcAUFVX3lxTE9JTkY4YmM1Sjl6bzlfc3ZvSUxWZFZ6eGU3TGMzUlcwY1hBMnM1QUdPd08yWEs5Vzg5a1ZkMFc2WUtiMjhONTRhV0Q1endzcVNTeXJsdVVpQ2RVVWQtV2RnSm1jV3hDb0I0SnhVQlR0TzRqbzdUcHJlbWtKbFA3b3RaT2FfS2ZvbkdOeURSMUVoOWFOOUJJYTZEWnZfTQ?oc=5",
-      "category": "Nigeria",
-      "source": "The Nation",
-      "published_at": "2026-11-11T14:52:11+00:00",
-      "origin": "Google News site search",
-      "publisher": "The Nation",
       "recency": "recent"
     },
     {
@@ -1112,42 +1645,12 @@
     },
     {
       "title": "APC Campaign Council dissolves spokespersons, names Yari, Alake, Idris as only official voices - The Nation Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb2liTHE2WkxxNWZPRDFoTk5qVjFlSDcyTDhkZUJxVzBOLXF3cUg5YWhRc2lXTGd0TzdmWHpUNW9LQXB1eExxc1JrUGJQZVJlci1YTWlxOTRHd0xGMFg2R3V2OFAzQ0VuZDM4TVRPT0FrU1dMd3V1NjdKbmg0RkE3ZEhSc195bWUwZmlCbGZRdElGQUxmajFzVGYyNlN1M19laXdRbmZjbmRxZ3dpMWN6a01FbnFXVkxjUVRoWHVSa9IBxAFBVV95cUxNekYxVXB2bC1oWmgzSFRmcnQ5MXlFVDM3dGxwTENTdlRJakR2RFZPRHJsNkNzVGxkdl96VFprVEdjRVJzVmRwVHcwY2Q4M0h3NVU1QXAtM05vQlFnQ0tLNUFCSzZWUkdvYXdhYTZyMWtEdjkyS2lfYjJkQTliNUFibkJCS09LbEQ1Tmp0dndPVHRjMDZSeHBRaE1UUU4wTllXbFJ6MUpEa0NiUTN5dWEtYjJtcmR0b0ZuY0JFMGgwQWhNTFYy?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb2liTHE2WkxxNWZPRDFoTk5qVjFlSDcyTDhkZUJxVzBOLXF3cUg5YWhRc2lXTGd0TzdmWHpUNW9LQXB1eExxc1JrUGJQZVJlci1YTWlxOTRHd0xGMFg2R3V2OFAzQ0VuZDM4TVRPT0FrU1dMd3V1NjdKbmg0RkE3ZEhSc195bWUwZmlCbGZRdElGQUxmajFzVGYyNlN1M19laXdRbmZjbmRxZ3dpMWN6a01FbnFXVkxjUVRoWHVSaw?oc=5",
       "category": "Nigeria",
       "source": "The Nation",
       "published_at": "2026-11-11T14:47:23+00:00",
       "origin": "Google News site search",
       "publisher": "The Nation",
-      "recency": "recent"
-    },
-    {
-      "title": "How Usher and Chris Brown went from calling each other brothers to cancelling joint-tour dates - Pulse Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMDFRU2tMd0RROGlJQmh2OXRfc2FJTVdFbW1fS2hGUW5uajN3b1pjRXcwd0FPNzB6TDBGY3dkbE1EdFJNVWZhXy1YVnlBRU8wc0cyOFJMa19STWZkNHFaVXFFM0dmbi11N2NoVjNwYUtWUU1NZ3k2NmdoR3VSUE14OFgyYXJrYWNvVWxRVTBIOGFyUQ?oc=5",
-      "category": "Nigeria",
-      "source": "Pulse Nigeria",
-      "published_at": "2026-11-11T14:45:49+00:00",
-      "origin": "Google News site search",
-      "publisher": "Pulse Nigeria",
-      "recency": "recent"
-    },
-    {
-      "title": "Zitra Investments turns to capital market as deposits exceed N30 billion",
-      "url": "https://nairametrics.com/2026/11/11/zitra-investments-turns-to-capital-market-as-deposits-exceed-n30-billion/",
-      "category": "Nigeria",
-      "source": "Nairametrics",
-      "published_at": "2026-11-11T14:42:16+00:00",
-      "publisher": "Nairametrics",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Where Did African Stereotypes Come From? - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wbTJ2cVZpVlh4VEFUTERFRFdiaHhoeVFHNkJWTXVOdDdEUGd5dFNRaEpRNEFqSUdPWEZQRFZORFgxQzNFdjR6cjJjNThBUV9aWmdrY0Z1NzJwTW5UQ1lMd1QxM1Q4LUEyQXlyeFZ3dXBjMXlQOFp0aA?oc=5",
-      "category": "Nigeria",
-      "source": "The Guardian Nigeria",
-      "published_at": "2026-11-11T14:31:47+00:00",
-      "origin": "Google News site search",
-      "publisher": "The Guardian Nigeria",
       "recency": "recent"
     },
     {
@@ -1181,26 +1684,6 @@
       "recency": "recent"
     },
     {
-      "title": "\"Atiku ba zai iya ba, Tinubu zai samu nasara a jihohi 36 a zaben 2027,\" Adeyeye - Legit News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZkgyVDBwclRQaFBUcDhYaFgzQWh5X0dSQ2ltVFY3cndWZTdybkZKeHFWUUVETlYwNDRvSzlNZG5tSmJpQnIwMU1peVppMVpfQW5YbmV3WUtoLXlINDJycHctMFl6eUl6dm55cG12WDllSzVBdGMtWjBRaXJnS05PenBhN05EQTllNEdINkQyanU5dlRvSUhYdUJGcnVmbVRh?oc=5",
-      "category": "Nigeria",
-      "source": "Legit.ng",
-      "published_at": "2026-11-11T13:57:02+00:00",
-      "origin": "Google News site search",
-      "publisher": "Legit.ng",
-      "recency": "recent"
-    },
-    {
-      "title": "Nigeria meets OPEC oil production quota for sixth straight month despite October decline",
-      "url": "https://nairametrics.com/2026/11/11/nigeria-meets-opec-oil-production-quota-for-sixth-straight-month-despite-october-decline/",
-      "category": "Nigeria",
-      "source": "Nairametrics",
-      "published_at": "2026-11-11T13:45:51+00:00",
-      "publisher": "Nairametrics",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
       "title": "Nexar Expands Its Digital Services Offering to Support Access to Online Platforms - Techpoint Africa",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSG1VSU1nRUVDS0YxZ2ZTRC1HOUFXVTNrM2c1X3JrWjIxVGlaR19Lc3pZeUR4SG1wb19EQ28yeUNUNEVTY0VYVlkya3loSUt5TFRWU2sxLU84eEFaTUhMRWx5VTY5TDJvWUcycnhrdWRpTEZ6VXFJV2ZZZVp2QTQ0bk43SWJIUzJpYVJVVUk5Mm1tVjdiak12eHlnVWxncGxPZ2VvUjRVYkZrbWpIdHByUTA2MV9salpCNkE?oc=5",
       "category": "Nigeria",
@@ -1208,16 +1691,6 @@
       "published_at": "2026-11-11T13:43:47+00:00",
       "origin": "Google News site search",
       "publisher": "Techpoint Africa",
-      "recency": "recent"
-    },
-    {
-      "title": "Oando, LAMATA Advance Lagos’ Electric Mobility Drive with Rollout of New Mass Transit Buses",
-      "url": "https://nairametrics.com/2026/11/11/oando-lamata-advance-lagos-electric-mobility-drive-with-rollout-of-new-mass-transit-buses/",
-      "category": "Nigeria",
-      "source": "Nairametrics",
-      "published_at": "2026-11-11T13:41:24+00:00",
-      "publisher": "Nairametrics",
-      "origin": "direct RSS",
       "recency": "recent"
     },
     {
@@ -1231,92 +1704,12 @@
       "recency": "recent"
     },
     {
-      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-      "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-      "category": "International",
-      "source": "BBC News",
-      "published_at": "2026-11-11T13:24:29+00:00",
-      "publisher": "BBC News",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "\"Tsare-tsaren Tinubu sun kawo ci gaba, kowane dan Najerirya ya amfana,\" Idris - Legit News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUlNXMndURlRfNkVwUWdhcUIzZkp2Unl2UjdPSVVheHdneXNTT1dxc3F0ZHNpaWpsczJoNGs1MGhJeE5DZWctaERXWlU5QUE3bW5UemlUVVk3OER2eG0yZ0NtTWZQeUNPcWlEVGRsWWlmYUpERWlFV28zYnNHZHJKUjZydlpUOGZjXzV3RUlXVEVXRUJMcHN1MzNRLVZNcVk4QkE?oc=5",
-      "category": "Nigeria",
-      "source": "Legit.ng",
-      "published_at": "2026-11-11T13:10:34+00:00",
-      "origin": "Google News site search",
-      "publisher": "Legit.ng",
-      "recency": "recent"
-    },
-    {
-      "title": "Tinubu seeks House of Reps approval for N10.79 Trillion external borrowing",
-      "url": "https://nairametrics.com/2026/11/11/tinubu-seeks-house-of-reps-approval-for-n10-79-trillion-external-borrowing/",
-      "category": "Nigeria",
-      "source": "Nairametrics",
-      "published_at": "2026-11-11T12:58:12+00:00",
-      "publisher": "Nairametrics",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "NITDA unveils 2026 Tech Outlook Report to guide digital economy investments",
-      "url": "https://nairametrics.com/2026/11/11/nitda-unveils-2026-tech-outlook-report-to-guide-digital-economy-investments/",
-      "category": "Nigeria",
-      "source": "Nairametrics",
-      "published_at": "2026-11-11T12:57:16+00:00",
-      "publisher": "Nairametrics",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-      "category": "International",
-      "source": "BBC News",
-      "published_at": "2026-11-11T12:53:11+00:00",
-      "publisher": "BBC News",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
       "title": "FULL LIST: 35 major commitments to Nigeria in APC’s 2027–2031 manifesto - The Nation Newspaper",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNlE3cEpBV1N4WXM0cEUyZUlkTjgwd05oLXpmX3hleC1GdjRVQ1htOHdQQXBCcWRPeUkyOHlvTmxLUWpjdXl1SldqdEMzR1p2SlBMYW1EbFVWSGdyMTg5Rm1WU3hCLVpiY0RzRzR4RDk1MVNDeTdYY1lvdi1UaWFYMkpsakIzczJWa3B4MXhKRTluNnZxc2tUTkRIMmZzNFFLa2fSAacBQVVfeXFMTURRemM0a3Rmbzc4Yng4ZzdYenYzRnlQMC1mZm1CZE05c2pTQXJGTFFmMzFFNThPNENDSW9WTGl4MHJ1WFU5MjVUQ21URXhtTDhFNDlJWnpqRi1ZcE56ZVhuc2tXUFFhcnNZU2x2VGFSNFd4MG9YQXFvTFpJX3dsM0xTejFxSkFnck1ONkZmaGFlNldtcUUwSXlkeWZhcHU0LUQ4QVB3OFk?oc=5",
       "category": "Public Services",
       "source": "The Nation Newspaper",
       "published_at": "2026-11-11T11:59:28+00:00",
       "origin": "Google News RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Nigerian banks step up consumer credit schemes with vehicle, electronics loans",
-      "url": "https://nairametrics.com/2026/11/11/nigerian-banks-step-up-consumer-credit-schemes-with-vehicle-electronics-loans/",
-      "category": "Nigeria",
-      "source": "Nairametrics",
-      "published_at": "2026-11-11T11:58:47+00:00",
-      "publisher": "Nairametrics",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "2027: Tinubu Repackages 2023 Campaign Promises in New Manifesto - Daily Trust",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcEFnRXNmYk1weEd0cjY4aWdFWmp0cWxwUnR4UjNvQUp4Z2xubGVYWUotN3NDVWxTWEo5dkswZWZnWU51U1EwVHk5VHFXWFBMODY0RF9yZ3l0MHVhWGtFcWxTeGM0NlJCTFc1cEZfcktJTUFiZ1JtaW9hcnZ0WE1yRUE2dEY1WllSeDNDV2pzMA?oc=5",
-      "category": "Nigeria",
-      "source": "Daily Trust",
-      "published_at": "2026-11-11T11:56:37+00:00",
-      "origin": "Google News site search",
-      "publisher": "Daily Trust",
-      "recency": "recent"
-    },
-    {
-      "title": "An yi ca kan ministar mata bayan ganin bidiyo tana raba kudi a taro a Rivers - Legit News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX3VXNW83Wl8tWDVQNC1xTXpyMlRMTXNZOXg2SXA1NVFTQUNHMHowc2o1ZVJMMkJUTTJXR1daczVGbXB4ejJqZE4tdHdTYzdOQnRQN3VuNktGVkpaTGxEenFTRFhudVBhM3hMbFgzODcyR0dBVVpoQ2dsR1h2YVNzdEVOS1MtWDVnNklDZWRlckZiYzBRXy0ybG5KLVBvOVBKcEFwRm1lRGthN2JiV1pN?oc=5",
-      "category": "Nigeria",
-      "source": "Legit.ng",
-      "published_at": "2026-11-11T11:48:28+00:00",
-      "origin": "Google News site search",
-      "publisher": "Legit.ng",
       "recency": "recent"
     },
     {
@@ -1330,16 +1723,6 @@
       "recency": "recent"
     },
     {
-      "title": "Access Holdings and Coronation Host Tate International Council Members and Global Acquisitions Supporters in Lagos",
-      "url": "https://nairametrics.com/2026/11/11/access-holdings-and-coronation-host-tate-international-council-members-and-global-acquisitions-supporters-in-lagos/",
-      "category": "Nigeria",
-      "source": "Nairametrics",
-      "published_at": "2026-11-11T11:35:39+00:00",
-      "publisher": "Nairametrics",
-      "origin": "direct RSS",
-      "recency": "recent"
-    },
-    {
       "title": "40-year-old Kenyan mother of five sentenced to 100 lashes for giving birth outside marriage in Saudi Arabia - Pulse Nigeria",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdXhEcDlGQk5lSVd1WVlYb1lQbjFseWxwLXJUR2lBVzZHNThHQjlLS0pMdlFHem5YaGlUVVZfVTBJei0xR0pibE1xb0cyWG9vNDZ6WVViM2NvcUF0RDRWVldnd1hXcHlma3lSWVR5empPNGNPci1oN09YWjd0cHY5TmhlNnYyTjRoU3VMUkZfTDVlTnp3WVg4OXdB?oc=5",
       "category": "Nigeria",
@@ -1350,13 +1733,13 @@
       "recency": "recent"
     },
     {
-      "title": "Ghana discovers hydrocarbons in new offshore geological formation",
-      "url": "https://nairametrics.com/2026/11/11/ghana-discovers-hydrocarbons-in-new-offshore-geological-formation/",
+      "title": "Tinubu Approves ₦52,500 Minimum Monthly Pension for 173,209 Retirees - SilverbirdTV",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNG1Ydnp0MTFnNFEtdTR3aTlqcHFsVi1GZkxRS3Y4UUc2WHBUZnE5eDFyZzdoNXdKcnJBd3hKeGFxOUhwOHpQZGtIRklLUHVTdmhhbkRrVWd4SUItMmptdzN3LWZ0RlU5X3NYOUhSQkdOZlNNcW1FaHVRSTZ6Ql9vUXJua2hseFFDUHZxZ2hXRlVXMndHNTN2Y3Jhb3gxdXFnLWc?oc=5",
       "category": "Nigeria",
-      "source": "Nairametrics",
-      "published_at": "2026-11-11T11:34:46+00:00",
-      "publisher": "Nairametrics",
-      "origin": "direct RSS",
+      "source": "Silverbird",
+      "published_at": "2026-11-11T11:22:41+00:00",
+      "origin": "Google News site search",
+      "publisher": "Silverbird",
       "recency": "recent"
     },
     {
@@ -1367,6 +1750,16 @@
       "published_at": "2026-11-11T11:10:50+00:00",
       "origin": "Google News site search",
       "publisher": "Sahara Reporters",
+      "recency": "recent"
+    },
+    {
+      "title": "SA’s fintechs want to become more than payment providers - TechCabal",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYX2gxMS1HRlRvR1dnQ19iTHNJZkM0RFRYTm1YSXpiMEluR3hBX2dVUFFtb3dFQ29qM1Y5dl9jbHVjcHpmclJTN0p3ZUpqQzVDeVhweHlDSGVucTBqNzdRRDE5ZzZmLTMzdkJNTG5LOC1GVTFta0lhaXRnMmQ?oc=5",
+      "category": "Nigeria",
+      "source": "TechCabal",
+      "published_at": "2026-11-11T10:38:23+00:00",
+      "origin": "Google News site search",
+      "publisher": "TechCabal",
       "recency": "recent"
     },
     {
@@ -1400,35 +1793,6 @@
       "recency": "recent"
     },
     {
-      "title": "Kempinski Accra Private Residences marks Africa debut for Kempinski Residences - Pulse Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOW56RnV3U2tlS2gtNWF5X2RUaXZlNUNrSVRQSjdrWDh3TnFJUUhPRktZTnpFalZPWEdoUnppSk5GN1BrUTQ5SjFTN01xdm1BYUYtaGt3a25qM0F2b1hyeWRKdUR4VmhKbEJTQVl1OWxIbjd0bGFoZ3VVaWdyUVJwM0RNZXVnSkM1eDd3ci1hd08tS3hxUmdpUllnZnB1Vy1NcWF3eDczQVZsV0JUS1JMTWNaVTdCLXpsazRTQ2ZDUy1QZXM?oc=5",
-      "category": "Nigeria",
-      "source": "Pulse Nigeria",
-      "published_at": "2026-11-11T09:12:26+00:00",
-      "origin": "Google News site search",
-      "publisher": "Pulse Nigeria",
-      "recency": "recent"
-    },
-    {
-      "title": "Inside Delphino Drunch: How The Lagos Event Merged Business, Music & Premium Hospitality - BellaNaija",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10U2lMa0dTaHB6NTNqZ3l3dkdSd2Y0Y255OXNCY2EyQzhsX3BVcnJldS01ZjJTRDQyT2tKdmRwa2xBWm9XU0szUEk5S0x1T2oxeGMtek40eXpoUk1EdWRUcmwzUFJKeTlLb3pndGg2Q21nZExWMVE?oc=5",
-      "category": "Nigeria",
-      "source": "BellaNaija",
-      "published_at": "2026-11-11T09:05:58+00:00",
-      "origin": "Google News site search",
-      "publisher": "BellaNaija",
-      "recency": "recent"
-    },
-    {
-      "title": "Economies are improving, but rule of law is slipping. The buck now stops with Africa’s leaders | Kenneth Mohammed - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYW5NTjY3RG5pd2pQOFBoX01RWDdZYkh2Z215TDNtSGJjbGtsSUx1SlpzeDRiRVhfUnpBbUdySW1yUGVMdHR2WHk5RkNtd1F3WXdlblppQXVZS1ptT3RKWEo4R2o5ZUZfNGtiM0diYkpNZm5VRUR3bS1QZ3JzeGhabk9BSzdmOEFRdVNHRHljNDdDZkFZZmp0Z19icDFEamE1c1JJRU15eEdhLXFBcnFkYVZwSVljZmFnSUdGdlpidnlER1gtdEFNT2RDeFV3ajdieHJPN3Zn?oc=5",
-      "category": "International",
-      "source": "The Guardian",
-      "published_at": "2026-11-11T09:02:00+00:00",
-      "origin": "Google News RSS",
-      "recency": "recent"
-    },
-    {
       "title": "ART X Lagos Concludes 11th Edition, Ushering in “A New Chapter, A New Decade” - Pulse Nigeria",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdktLMXhyMEhmZWYxMkdUUGQtOUs5UWY5SWRvbG9KWGc3NF80S3JyTlgyLTNVUWVOWjN2MG51SGFuZ1FRVjRiSzMtSW1KT3lCWUUyT0t3aHM0a2txMFRxX2RCanFQWUNjSGN2RDdWMjg2NElQUFg4bUpCN3YydFFicjVPenh6WnM?oc=5",
       "category": "Nigeria",
@@ -1436,16 +1800,6 @@
       "published_at": "2026-11-11T08:52:26+00:00",
       "origin": "Google News site search",
       "publisher": "Pulse Nigeria",
-      "recency": "recent"
-    },
-    {
-      "title": "Forget the Usual Black Suit, Priscilla Ojo Is Making a Case for Chocolate Brown - BellaNaija",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUFNONklOS21HTTNiVEN2ZmdKVC11cUxXRHEtXzlSYXpuUk1MWkljQjJqYk9oQUlHc0hXMlMzeXZnbEN1NkhZYkJUbmhsU2wzZ2U4Ylh2aWxNV1VPRmFmYkNWbVk0d3FkZmRlbGRFemgzakNPdkltUENvY19Yazl2VDZyWUpyUC1nZnlBcHBMRQ?oc=5",
-      "category": "Nigeria",
-      "source": "BellaNaija",
-      "published_at": "2026-11-11T08:39:03+00:00",
-      "origin": "Google News site search",
-      "publisher": "BellaNaija",
       "recency": "recent"
     },
     {
@@ -1469,13 +1823,13 @@
       "recency": "recent"
     },
     {
-      "title": "Inside the economics of OPay and Moniepoint’s business - TechCabal",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wV2JuZkNCczh4dXpYSVR2cVZNNGpwU2hZc3NYcmFlLUptMG1LQXY3TjhNMnpseDlfRlFMVFU1MjVSb3FUN21EdjZRQ0RjYzVzYVJFMXJSNFF5bmthQjN3cWg1VVVXRTkyVlhXY19QNmU0TFpFSmc?oc=5",
+      "title": "World’s largest cassava producer fails to tap $127bn derivatives market - Business News Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGlDTVh5ZjV4aW93dkozOHZRUE9hb0VYeTBtQm15ZWJvMHc5VE1kWW1FSHEzTGU1aGVCUnNfdXFyd0xwVEdKbGI4ZVd1b3J5U2pVWmN3SmNhNUNqSDJQNEN0SjdSOTctTm5WYVVOa3NqZnlsNFlERE5NR21mSy1OWS16QUpDOEdHVEJyQ1FuREFOS1gzVVUxblFjN1g4dHBSLWlwSE5BRUg?oc=5",
       "category": "Nigeria",
-      "source": "TechCabal",
-      "published_at": "2026-11-11T08:06:53+00:00",
+      "source": "BusinessDay",
+      "published_at": "2026-11-11T07:08:11+00:00",
       "origin": "Google News site search",
-      "publisher": "TechCabal",
+      "publisher": "BusinessDay",
       "recency": "recent"
     },
     {
@@ -1488,26 +1842,6 @@
       "recency": "recent"
     },
     {
-      "title": "Oil slump opens door to cheaper petrol for Nigerians - Business News Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVTlwWF9Qd2tyUGR2QTZORENTTzY0R1Z1bjh0bVZ2VmxoQkllRDNNeUxGdWUxUXJwcWplMS1wWFAtRmE4bFRCbFoxLVFNMzZCanVMNFdmb21vb3I4NTlQZ003Zkp2WFJYTGVCckNDUUx3dHlkMVpGblpXMHc2bVJwbzI2LTQ3Rmg2Y056TXZXa1EtX29rWE9scWtpVk1falpNcnBBNTBRU0QyQ0x2RGdz?oc=5",
-      "category": "Nigeria",
-      "source": "BusinessDay",
-      "published_at": "2026-11-11T06:22:21+00:00",
-      "origin": "Google News site search",
-      "publisher": "BusinessDay",
-      "recency": "recent"
-    },
-    {
-      "title": "Selfish Leadership, Personal Ambition Nigeria’s Greatest Political Problems – Duke - LEADERSHIP Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVkFpdFNwcC0wWVNBZjlJb2NEM180S3BYaWJUQkNxdkktX0o1cmZkNTFMbnBnUnR5RlFoRE9HT1l4VzJWX1YzZm5CMWpPbnBjMmI4RHM5dW92c2VIZnY1UjU1XzVkX0hsZ0FYcVRCd2FDLTJHeWpyLURuQTZMUGFXclpDdEM0YVhodzVVS3hnNlVXZUdMVHhpdmhlYm1VZ21wLTRV?oc=5",
-      "category": "Nigeria",
-      "source": "Leadership",
-      "published_at": "2026-11-11T06:02:27+00:00",
-      "origin": "Google News site search",
-      "publisher": "Leadership",
-      "recency": "recent"
-    },
-    {
       "title": "Super Eagles news: The Tanzania games are really about Guinea-Bissau - Soccernet.ng",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONkNZdGZLWUlxN0U4dmpjNF9FdWRrcjB1LXA1aUxKUkJ1OHFrM3lhdFZGenNFOHczRjVUT2lUOE4zZ2E1MWRKR09DbmtRaEtlYnhGQ1owOGNTR1JtcHBuVUZIVUdjTXVWSWtibTFKb1lMaUdZN3pKMEZ2T2p1OWJUWFBFR1BrTXZxZDQtVHNfcVB3dw?oc=5",
       "category": "Nigeria",
@@ -1515,55 +1849,6 @@
       "published_at": "2026-11-11T06:00:00+00:00",
       "origin": "Google News site search",
       "publisher": "Soccernet Nigeria",
-      "recency": "recent"
-    },
-    {
-      "title": "TheCable’s Janefrances Chibundu named finalist for AMDF, CJID awards - TheCable",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU1BZSGpGSF9HNV9TZ1htSjFRX2FBWXprUVVyZXVqdG1pZzEtUjJiRkFVRDFTMEU4X3hRdTVFLVdDQ2tlSGFUd3IzaWRKZXpBWHNlQnc4b2p4Y0NfZktDZ3l3OTVJZFo5ZVliaUlmLVdFYU9TZlhQZlV6Wk9mV1lLdUI0TkZ4bzJQOWd6OWw0WEF1MElYZjlFR055YWZJUQ?oc=5",
-      "category": "Nigeria",
-      "source": "TheCable",
-      "published_at": "2026-11-11T05:46:00+00:00",
-      "origin": "Google News site search",
-      "publisher": "TheCable",
-      "recency": "recent"
-    },
-    {
-      "title": "APC Unveils 2027 Manifesto, Reveals Major Policy Plans - Politics Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTW00R2NsdlZRYmlsZEVwVURZMWwzS2ZyVDdrN012TW5sTVJ1RjBZclpxd0JvUUNuY0ZvTU8xd1lCYkdobm9jRGktOTlpU2lSM2swLUc1QlpDNl9uQ2Q5U3RfTmEtamNSbzVFeVV1MnlpaUlTTldJdGZObFJaSU1lcVpSaDNIQV9oYjFBUnBtVmF4djlFSmNYRA?oc=5",
-      "category": "Public Services",
-      "source": "Politics Nigeria",
-      "published_at": "2026-11-11T05:30:59+00:00",
-      "origin": "Google News RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Tinubu launches N52,500 minimum pension, free healthcare for retirees - Daily Trust",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaFhoYlhVWmxvVmh0UFptWU05R1BkOU9lNTBMUlA2YUthVW51Z3FSX3QtZWVKa2Q4UFhSOFI4LVpRcE5sUW56WUhxdDZJRVVUVVFVQTZ1YU50YktGNk04azVvM3F6dlRldndvSnk0WXVzcU9OazRTb1hFRW5wWUUzc3pUNkswOHBNd1VJU19kbGhlYTJqTVE?oc=5",
-      "category": "Nigeria",
-      "source": "Daily Trust",
-      "published_at": "2026-11-11T05:24:21+00:00",
-      "origin": "Google News site search",
-      "publisher": "Daily Trust",
-      "recency": "recent"
-    },
-    {
-      "title": "Gunmen kill MACBAN chairman in Taraba - Daily Trust",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rengwTjRrZG9DeUk1ZnVBN0Y0NGJhQkZKbjNzb21tb05qc0g3UjZrYVB2eE9wLXBscGF6eU02U0FMeTVHR0lXS2lBa0gxclc5X1JDQm5ZREhET2tnMnBOdXhsY2xSdEs1N09kblZR?oc=5",
-      "category": "Nigeria",
-      "source": "Daily Trust",
-      "published_at": "2026-11-11T05:11:53+00:00",
-      "origin": "Google News site search",
-      "publisher": "Daily Trust",
-      "recency": "recent"
-    },
-    {
-      "title": "VIDEO: 112 emergency line fails live test after APC chieftain cites it as Tinubu achievement - Pulse Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ200NThvZFdzTHNFQVRZSE1ZeF9QTnM1N2Y0Vm9sMDBvNlhHd1FmclNrdnJMOXNOd1lrRkxaOHNQRlc2NlI3aFJKSkJ6TlU2dkNEVlJrN05YWmFMN2FZd0I4SVRvby14dWNGN1E4N2lWSUFndkZ3N2dsVDQ5WVQ1UWdRdWlJMC12aTJHVWNXTG9QUkZqb0NV?oc=5",
-      "category": "Nigeria",
-      "source": "Pulse Nigeria",
-      "published_at": "2026-11-11T05:10:49+00:00",
-      "origin": "Google News site search",
-      "publisher": "Pulse Nigeria",
       "recency": "recent"
     },
     {
@@ -1585,13 +1870,13 @@
       "recency": "recent"
     },
     {
-      "title": "Latest news today on Ademola Adeleke - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VWThfTmRvOGo1U2VodkMzXzlkUXpMUVVfM3BDWmNYcTl0ckhGcXJLUzZRNkFMRmxFR3E2Ni1oSmtIT2NLeTBTTmkzN28zT1NSMzIyb1pMWklQdVJG?oc=5",
+      "title": "Court jails fraudster one year over multimillion-naira fraud - Peoples Gazette Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUZQeVo1UFlkNnJwb2NBbkdCQVR0VlFPYnhrSUgyVXo4a3hZQ0ZQVHNvQlFZbkU1VzdhM2IwcTl4bG9zTXZqYks1bTJxd01KUXB4c0ZDYjhNUG82MDcwUU9CdjluenE1TWVqU2tEd09ia2dpU3o4S0ZvSEIyaUdsQWI5UXNxem1TekdLWQ?oc=5",
       "category": "Nigeria",
-      "source": "The Guardian Nigeria",
-      "published_at": "2026-11-11T04:02:42+00:00",
+      "source": "Peoples Gazette",
+      "published_at": "2026-11-11T04:45:33+00:00",
       "origin": "Google News site search",
-      "publisher": "The Guardian Nigeria",
+      "publisher": "Peoples Gazette",
       "recency": "recent"
     },
     {
@@ -1601,46 +1886,6 @@
       "source": "LEADERSHIP Newspapers",
       "published_at": "2026-11-11T04:02:07+00:00",
       "origin": "Google News RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "VIP Airspace Shutdowns Threaten Flight Safety, Senate Warns - Independent Newspaper Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcWJOSElKRGxMNGF1VWhBUGd0cEJMWXoyMnFVdldxSk5LNXc5c1hQQlBZWl9BLWo3NnhxU3JNY3F4VFQyaW1wUzlWdHVnUnFyU1dxSERjT1FXSm5MZmVvSjRDVEwwZER5NXBQWHl3LUxDSzNJOWN5SUNHWF92VUw2d0xLNzU2eC1laEE?oc=5",
-      "category": "Nigeria",
-      "source": "Daily Independent",
-      "published_at": "2026-11-11T03:54:40+00:00",
-      "origin": "Google News site search",
-      "publisher": "Daily Independent",
-      "recency": "recent"
-    },
-    {
-      "title": "2027: A defining moment for Nigeria’s democracy, governance - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOHJCN1RDcWppYlIyUEZJR0VDNGZQZUs2ZkNleTgwMDFxRy1zMzdLT0VBYi1OblRDY28ya1RrZWhrWHR4SEZZbkhGcTJZY19CWGt3OFdDX195T1dsYmhLTHo3a3Z5bkRFUnpNd3VuZW1lck1LZG5yT1J5SkNtck9hdjh0QkpieURVWkxjcnRpMGhBbGVqZzhXU3UyQWU?oc=5",
-      "category": "Nigeria",
-      "source": "The Guardian Nigeria",
-      "published_at": "2026-11-11T03:25:31+00:00",
-      "origin": "Google News site search",
-      "publisher": "The Guardian Nigeria",
-      "recency": "recent"
-    },
-    {
-      "title": "Cartoon - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IQUVNdmM1Y3pIb1dfZzlscXNwRzlxV05KV2JmMWkyUGtvSFAxU29EMWVGOC1SR3BLZ01TdnN6dUhmT2duNnRZdUVFVHpCVnZYYTJxdnZyWVhYNEZZR3c?oc=5",
-      "category": "Nigeria",
-      "source": "The Guardian Nigeria",
-      "published_at": "2026-11-11T03:17:03+00:00",
-      "origin": "Google News site search",
-      "publisher": "The Guardian Nigeria",
-      "recency": "recent"
-    },
-    {
-      "title": "Customs FOU A intercepts six pangolins in Oyo state - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUFRmX3RNZEVtaE5qb21aN0lfd2d1OEpkVFNZcEV4VUxIVGJORXVxaTNnNW5LOVprMUJkb2lVLTZzQy00b1kyTkl4aTg0dFhwd25qR0RLMF9oU3VabmFkOG9fX0lwQ2tXVVAzUDVnaXFHQWxRWHZDb3NSRFo0WFlaYmppSHljSnhiR2dQb0g4REFIc2o0N2c?oc=5",
-      "category": "Nigeria",
-      "source": "The Guardian Nigeria",
-      "published_at": "2026-11-11T03:09:43+00:00",
-      "origin": "Google News site search",
-      "publisher": "The Guardian Nigeria",
       "recency": "recent"
     },
     {
@@ -1654,13 +1899,12 @@
       "recency": "recent"
     },
     {
-      "title": "AGILE Trains 140 Facilitators on Alternative Education in Bauchi - THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUlkODFxMWFiQm1pQ2xuN21qYXZManU5cmVLY0gtaWVnVllheVlYM1lCbjBuc3NvREdyMmt2T3VFRmdEWHduaHVpb1NIdElMZUh6LWNJdG15ZUg2X08wWFZPbENPUnBjSnpLd25RSGxGOTJrbThFSHNKekFFWXItMUozaXQ5YzZ6MHlzcVd6QlZLWlNZNHNES0ZyUmxjRElvVzZoS0hzNA?oc=5",
-      "category": "Nigeria",
-      "source": "THISDAY",
-      "published_at": "2026-11-11T01:23:58+00:00",
-      "origin": "Google News site search",
-      "publisher": "THISDAY",
+      "title": "APC unveils manifesto, targets 1m jobs, 6% economic growth - Daily Trust",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYmtTblZ5QUxlSkdvVmJ2bjhRcFF3RU1raXJEcFh4NHJkTkJ0SmxCS204WUVMa1dLYXdmOUJPQzZIZEl5blE1RzdZR2FodnNVOGg0NU9XSlFJeEJyc3gybi1vVERWQVJqUXFFNkh1TTlnN3JOVnNiak8wYjdmcG1pWEgyd05jdw?oc=5",
+      "category": "Public Services",
+      "source": "Daily Trust",
+      "published_at": "2026-11-11T02:56:51+00:00",
+      "origin": "Google News RSS",
       "recency": "recent"
     },
     {
@@ -1673,53 +1917,22 @@
       "recency": "recent"
     },
     {
-      "title": "CMFC Headlines London Global Summit on Africa’s Opportunities - THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0s1aTJMTmJMQ1FQbTQ3SXNpVGhSQlg0ZEhlOTA3enFmODEwTDRyZ1pXOGNpNzUtVTNnWDlaWi1wNUNuakJ0S254cS1LUS1rc1Z1UENQRGctT09nYUpFNDNBLUhfOWNiRjMxb0tRZ3dGZHlxRm1FTm9zZEtpN1BNX0I3ZmNFTm9IRzlHaEl3M0tLanlBclpMRXNyazdiYVJCUEE?oc=5",
-      "category": "Nigeria",
-      "source": "THISDAY",
-      "published_at": "2026-11-10T23:51:29+00:00",
-      "origin": "Google News site search",
-      "publisher": "THISDAY",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3N0dXcHlUVzNCZG9CLS1JSVZXSkJFNktMZEJwRGItV2pQWTFYSUl3NjU5SHA1TjdxNlFtVURUR2h0eUlzTENRcjRhRDZfcVdFWTR1MFlWc0c5azdjNlE?oc=5",
+      "category": "International",
+      "source": "BBC",
+      "published_at": "2026-11-11T00:18:07+00:00",
+      "origin": "Google News RSS",
       "recency": "recent"
     },
     {
-      "title": "Keyamo Flag Off Kogi International Airport, Says Project Will Attract Investors, Boost Exports - LEADERSHIP Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGNJX2xuWkt1TUl5ZWlJamY2TnN6RWhrdnF0RFRwWFRwbzN2el94d3hsR3lEdGZETzA4blIxaHdtcWpMcU8ycUxoeFV2MHZZaUstQlQzVVVFMDZiaVJuaGlIWGVnLWM2T00tZ1REYVM4RGN6di00SXNQbEx3QTQzdEhJT1Uxbzliajlpd2JfUTZxMHd1RVJEMGZNaW9nanFmb2RaQ2tBU3p3NzBFVHRZamtZR1p6Zw?oc=5",
+      "title": "Stakeholders commend single window project for easing cargo processing - Peoples Gazette Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTnhSNl82Y05PdWVjWE0wSlBodUpFZVRyLU5RUUhuYVBGdnpRdTUwQ0hjODJRRDRWOHFMRzZmN3ViaEtlZUtDVDNNQWJWdnpZekNDQmN3Ri1lR0c0ZC00b0ZZWjRubTNIY3l6TldxTWM0d0xzTkUyUEtrYVEzV0ctYkM4WUYwVDJzRzZGQVpGcUVLZHVNd2tCaEJR?oc=5",
       "category": "Nigeria",
-      "source": "Leadership",
-      "published_at": "2026-11-10T22:50:24+00:00",
+      "source": "Peoples Gazette",
+      "published_at": "2026-11-10T23:48:36+00:00",
       "origin": "Google News site search",
-      "publisher": "Leadership",
-      "recency": "recent"
-    },
-    {
-      "title": "FG Revives 13.5KM Karshi-Apo Road After 16 Years Of Broken Promises - LEADERSHIP Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMl9KNllQdWc0U214QjA0ZmU5ZVVvcDVuaDlFSHhuSlhxTl81dUJqb01yZ3huRUZoWVBMOVJsQzFJMElFNUpzUEZVMC1LSE4zQUNqaE5NNlF4UUU4U0ZnRUstam9ENzFUM0NQUk9nX3FycVdFYWNBdEdKaXg0Yk9veWtlQU9PajN6Y29fOVdNQWk2M0FP?oc=5",
-      "category": "Nigeria",
-      "source": "Leadership",
-      "published_at": "2026-11-10T22:14:13+00:00",
-      "origin": "Google News site search",
-      "publisher": "Leadership",
-      "recency": "recent"
-    },
-    {
-      "title": "Nigeria, EU Conclude 10-Year Talks On Readmission Deal As 17m Migration Records Go Digital - LEADERSHIP Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQnljWkg2UXJqaTFSR3pfbjhaaDNqS1ZJVi1XXzNYd3I1THg4YU9FTjQ1dlc0bk8tcERGRk9qbE8yNUViSmMwcF9qWlI3aDA2bWt3Q2lYVXdGTzBtZjhEN2xuWEUzZDdtMXFZdVFHY0M2eHNiUlBleXIxYU5EQUl3WXQyUll3b2FIUTBjYVAyeW14S1ZTOGpUNGVQemtidi1lY0hNdFQ3Y3poRGVBdTJ6RFBB?oc=5",
-      "category": "Nigeria",
-      "source": "Leadership",
-      "published_at": "2026-11-10T22:01:56+00:00",
-      "origin": "Google News site search",
-      "publisher": "Leadership",
-      "recency": "recent"
-    },
-    {
-      "title": "Kyari Denies N210trn Missing Funds, Says Nothing Was Lost Under His Watch - LEADERSHIP Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcS14M3BsN0p3WFQxWE1GeVNKaHExU0dZeGg5YllhT0pPbE43SDNWSHUwdlZaVl9pSGJ6WF9DZUF0aDA5Q0IxNjF1ejJjUWZSUk1raWxkbnRiNjF2Qk9OX1psY3EzZW9lbHNwYzI3RERTdlQyT2tzWm1uVDllcDc1dElya1FueDNYMHVCRTY1MHlRUUVRSXE1dmlpbw?oc=5",
-      "category": "Nigeria",
-      "source": "Leadership",
-      "published_at": "2026-11-10T21:56:17+00:00",
-      "origin": "Google News site search",
-      "publisher": "Leadership",
+      "publisher": "Peoples Gazette",
       "recency": "recent"
     },
     {
@@ -1733,36 +1946,6 @@
       "recency": "recent"
     },
     {
-      "title": "Senate Probes VIP Airspace Closures Over Flight Delays, Safety Risks - LEADERSHIP Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRG9fOWFXQ3NrOVE1dlBTYzViZ1RLb2pWdFNtT0xJb3FfSUJKY2RvQ1ZvTjdnb0JPa2JiTVJwWlZGSjZocXV4TGtYTVliMUY3Um9jdXgyU1NKankzZVBkWU9CQVRVQmdWNUpuU2FWLVhTakZ6UktDaHEyN1U3UHVHZ24yY1JBdFU4aVpoYWZhS01QTmc0?oc=5",
-      "category": "Nigeria",
-      "source": "Leadership",
-      "published_at": "2026-11-10T21:52:37+00:00",
-      "origin": "Google News site search",
-      "publisher": "Leadership",
-      "recency": "recent"
-    },
-    {
-      "title": "Design Week Lagos: Anita Precious on Shaping Africa’s Creative Future - The Guardian Nigeria News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZG5oR2xRLTlxajBYeVFKV2I0RDh1eFV6RXQxdU9pQnlKYi1rbGNYRk1HMWllZkNIMHpmRFJLOFZpMEIwYlFxM18zUEdZRmZjV0hrVFpxX1ZCSVp3bklLRnNYem9SNjRJZG9vZHdRZVhwN1FMbTRUdHNTZENUMDZ2dGNSWXpDbVFyQ3NlQ3R0TU9TZGNRaHE1Yg?oc=5",
-      "category": "Nigeria",
-      "source": "The Guardian Nigeria",
-      "published_at": "2026-11-10T21:48:11+00:00",
-      "origin": "Google News site search",
-      "publisher": "The Guardian Nigeria",
-      "recency": "recent"
-    },
-    {
-      "title": "Court Discharges Mompha Of N6bn Money Laundering Allegation - LEADERSHIP Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbmc5eWF4OGNNV0g0UjRuUlplMktnZGdzOExyMWVGdmdZTmk3cmZGcFZnR04zLVBpQUxjNUVPVDYxSkZhRHlybGd0SjZ4d1FVZVp3WEVZcE14Zl93bDhxV1dJQnluR0NyOVBzUWxYQnhNTGdfa0kxeDQyd3luVWRzRHlJZzNKVzdMc1E?oc=5",
-      "category": "Nigeria",
-      "source": "Leadership",
-      "published_at": "2026-11-10T21:08:23+00:00",
-      "origin": "Google News site search",
-      "publisher": "Leadership",
-      "recency": "recent"
-    },
-    {
       "title": "APC Unveils 2027–2031 Manifesto, Targets 6% Growth, Half-Cut in Youth Unemployment - Politics Digest",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zdW96VlNpdHlTcVQ0eW03T3lSckYzcWJaTmR3d1FKdHZHQUlIaTMwWGRJM1ItRDNocG5XNDBwelJZQTBjdDI3ZW4ycTlhSWVubTE4V3pFSGNaaTRw?oc=5",
       "category": "Public Services",
@@ -1772,13 +1955,13 @@
       "recency": "recent"
     },
     {
-      "title": "Judge Me By My Record, Not Promises, Tinubu Tells Nigerians - LEADERSHIP Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdERacC1vbV96TjB1T3ZNOEtMNE9RUmZCRDg3OUdidUxyY211bmlON0pMbmFDV1JOYlpKbE5RaHY2SGNkVXdmR1oyckFpSlYtUU5TZXBNaUpIal9UR051VTJJRW1nbkV2Rkw5UGxlNDNKV0pxSmNJZ1hOVWlHS0FZemJrTUMya1k?oc=5",
+      "title": "NCDMB, NLNG launch $9m professorial chair endowment programme in six universities - Tribune Online",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzktbmFnNWtQZWFRN3NkRldEVnhhcTcxVDdOc1M3amFFZUY1NXhiMjR2Q2ZLX0NSZEJGdTN4SUVjRkdmTVZXLU5ZcU9fX0lTMncxckJyNUZCb2xXc3JWNGN1YWxPTDRfYk9RTlZkdWR5akNQVzUwcXh4bk82RDFvSGk0cm0tbXh2YWV0TDdCQ2phb0YxanFmU1FMaWFEUEtONzFHVmVXbGtRNHYx0gGyAUFVX3lxTE1EY0k2Z3U1alF2N2l1X3RLcGxsS2tBNWFPSzd6aHV1c0kwY3Nkb25qLXNvSmU0SWp3UzJjVmRlWktOQThCTFI4emR4NDNoQ0dXd2pPbEpXNndCUE5kNElCWThhMlRiMjhzSENTRFN4bHVGbVAwcklUOWxycjZDa0l1ZEJDQWNaWGJSZzdYeFJCMEppM24ySHlLVkI3V1NHMTd2UFk0Rjl5QmloVkhOOXFQMkE?oc=5",
       "category": "Nigeria",
-      "source": "Leadership",
-      "published_at": "2026-11-10T20:30:36+00:00",
+      "source": "Nigerian Tribune",
+      "published_at": "2026-11-10T20:25:09+00:00",
       "origin": "Google News site search",
-      "publisher": "Leadership",
+      "publisher": "Nigerian Tribune",
       "recency": "recent"
     },
     {
@@ -1792,8 +1975,8 @@
       "recency": "recent"
     },
     {
-      "title": "Taraba Police 'Launch Probe' Into Killing Of Miyetti Allah Chairman, Warn Against Reprisal Attacks - Sahara Reporters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMXR1bUY0aEV2NzBKYlpBbzk2d1VIYWVJbWZyTElieEUtOUhyNUZjeno2aVRMVnlqaEhiNDMwSTFWMjhRUGJFajc4TDlxbmdPSFFpU0tkcUF5a0xhUXNnaGc3eFFmZ1MxRmFIS3JybGJBSFgzdktZZXNJb2l5ZXdCVTBlNzNieGJEbmlFM3RvNl9FOHdCd1g0SDk0ZzlNTHVqdnlUTFliN0FUdkF3UkJ6ZEVDWXJLXzdDRDcwUTVtdFZEeWlI?oc=5",
+      "title": "‘This Is Not Patriotism. This Is Sabotage,’ US Defence Secretary Hegseth Fights Impeachment Push Over Iran War - Sahara Reporters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2p2elVBb2NnaTdUMEhpX1gxN0N1YUtEdVVrbktfeDJobUl3Qzc0OUxWdUpvSXlDdUsycFlZTkhsTlVtckxlcVdQT2wwMTFUQ283Y2tvamVoWVk1X3ZQV3BiQm9yUUlRNGtoUlVTbzVFcjE0STB1S0FuYndSNVlRTzJyZzEyMHhlbVFXYXA5VlZRclZDZFJlRzhfVmlpdmJHS0ZDZjFlTjlzUlRWNVNKdEt3R21JMk5XSC1vR0piaEFjUXc?oc=5",
       "category": "Nigeria",
       "source": "Sahara Reporters",
       "published_at": "2026-11-10T20:04:46+00:00",
@@ -1802,30 +1985,11 @@
       "recency": "recent"
     },
     {
-      "title": "Tinubu Rules Out Fuel Subsidy Return, Pledges Interest-Free Loans For Farmers - Independent Newspaper Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTzl6R1BNY0xNeGVrMXZNNjV3WHVjYkxNX1Axb2h1YTVScmlab2R1blZxUF9raFZSOE8wVFBBcEl4U1NlcE5vdFRhc3VFTmtHSkVCQ3RGeDdVUEdVZUdWZXlrbFhsbzRyUG1sOXVmNlBKMzJBaERWUnJkYXJoWkdnVm1YaHV0UnNxcEMzZ0h4WW03MTFxdnFuaUN0VzdXckxCSkE?oc=5",
-      "category": "Public Services",
-      "source": "Independent Newspaper Nigeria",
-      "published_at": "2026-11-10T19:51:00+00:00",
-      "origin": "Google News RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Two students win scholarships as Ondo school wins NILDS national quiz competition - Peoples Gazette Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQUJuaHB0NXNEMGtXeU0tTUNzSm51b19vV0dBem1CY08wZnB0QUhSR1c5NHNqcTR1UkJsaXg2Y1NGM0RkWFVTZjJZRVBsVDFKTGtFMDNMOG5fZElITV92MTQwdHoyNTBsWUd0cjllWHZqcU9XUEZvS01td2wydnpxUTBub0xpSE9xUDlIaUFPN1dxbVVndHlJdEM2S3JnaXJhbkhpTmdCUTE?oc=5",
-      "category": "Nigeria",
-      "source": "Peoples Gazette",
-      "published_at": "2026-11-10T19:10:06+00:00",
-      "origin": "Google News site search",
-      "publisher": "Peoples Gazette",
-      "recency": "recent"
-    },
-    {
-      "title": "NCC N4.67Billion Travel Spending: Commission Insider Says Published Figures Are Just The Tip Of The Iceberg - Sahara Reporters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFplclRQYkkyandmN2R2dFoyQ1hLRmFOeDFBdTJTRklSNmVndGxDRVRyb2kyeGc5WktabnNsT3hPN1k1dWg4R194TjZUc1lEczcwb09OdHFtRzNxc3g5UlZYRXBkMlR4cFM3UW9BLTFQOUhYZDZEd3Z1V1NtWEJjUnhqU1ZqV0dET0VjazF1OTJMX0FwNWExTXZ5Nl9KSC0wVWcya1ZYNnJUUUhZSlQwMnRLTk5SWDFHSFA4bkhJa05VS00?oc=5",
+      "title": "Taraba Police 'Launch Probe' Into Killing Of Miyetti Allah Chairman, Warn Against Reprisal Attacks - Sahara Reporters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMXR1bUY0aEV2NzBKYlpBbzk2d1VIYWVJbWZyTElieEUtOUhyNUZjeno2aVRMVnlqaEhiNDMwSTFWMjhRUGJFajc4TDlxbmdPSFFpU0tkcUF5a0xhUXNnaGc3eFFmZ1MxRmFIS3JybGJBSFgzdktZZXNJb2l5ZXdCVTBlNzNieGJEbmlFM3RvNl9FOHdCd1g0SDk0ZzlNTHVqdnlUTFliN0FUdkF3UkJ6ZEVDWXJLXzdDRDcwUTVtdFZEeWlI?oc=5",
       "category": "Nigeria",
       "source": "Sahara Reporters",
-      "published_at": "2026-11-10T19:04:48+00:00",
+      "published_at": "2026-11-10T20:04:46+00:00",
       "origin": "Google News site search",
       "publisher": "Sahara Reporters",
       "recency": "recent"
@@ -1879,6 +2043,16 @@
       "recency": "recent"
     },
     {
+      "title": "Senate Moves Against Dangerous Aircraft Delays Over VIP Movements - Independent Newspaper Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUxXX0VCT1Q3VC1DaWdPVGlzdVlaekJrRU16RS04ZUNXRE42anNDMnNySzVwOUhORDQzak8wRWtmbDdZT0pFYkNXNDBLT0xTVkY5ejhjTTFwd19RdmlndWk4dnpEZXVVX1FRRGV0cVNPT1FLeGNXZjd5Wm53MDhZRW1QcDhDY1VOMXFCODNiTWNTakE?oc=5",
+      "category": "Nigeria",
+      "source": "Daily Independent",
+      "published_at": "2026-11-10T17:07:39+00:00",
+      "origin": "Google News site search",
+      "publisher": "Daily Independent",
+      "recency": "recent"
+    },
+    {
       "title": "Equity Group turns to AI to predict staff exits and retain talent - TechCabal",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SVTBtZlJCWnZHcmJ5SzZXTXRrRVcxamhQb1ViMmR3RzFmVjhYWEQ4MzZQRHo5SHpMZmZPaGVmNExaWUJsTUJPSEl4LXhiQ0UxRnZIY2txWVlCbE5ObTVwdFVpeklOMGthTWUtSEt4V3hmc24yR3JhOQ?oc=5",
       "category": "Nigeria",
@@ -1899,13 +2073,13 @@
       "recency": "recent"
     },
     {
-      "title": "inDrive.Couriers Expands Digital Delivery Options for Nigerian Businesses - Techpoint Africa",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM0tvak96ZXZMN3JmUGJPQTkzZ0FqazJCMWRCVjNtVnJXdmZGLWdGYTU1dXVtRUdYMWowSjF1a01jRXJkUkRXU3BvT1BKenJQTjVZaWZkcmhhdElXM0s4WVlHa2dFVWhNYmdGRmZrdGFsWW1qUWJOZWVDaGxrSjhCU1h1d1JSVGpZLS1kaFFjYTdYNTNsekFwcjZkbHJCdnBWS1RsN2w4Qklxczd6dHUw?oc=5",
+      "title": "Leo StaEkeh Tells Women Leaders At TIWLC, Dubai: I Chose ‘Corporate Suicide’ Over Safe Path - Independent Newspaper Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObTc2TjRwa3RBRi00VFZrLUNOd09xRG5FTE8xUHRpSGNOdWN1UFFsZ2xmd3BNeXljZUx6aUsxZzVpUTUyS1RVcVFCV29yUk1CbkdvWmlUNFBRbHp3cWRVNTVxeFhzSlQyWEJCTWtjNnpuQ3BGMEJvTEZUM2ZEN2Z4VER6Z0FpaHhwVnZfV3VkTVNmRkRCSk9zOGpkSFdzYUhNd2VXVDhGOVVocHZYQ0ZzTA?oc=5",
       "category": "Nigeria",
-      "source": "Techpoint Africa",
-      "published_at": "2026-11-10T16:51:15+00:00",
+      "source": "Daily Independent",
+      "published_at": "2026-11-10T16:34:12+00:00",
       "origin": "Google News site search",
-      "publisher": "Techpoint Africa",
+      "publisher": "Daily Independent",
       "recency": "recent"
     },
     {
@@ -2002,15 +2176,6 @@
       "recency": "recent"
     },
     {
-      "title": "Elon Musk makes $47.8 billion in a day, almost as much as Africa's richest man Dangote is worth - Business Insider Africa",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUZpMDg5Zl94YkVrOWlYVE5nZ2NlN1FpcUNuOVNKMFJib1VCTWFmeHpwaGdFUEJ2WlhLVXd4emFaeGgwbFBldDRuaE1jQlpGc2Z4QlY4UHJOcG5tZ0NuQ2FQTF83UmxXYlBPZEkxWnFZV3lDdDhZTTBsdkZ2cTR4VEhhemlkX0ZVR0U4ckFhMk5XRUdoeE9LM2lSVjNfWWFOMFJHRHpoVHVsUWgtNDFia19wdVZXeHFYdEtJVDlWMzVpY0pzTC15Sm9oeGNxVVhLSEE?oc=5",
-      "category": "International",
-      "source": "Business Insider Africa",
-      "published_at": "2026-11-10T12:15:59+00:00",
-      "origin": "Google News RSS",
-      "recency": "recent"
-    },
-    {
       "title": "Cascador, youth ministry, pick eight Nigerian startups for $29,000 funding - TechCabal",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BZ1JFYjNYUHRwVlFraTlvQ2psT1BoczYyMmZKb1VyMXJRYm9WQzhmLVp5azljOTItZGJQOEd0SXBKd2d4Q09SQTl3OTlPOVlVT2VBZEVHTU1Vci1PdXdxZ3hHVUNWb2E5VmFVM2h1aVJVV2tLdUVQNA?oc=5",
       "category": "Nigeria",
@@ -2048,16 +2213,6 @@
       "recency": "recent"
     },
     {
-      "title": "Dangote Refinery, Fertiliser Projects To Employ 90,000 In Lagos By 2027 - TVC News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaTRZTzJpMTB6WjBqM0ctZDdFOWdGeGNtYks5N05pcUlrREZHLXZOWFlEbkdaa0dCcm9tRjlQci1LSWRWZEZvZldqc2FzemJlUEI3SEJ5b3VUeDBjR1RvYjNXU0NtcGxfMG9fQWdJVUMxdC0wdFJDLUZVWnBnaXltN3U2Z0d1ZzJNalVHY3UzNTk4bkRmOHBpSw?oc=5",
-      "category": "Nigeria",
-      "source": "TVC News",
-      "published_at": "2026-11-10T11:00:00+00:00",
-      "origin": "Google News site search",
-      "publisher": "TVC News",
-      "recency": "recent"
-    },
-    {
       "title": "Tinubu’s 2027 re-election plan targets 200,000 homes, 10,000MW of Power - Legit News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnZjOFVpYnFobm95YWZObHFvMmw3ZjlQOXNJSVhLMGt3anJFSFk5aHZaZkN1TnFwYjlram8wa3hLQjZGT3dIeV9ZQ3NfWndMR056WGtlTXBtSVk5R19scC1pUjV2OUdiWmtIX3k3Q21jVDRyTnl0eHV4WUxiMk43S2MzNGVyUFhRdUtnRTM4Y0l0Qnp5UzhEaUhuMXYtV0x1U3hnQWl3MHZkMWpTWF9NdGNLODdXYlc0X1F5Yw?oc=5",
       "category": "Public Services",
@@ -2074,6 +2229,16 @@
       "published_at": "2026-11-10T08:47:47+00:00",
       "origin": "Google News site search",
       "publisher": "BusinessDay",
+      "recency": "recent"
+    },
+    {
+      "title": "FG plans assessment tests for foreign graduates before NYSC mobilisation - Peoples Gazette Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2pHYkZqVU1FWkpZb3hUNXd2SHVva2d6Z0FFQjdsUGdhc2Ztb05sa2h2UWtkRE51ZEptTG43eU5tdWVlUk9NUHFoRG1KeGpzUldhSUxmOXgzVUtDM0o2OU5RNXUzWTRtejJaUWJMR2cyYW41Nk5zaW9oUnNSci1zX0VMenpOaTZiRVRNNVo4cGJoTGs1c240S0JlOFY?oc=5",
+      "category": "Nigeria",
+      "source": "Peoples Gazette",
+      "published_at": "2026-11-10T08:30:59+00:00",
+      "origin": "Google News site search",
+      "publisher": "Peoples Gazette",
       "recency": "recent"
     },
     {
@@ -2105,45 +2270,6 @@
       "recency": "recent"
     },
     {
-      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MQU1pQVB6N0tnOGRmNUpJODI1X0pGcFZxZm10RUt4UmVVcmZteWlpbzRCSHM0UjFBVG05eEJqdnJLQUxnQlNxMVpRY19peUNlUzNpZG5CODNtRFUxNFE?oc=5",
-      "category": "International",
-      "source": "BBC",
-      "published_at": "2026-11-10T06:01:44+00:00",
-      "origin": "Google News RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "Continental Reinsurance Strengthens Proposition Ahead BSE Listing - THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDVTYWZTbDJpTE1CV1AtdTJVcllBeUhEd001V0pTU0NZR3lVcG4xM3lTVFJQN0ptMEFnUmhiVGxuOTVpelFUUjFhNDhwWkk5dFBEQVBYSUIxc3BnenFKNEtxT0R2aXJSYWdUcGZwWnU0Y090SDRPRDZoWGljd1otTkY5ZjBMRUVVb0lYQWZvWEQ0QXpfX3RrakRlVFY1YUlubWxLRURpZ0E?oc=5",
-      "category": "Nigeria",
-      "source": "THISDAY",
-      "published_at": "2026-11-10T04:39:04+00:00",
-      "origin": "Google News site search",
-      "publisher": "THISDAY",
-      "recency": "recent"
-    },
-    {
-      "title": "Steel Devt: FG Moves To Regulate Scrap Metal Value Chain, Protect National Infrastructure - THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdXdTZldBSXpkbzJWM1ZjbndnZkNUNS1FLXJjUGZQNXd3TWRtVFFQQlgyR2RBbmVjc1VqSGRoY0xCdGxBSDlpdHVOTWN3OXdZaXdSVnFnaGZ0MVFaNG9QTDUySEg0V0FyNWM1SzM3MUhucXlLV1g1Ri01dEsxLXVrRzNJb1c2X0VVdlpoYy1lWmo5MnJRMFdjQUozdWFRWldWWk53ckpoemR2Sk5Na3hkejdXZ3pnWXQ0ckU2dVRhcWhscFo5R0E?oc=5",
-      "category": "Nigeria",
-      "source": "THISDAY",
-      "published_at": "2026-11-10T04:22:35+00:00",
-      "origin": "Google News site search",
-      "publisher": "THISDAY",
-      "recency": "recent"
-    },
-    {
-      "title": "INVESTIGATION: Police abandon surveillance tech after spending billions - Business News Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSkRtdDJyYVd4Q3NCaHBXMHIzYThCTWlPZUl6YTFkZHEtLUgzSlZ0SlVuMVNWZURyVURtRUc3cmpkOUZiRUh6RnN0RFJRSkFzUC1FOTRnQzI5RnY4dUhuRVlFaGdDa1FDeHg2M3NqMEk5cnVDT0V4Qm55bHluWGJfeGtKTlFaMFVOcE0tTkk0Mk1PWV90YU5QWWlhNnp1VHZLV3BoZk1xZlZyNElxU0NfbUZpV0xJRUk?oc=5",
-      "category": "Nigeria",
-      "source": "BusinessDay",
-      "published_at": "2026-11-10T03:12:59+00:00",
-      "origin": "Google News site search",
-      "publisher": "BusinessDay",
-      "recency": "recent"
-    },
-    {
       "title": "African leaders meet over use of nuclear power on continent - Peoples Gazette Nigeria",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZS13ZUdDelVuckg3NHN1TUFVbTFjemRvc3YydFZ4UEJCNEpCOE1kWTlrVV93Uk5HYjhvWDZEal9RS0JNcHhBdGFyMy04bWdKeTJ6ZVRlWUJ4R1UxVUdtTjlFU0JPcWRwZHVOVWNpbW5aQk9PRUtROWYtN2tDbElueUM0UFRHTnRmSm9R?oc=5",
       "category": "Nigeria",
@@ -2151,16 +2277,6 @@
       "published_at": "2026-11-10T03:00:06+00:00",
       "origin": "Google News site search",
       "publisher": "Peoples Gazette",
-      "recency": "recent"
-    },
-    {
-      "title": "Abia NUJ Press Week: INEC Cautions Media Against Publishing Fake Election Results - Independent Newspaper Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSm1TaU1INDU2TWRvbndhZmMxRU1EUDBtN3RFS3lFcWN5SS02X1NLRTB1OVk4cVNXcl9Mb19kU0NSTkFQZmRuYjNuT1FQMFZ3SXlybzVyR0M3U0M4Z1Z0ci0wN0NZMDJUSDNCbXBxS19vUFVZZGx5OTlldXlaZ29XTWtJbWpPQ1YyTy15dFNJMUNBSmtiWFRCdDRaNGlCMldrbDQ0NzRBNA?oc=5",
-      "category": "Nigeria",
-      "source": "Daily Independent",
-      "published_at": "2026-11-10T02:58:14+00:00",
-      "origin": "Google News site search",
-      "publisher": "Daily Independent",
       "recency": "recent"
     },
     {
@@ -2174,6 +2290,16 @@
       "recency": "recent"
     },
     {
+      "title": "Gospel singer Toluwanisings laid to rest at Ibadan residence - Peoples Gazette Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblpkLUU0RlBqRk1BNndBbGdsR0RSRkdfQzk4bVVfWDR2bFdlX2lHOEJKMTVvSEM5S3RtU19aSVhhU2MwRTVFZ2x1YjJFeUVwSGNaOXdIcVNJQXBIRUZVb1FucnlMN0t1OXdDajNUUy1pS3ctTnBJVlJlLTlaOVpORUQ1UW9DdnhzR3VJRQ?oc=5",
+      "category": "Nigeria",
+      "source": "Peoples Gazette",
+      "published_at": "2026-11-09T23:26:35+00:00",
+      "origin": "Google News site search",
+      "publisher": "Peoples Gazette",
+      "recency": "recent"
+    },
+    {
       "title": "Dangote Refinery Hosts Global Shipping Experts in First-Ever Nigerian Pool Meeting - nta.ng",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjJ0eUpWVkpYTUJHdFdfdHdpZWx3NC1MOXN1NDlkd3RkaTI0R0daMWxVWkxac0pOOU80UjhIMFY2aUlkWDVubjQ5SlNhSENFSkdkY0ExR1ZVUHhnbWxtcVFIMFg3WHpTOUN4Qk5jRTVMZlhxbDlqUVpOeG5pNmg4M1RGTlhUb2IyQThJY0VjWnNfaVo5MDkyYWhCUHlWYVUtQzNMb0hkRVo5MFlLc29DM0hWY0w?oc=5",
       "category": "Nigeria",
@@ -2184,82 +2310,13 @@
       "recency": "recent"
     },
     {
-      "title": "Joshua Wants Dubois Rematch After Fury Fight - Complete Sports",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObDRFZ081M2lqaDYweXZ4Z1pLZUtZY0lGSkRGMGRCNVJ5cTF3TXdRaVpBcHJsNUEwLWUyWEhhVmJNRzI3dm5CVjJkMVJmRGZtYWRxQVhXbklPZHBFaDFCYmtIR24tTzNOY1htcE9tVzdHWG1OWS1jX0w3X3lBTEdndF9n?oc=5",
+      "title": "Trump Administration Awards $40m Contracts To Company Backed By Fund Linked To President Trump’s Sons - Sahara Reporters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcm9kUnJYT3NXX3dRSW04TFNiZUhndjN6cm5QWmxvS3RLUVhHd0w5R0VJcDIycElKYWVlaVNMdW1JaUJtQ0JRTFRIaHlvc1hJdjRDMkxyN0JmeUM3bFlwWm5wc21SY0dUR0xlNmdJakNVeDRUN2JCNHBPazA2RXhaQ3Y2M1B5MHROa3kzYUMwS21PR052dG1kMC1ZN1htamVxejVpMlpaaDdRODZTYWJFWmtQRlh4QkFsZzJDTXpLV0dOdw?oc=5",
       "category": "Nigeria",
-      "source": "Complete Sports",
-      "published_at": "2026-11-09T19:51:04+00:00",
+      "source": "Sahara Reporters",
+      "published_at": "2026-11-09T17:13:51+00:00",
       "origin": "Google News site search",
-      "publisher": "Complete Sports",
-      "recency": "recent"
-    },
-    {
-      "title": "Euromatch NPFL:Ikorodu City, Inter Lagos Share Spoils In Thrilling Derby - Complete Sports",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd2swNjhDMFJwVFZlcjJoQmgwM1Nqd255OElnd3J2M2pGY0NreEJLVzN0cGlSdk5zOVNoc0VRd0ktdjhjNDRIRFVfcDBzalo5bTlYd253b1ZWcDVEamFPdEtISS1GU2hWYnJzS0l6ZXh5YjZ6U2VUSHNaVWZrcnZnN3pLX1RmTURJLTNKeFVyWFBGeVZqN29ZcEQzNG9Xbkd0V0RiaA?oc=5",
-      "category": "Nigeria",
-      "source": "Complete Sports",
-      "published_at": "2026-11-09T18:31:15+00:00",
-      "origin": "Google News site search",
-      "publisher": "Complete Sports",
-      "recency": "recent"
-    },
-    {
-      "title": "COP31 opens as leaders call for faster action on climate change - Tribune Online",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xM09NS2VsUEx1cXBBdEQyakNFVzNsMTFPbF9FX3lVMURMUUdlbjdvdXBOaktWcjJTYVlubDgwbi1vR0RrckxwSTBpdzVMRmZlUmJxMWN4UTkzdlZwdEs5WWV4eWotd0t5T25ndk1fdHrSAXZBVV95cUxQTlFLQnk5U2ZKdzJOXzVORDBfLXlhY2NZQW03MXZDaC1ZOEYyemk1R3NSY1piU1BQbDRZVkZvY0tWbUxyOVVwV3dvLUliclhKZ1phUXVNdS1vNVo2aGsxbDRBcmFQNk8td0dDY21oYVY0aWNlbDh3?oc=5",
-      "category": "Nigeria",
-      "source": "Nigerian Tribune",
-      "published_at": "2026-11-09T15:34:48+00:00",
-      "origin": "Google News site search",
-      "publisher": "Nigerian Tribune",
-      "recency": "recent"
-    },
-    {
-      "title": "INEC Strengthens BVAS, Result Systems To Prevent 2027 Election Fraud - The Whistler Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY09BNjI2QlRYdXk1WWtlclJKczFaZGpZSnpveV9pMHhoek8xaXBReFZiWDY4VWFjZW1pclQwRmZiYnJFZ1Y5OEtiandGZWNpak8xbEc3SklLSUtleldDR3JsaXNhTnlGZFV3ZEdDcFplT3Ztd2F6c0FMc3F1TXcyanhLREFNZl83QTNLaFgxRG83SXA0Z3c?oc=5",
-      "category": "Politics",
-      "source": "The Whistler Newspaper",
-      "published_at": "2026-11-09T15:30:42+00:00",
-      "origin": "Google News RSS",
-      "recency": "recent"
-    },
-    {
-      "title": "PSC approves posting of new CP to Niger - Tribune Online",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Ra0FHYnZJUGlJVGtZM2EtQ2FBZk94MzFITDhIb24zaTNPSDg1ekxKYmV6dEkwYnhTUmF1SHFDVlNyRjNfY2d4ZnpkYW14WkxWT05hYnZSTmd5a1JQaHp0WWFramg3d09JWlAwSWNWV0ZBWmN2MDk00gHQAkFVX3lxTE81b01fQWcwMUhZZFJDZGtuQldlWGptZEMzeG5DdnNqMmtma2dkdW1qcktlLURaVTJNU3I5Q0dUU2ZkU1VSZHZQM1ZxX1lrcmxNVXVOdVRYNWZUd1FfVlZTX3JZakVLbTR4TTlGQ2RDdmFhbllMdk9RQWc0RUMxWjJmVjU3WnRhNFNScmlQYW1tSXlTT2doeWVqdXNrZkh2dEZrdG5UOUcwMTNCd0o5RTFWWjF1enA1bU1EMHBxQUtfd1Y3V1J5N2xrQmltYmVMSDdqNkJiRWVBZEg2bjBRR1pXc3NOLU1PbGEwYjlkdE1aTEluSm54X1NzQlBJUWEtdkphUkU1a1h5eU0zLWxaUF9Fa21oUG56aGxEYzBIaVVwamVMS2lPQ0NWM2RTSF9LdnMtT0EyS2JqT0NPYzhlUHA0Ni11cWtvM2FrMzI5SVN4Zw?oc=5",
-      "category": "Nigeria",
-      "source": "Nigerian Tribune",
-      "published_at": "2026-11-09T15:16:54+00:00",
-      "origin": "Google News site search",
-      "publisher": "Nigerian Tribune",
-      "recency": "recent"
-    },
-    {
-      "title": "Ademola Lookman: Unused sub at Atlético, but Nigeria still need him - Soccernet.ng",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOXVWUzM5NDl3NkptMFVlNlc1LU41QzdQSHF3WU1Fb2JFWENpNHptdWxQd3A0RjFXc1k5QjBrblJkZmNSbm10UHY1ajZVM0ZUU1lJSkg5Q2RITmpVNDdKejQ1aEVIWnBrbVRaVkd5bXV2VzM3d0Y1aUJMU0ZwdW9kOTZlZHdIYmRWS1JRU0ZRZXRwTFl5dUNYRWRRUDlLVmtBM2Zn?oc=5",
-      "category": "Nigeria",
-      "source": "Soccernet Nigeria",
-      "published_at": "2026-11-09T15:00:00+00:00",
-      "origin": "Google News site search",
-      "publisher": "Soccernet Nigeria",
-      "recency": "recent"
-    },
-    {
-      "title": "Yoco taps $100 million credit facility to scale merchant cash advances - TechCabal",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45N1Bjb18zSnZRdzZTUURrNzZEYThtcmZ0bF9CQUVwS0tObUdjYXl5UUpXMHZjRUlSYXJqbGxsaGhlTVkzYlVBX0x3NWc2eXZFeGhUc1l5TmY3SmhFc0VkMUYxSHVZaXZIcjJhWG42RUxEQ1ZDWEtKcA?oc=5",
-      "category": "Nigeria",
-      "source": "TechCabal",
-      "published_at": "2026-11-09T14:37:54+00:00",
-      "origin": "Google News site search",
-      "publisher": "TechCabal",
-      "recency": "recent"
-    },
-    {
-      "title": "How Milsat built Nigeria’s digital address system - TechCabal",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfclFKRHg1bDFZY2JPUnNWOGQwZ09nMG9mZjZ2clFoWWh3eVM2cnZ1Y2VHeDg3MURoM2hoVTltQkpKUUNfY1c2NmVQcDVQajBONFViZ0d6Y3hFSmJkUVZyQUZldTd4MjgxV3owZFFXa2wxLUFRRktyT0JmaFk?oc=5",
-      "category": "Nigeria",
-      "source": "TechCabal",
-      "published_at": "2026-11-09T14:25:43+00:00",
-      "origin": "Google News site search",
-      "publisher": "TechCabal",
+      "publisher": "Sahara Reporters",
       "recency": "recent"
     },
     {
@@ -2269,116 +2326,34 @@
       "source": "Nairametrics",
       "published_at": "2026-11-09T14:20:25+00:00",
       "origin": "Google News RSS",
-      "recency": "recent"
+      "recency": "archive"
     },
     {
-      "title": "MTN Nigeria names former 9mobile CEO and ex-Etisalat executive among five new directors - Techpoint Africa",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtb3hFZ09UQmN3TU0tMEl6THVQNm0xLTM5MWtPMXZVX1RBbmN4NzZKenRXV2V5SEFWMDVTRkpTejdWUm9Rd0J5U1RDNnp3M3oySTdaOGx3cG9wbjFMaXpiazZPZjZqZFk?oc=5",
-      "category": "Nigeria",
-      "source": "Techpoint Africa",
-      "published_at": "2026-11-09T13:57:01+00:00",
-      "origin": "Google News site search",
-      "publisher": "Techpoint Africa",
-      "recency": "recent"
-    },
-    {
-      "title": "2027: Osun workers threaten to withhold votes from Tinubu over LG funds - Tribune Online",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMDJzblp4Y1MyRGJWWUZlUnNONEk0UHVIMmxHc0RkWWMzRDlmM1BHRzIwOWthNjNYSWxDbHhUUWNYQmgzQ1NIb055ekRaMGRDVHBZUkJSYTRXNDJ3dXF0VlRjWXRhLWdwRFg0Y3BhRHVSNTI4aUJ2OENGdmhNbW4tRWtfWUlJVGV2UHpKaXFRZnU2R0R0M3FDd3Y5R2w2RVhj?oc=5",
-      "category": "Nigeria",
-      "source": "Nigerian Tribune",
-      "published_at": "2026-11-09T13:10:44+00:00",
-      "origin": "Google News site search",
-      "publisher": "Nigerian Tribune",
-      "recency": "recent"
-    },
-    {
-      "title": "FG restores power supply to six states after vandalism - Tribune Online",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOGlzUDYwWFJhTjY1TEtwUkVXd1FkM0xNV3hUcWh0OGJzOEpBUWYzQXNyOTVzeWpWTGFGV01ROUhYZnY3U191ZHVDaTVvRm8tdGhhbFh2UE02N19qLWZQV1FkcC1HcVg0X082LTZRZmN6eHREc0tfaWp1ZHJiWE1zYm5Id1JyVXJKRFZN0gGQAUFVX3lxTE82THVPbUczZ2puSDZwRHUxdWludE9ITUxmN0QyXzVzczN4V1JUemlXRXpDTVFldjBVbG5NeWNnLWlQblRxY3hKUXZ5NFFGN1daaTdWRzhHbm03RGt1cnlNN3ZfcmhuV1NsSzZzMzRLQVRoWUZvS0owTnJQZFRZU2Q0MWNERGNTRXhiVUszN0pCVg?oc=5",
-      "category": "Nigeria",
-      "source": "Nigerian Tribune",
-      "published_at": "2026-11-09T12:54:50+00:00",
-      "origin": "Google News site search",
-      "publisher": "Nigerian Tribune",
-      "recency": "recent"
-    },
-    {
-      "title": "Super Eagles news: Tanzania’s early Uyo arrival and what it signals - Soccernet.ng",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2haaHhzbVVSX3VQWTcwd20tcUZvYmNnbmJxZVNhaHZLcXE1bTlsbVJuSVhpX0RGalowZzF3dUs0c0x2YkJhV2FQcTRpNXZ2ZG9UUHdPSFZPaWEySDFqb2x6bHZBbjI1NkFaSVRhOHluWk5qWnFkWUR0aE1uaWcwVldfZDNfc3BNSHAxQ29jLVc?oc=5",
-      "category": "Nigeria",
-      "source": "Soccernet Nigeria",
-      "published_at": "2026-11-09T10:30:00+00:00",
-      "origin": "Google News site search",
-      "publisher": "Soccernet Nigeria",
-      "recency": "recent"
-    },
-    {
-      "title": "Dangote refinery IPO misses 10m investors target despite N6.4tn demand - Business News Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRTczMmRKazdWTzdySkk1OGFpd2pmMWZDU2pPZFRwVU1kUDBOZFhoLWFidUZ3STR1NURwN0RKcWlrNXhLU29MVTFfaHlJNDhhV2EyOWpuMVRCYlFIM00xTG9zcXFuME5keG5MSlplWnprcVhjZkJLaEVwZDh5d05aa09BdW4zaDhUWXlFT2NWY0g4RlhYWk9tY0t3M0MzVkVGeDJndWh2dHNLQQ?oc=5",
-      "category": "Nigeria",
-      "source": "BusinessDay",
-      "published_at": "2026-11-09T08:09:42+00:00",
-      "origin": "Google News site search",
-      "publisher": "BusinessDay",
-      "recency": "recent"
-    },
-    {
-      "title": "2027 elections: What INEC chairman told tribunal members, Appeal Court judges - Blueprint Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU25jdU5yTTdGYnNkeDQ4eDhINEFVZ0dtU0VTblVUSFNVSldwdzYtNFAwSGtjYUxGMllxU0U4d1VXVHo0Q1N1Q2hIMXpBWlZPZlBGNmRUSEltZzNIckdIaGFuSHpTcGdJdVFGaUg0QUdBbVBMTTJxRDY4Y0NjWmhWdFFYSWNMU0ZPUDFZR19VOGZvZ3Bob2NneWhSel9CZw?oc=5",
-      "category": "Politics",
-      "source": "Blueprint Newspapers",
-      "published_at": "2026-11-09T08:00:00+00:00",
+      "title": "President Tinubu and the Courage of Unpopular Decisions - The News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeUtjZzh2OVZVNGZudmU5dkxXbWg5djl2bno2VWctaGZvVUJOdEVCRVNFS09qZ05IREdQZzNVMW1xTHB0X2tpM19ON3ZHam1ucEg0Y0VaWVVacUFfTXVORm05S2lXVE5IV3lXa0F2QXNha0NXMnRDc1k5bEJ6emFYa1NmT29tUFNWTDh0S0V3ZjVXMlZvTDhZbWNwdmdjdw?oc=5",
+      "category": "Economy",
+      "source": "The News",
+      "published_at": "2026-11-08T03:57:53+00:00",
       "origin": "Google News RSS",
-      "recency": "recent"
+      "recency": "archive"
     },
     {
-      "title": "Alebiosu Faces Lengthy Spell On Sidelines With Injury - Complete Sports",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc0JueUxnOU1naTViTWlmS3FrWXJDM202d1drdmxTdVd0bExUMW1wUFNOYkIzOWN2aDJMRlN2NFpIZkR3Wkh4U3FrWVB1X01CbF8tUldOVWlDSEhydmhzNHFZdk5kZWZWN0VXeTBObm16eVQzQkFsZDBmaFkzMEZYUE1CMUQ5bklNenFlejln?oc=5",
-      "category": "Nigeria",
-      "source": "Complete Sports",
-      "published_at": "2026-11-09T07:28:23+00:00",
-      "origin": "Google News site search",
-      "publisher": "Complete Sports",
-      "recency": "recent"
+      "title": "Random Economic Thoughts on Nigeria:The Good, the Bad and the Ugly from 2015 to date - Law and Society Magazine.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN2NmS3JLdjVZQ1dnbFNKTGNyTEgyUDg3aWkxa3lVa3Y2eHVsY0JNOTlIZ3pfZWhBdktiSGNXSVZ4ZERSNlZLTW1FdDZiUlVraWRlR3dUWE5tQmowd1k0UWFtOFI1TEdzX3gzNXg2bnRHR2RYNW1UQ0wwX1o4bHlGTmdDTXB2Q0EtSE51MFRRS2JnbGJmM1hkTmxVQlptM283Q3NPNWVSVHQxemk1NjF2UjFKbFZUSGs0?oc=5",
+      "category": "Economy",
+      "source": "Law and Society Magazine.",
+      "published_at": "2026-11-08T00:03:07+00:00",
+      "origin": "Google News RSS",
+      "recency": "archive"
     },
     {
-      "title": "NPFL: Ikorodu City host Inter Lagos with 11 points between them - Soccernet.ng",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRmt2V1otZ2htQ1NIb0xDQm5MVGQ1djFNUGdNX2JVNWd5bWlmYTZjVXczNXRRMEprZGVCSlk0eTBnSkpLdU5nOXNkamhtaGxMYzJPZTFGYTFkdnB0RnprRktEUU5ZbEZGWG5uVzVVRTltS25BQzhmSzJtaG5mTThxNlFOWTVkeUQxZkhKTHExVQ?oc=5",
-      "category": "Nigeria",
-      "source": "Soccernet Nigeria",
-      "published_at": "2026-11-09T06:45:00+00:00",
-      "origin": "Google News site search",
-      "publisher": "Soccernet Nigeria",
-      "recency": "recent"
-    },
-    {
-      "title": "Tolu Arokodare: 12 goals in 16 Ajax games make a No. 9 case - Soccernet.ng",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWl9US0RTTXFTRXRqeG1qbFlyQzdETXBGc0JPVkpvZ1A1THZTYXZhWFA1VE5lWHhLamR5VXZwYzhxOXpkeEtjdF9jX1dFZUZ6LS12M3YxTC0yZnlvUFo0dHc4a0hqdWRVdmtGVGpPVkR1WjJUSW5pTmxZMWhOaXZuWkpfaTU4YnFQbjhyZnAzQzVnSU12M0liZTl6aw?oc=5",
-      "category": "Nigeria",
-      "source": "Soccernet Nigeria",
-      "published_at": "2026-11-09T06:00:00+00:00",
-      "origin": "Google News site search",
-      "publisher": "Soccernet Nigeria",
-      "recency": "recent"
-    },
-    {
-      "title": "The Gathering Inferno: When Politics Turns To Violence - Independent Newspaper Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSVVadFBMaDRMcG9IU1ZXS2RFXzU4Q2NkeEZqb3hUYWVSN3F6V25qa1dRU2FLRWoxM3dTVmVKNDZEY1BvQi0yazdNa1JOdHVTUGxPNjdPUjJNd1dqejFVbnlRWGxhWHhlcGFhMlVFamVuMGVqUmVPMnM3XzlDaUFMNUdwUQ?oc=5",
-      "category": "Nigeria",
-      "source": "Daily Independent",
-      "published_at": "2026-11-09T04:47:08+00:00",
-      "origin": "Google News site search",
-      "publisher": "Daily Independent",
-      "recency": "recent"
-    },
-    {
-      "title": "Kebbi governor inaugurates campaign council, charges members to deliver votes - The Nation Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQjJ0aDRtSkh0TUxYTHNEZ09mMDQ5bHNYWGNsMzRvX2VDamVtSHJzVGNVTTE5YVNrVjlKSEpTeUNPbm1qb2l4dXBLZVF0Qmhja25pVGxmVlU1MEJ3Vk41UkY2QWJFTUlJbkE4OURrYk10eGNmQjVhUkNnQ29aWWZuODNCaHY5SURIek9BVFpLX3Y3NFNrM21lNVFPQ3ZzWml0eldDU1ptd3JaYm_SAbABQVVfeXFMT0YxNkstRF80VjhyRFhLWGlaSm5ZcTVoNTlycXAwNkxaUHZ6VmRBRmN0SGFYMTI4emtmSUQ0eXpBVkk3RVlHZzEzelVUN3hpMzd0OWtIZ1lEQ29JRUFUUnJPSTFhREZmSjlpbEh1bk1VWUxXS08wcGVvSVp3VUU0dHFJMnl4Mi10N2hxM21uTWhCU25CME8xLUZpVzFXd2NieC1KXzlJNHhZaXgxMXJKUEs?oc=5",
-      "category": "Nigeria",
-      "source": "The Nation",
-      "published_at": "2026-11-09T02:06:48+00:00",
-      "origin": "Google News site search",
-      "publisher": "The Nation",
-      "recency": "recent"
+      "title": "New minimum wage must reflect inflation, exchange rate – Ajaero insists - Business News Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEF1czlDRU9hMi1QOXQ1OXllT095bmx5bXhfVDBTRXhHWEw2OGIyeXpTcGFEUEl2NEl5bEE5UjB3eHhzS0dnZ3JpY3A3Nkh3eVg0ZWtFMXlnSlR4Ym0tUUlwYlRnTUhBYW9IMVhaLVh6REVNYlRhOFllZUpVOHdSRUU0N0U5NGtIWXhPc05uMTI4RXBVYmkwM1lBMV9PMUhBT2cwZDcwYUg?oc=5",
+      "category": "Economy",
+      "source": "Business News Nigeria",
+      "published_at": "2026-11-06T15:43:10+00:00",
+      "origin": "Google News RSS",
+      "recency": "archive"
     },
     {
       "title": "How Nollywood, Afrobeats can earn Nigeria billions –Okonoko - Galaxy Television",
@@ -2408,6 +2383,15 @@
       "recency": "archive"
     },
     {
+      "title": "Nigeria Development Update (NDU) - World Bank Group",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWk01UGRCSE1uUDc1dV9RS3YyanhEUEpJUkYtc3B0eUFfNWxSeTlYa0tMcS02ZUVzYWFZN3c4M3U4R1hVT01aS01iZ01GaGxrTUNUb19qMEg1ODlsUWtpOFA1TUZPTV9IUDU5Z3dDNERPWFJRY0xCajh1cWtKekp0YlphYjBBb0Z5QnZlckhmdlA?oc=5",
+      "category": "Economy",
+      "source": "World Bank Group",
+      "published_at": "2026-10-08T07:00:00+00:00",
+      "origin": "Google News RSS",
+      "recency": "archive"
+    },
+    {
       "title": "How Afrobeats’ maturity is driving diversification across entertainment - The Guardian Nigeria News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ1hEMEluY2c4SnVON3pyekh2MmEwSTF0SFlwZ1ZKOTM1ZHp6ZWdzdGpEY3Y4NTNQUG9URnZOT3RZSFZaT2hpN0lzc3hxOWpvVzdRbGwwUGtweTJRdlU5MDJleFBLZnhtM0hrcjVXZThkTUM4RXktZlpnRGlPZE9IZTVkck5zTzM1Qk5YOUFiMGFhRThWVTNFNEppQzNmSzdNTjN4dQ?oc=5",
       "category": "Entertainment",
@@ -2426,11 +2410,11 @@
       "recency": "archive"
     },
     {
-      "title": "Davido Named 2026 Black Music and Entertainment Walk of Fame Inductee - Nollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYkZfOC1KWVY5SXNvUGFSZWRGVWc4aGZna3Zic0JvbE9ZOGZIWjNIWjJLTkM1WWM3YXlMUUhMSFpsRm92VXBWdTFMT2pOZEl6R052RWhraHNnQUNHUVlSMzBxRTdMZjllTmdQODFmNVhWWUVfZGNCcHFxTHg1YV9xU1lMMEdSUy05Y2kwSHhsZkRIdGlyRTRvSzJhVGFqck1ONmpXQU9EMUpkdw?oc=5",
+      "title": "Afrobeats’ uneasy relationship with queerness at home in Nigeria - Erasing 76 Crimes",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR0xiQkhETTU0TTJ4NmVXUWhFMkxYbDRHUDFBZ2dLTVpXdjFGT2Z5eFYtWEFoREJUVzQwX3lYUXFZR2c2OWplQVY5MjR6MFZNUE02cDZXcVZnT1huZ2lJdVRpQUowcGdFX0tYdzB5WVVnR2dvMzVQc3hIalNvVjFFM1R6eWZkaHJ6N0JGSA?oc=5",
       "category": "Entertainment",
-      "source": "Nollywood Reporter",
-      "published_at": "2026-05-08T07:00:00+00:00",
+      "source": "Erasing 76 Crimes",
+      "published_at": "2026-05-01T07:00:00+00:00",
       "origin": "Google News RSS",
       "recency": "archive"
     },
